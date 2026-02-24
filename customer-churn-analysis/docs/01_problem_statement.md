@@ -8,13 +8,6 @@ The primary objective of this analysis is to **identify key drivers of customer 
 
 <Br/>
 
-## Business Objectives
-- Identify customer segments with high churn risk
-- Understand how services, contracts, and billing patterns influence churn
-- Quantify churn rates across demographic and behavioral dimensions
-- Support decision-making for targeted retention programs
-
-<br/>
 
 ## Problems We Will Solve
 
@@ -25,7 +18,7 @@ The primary objective of this analysis is to **identify key drivers of customer 
 2. How does churn vary by **customer tenure** (new vs long-term customers)?
 3. What percentage of **total revenue is at risk due to churn**?
 4. How does churn trend differ across **monthly vs yearly contracts**?
-5. Which customer segments contribute **most to churn volume**?
+5. Which customer segments (based on tenure and contract) contribute **most to churn volume**?
 
 <br/>
 
