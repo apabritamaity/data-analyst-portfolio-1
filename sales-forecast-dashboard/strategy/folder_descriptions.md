@@ -531,10 +531,10 @@ sales-forecast-dashboard/
 │   ├── evaluate.py
 │   ├── utils.py
 │
-├── models/
-│   ├── sales_model.pkl
 │
 ├── outputs/
+|   ├── models/
+│       ├── sales_model.pkl
 │   ├── predictions/
 │   ├── reports/
 │   ├── figures/
