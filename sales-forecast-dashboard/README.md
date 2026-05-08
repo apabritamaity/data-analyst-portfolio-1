@@ -202,16 +202,30 @@ sales-forecast-dashboard/
 │   ├── processed/
 │
 ├── notebooks/
+│   ├── 01_data_understanding.ipynb
+│   ├── 02_data_cleaning.ipynb
+│   ├── 03_eda.ipynb
+│   ├── 04_feature_engineering.ipynb
+│   ├── 05_model_training.ipynb
+│   ├── 06_model_evaluation.ipynb
 │
 ├── src/
+│   ├── preprocessing.py
+│   ├── feature_engineering.py
+│   ├── train_model.py
+│   ├── predict.py
+│   ├── evaluate.py
+│   ├── utils.py
 │
 ├── artifacts/
 │   ├── models/
+|   │   ├── sales_model.pkl
 │   ├── predictions/
 │   ├── reports/
 │   ├── figures/
 │
 ├── dashboard/
+│   ├── sales_dashboard.pbix
 │
 ├── requirements.txt
 │
