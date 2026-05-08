@@ -203,22 +203,19 @@ sales-forecast-dashboard/
 │
 ├── notebooks/
 │
-├── models/
+├── src/
 │
-├── outputs/
-│   ├── predictions.csv
+├── artifacts/
+│   ├── models/
+│   ├── predictions/
+│   ├── reports/
+│   ├── figures/
 │
 ├── dashboard/
-│   ├── powerbi_dashboard.pbix
-│
-├── src/
-│   ├── preprocessing.py
-│   ├── train_model.py
-│   ├── predict.py
 │
 ├── requirements.txt
 │
-├── README.md
+└── README.md
 ```
 
 ---
