@@ -1,0 +1,924 @@
+Product Name,brand,Discount price,discount_pct(%),Stars,Rating,Reviews,ram_gb,storage_gb,storage_type,processor_brand,processor_tier,processor_generation,is_gaming,premium_brand
+MSI Cyborg 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA G...,MSI,54990.0,38.89,3.9,7.0,1.0,16.0,512.0,SSD,Intel,Mid,12,0,1
+MSI Thin 15 Intel Core i7 12th Gen 12650H - (8 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForc...,MSI,67990.0,19.05,0.0,0.0,0.0,8.0,1024.0,SSD,Intel,High,12,0,1
+DELL Inspiron 3520 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) New Inspiron 15 La...,DELL,35660.0,27.58,4.2,1805.0,143.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Acer One (2024) Intel Core i3 11th Gen 1115G4 - (8 GB/512 GB SSD/Windows 11 Home) AO 14 Z 8-415 Thin a...,Acer,26990.0,38.66,4.2,6977.0,596.0,8.0,512.0,SSD,Intel,Entry,11,0,0
+Lenovo V15 AMD Ryzen 3 Quad Core 7320U - (8 GB/512 GB SSD/Windows 11 Home) V15 G4 AMN 1 Thin and Light...,Lenovo,27989.0,52.88,4.2,1263.0,113.0,8.0,512.0,SSD,AMD,Entry,0,0,0
+Lenovo AMD Ryzen 3 Quad Core 7330U - (8 GB/512 GB SSD/Windows 11 Home) ThinkBook 15 G5 Thin and Light ...,Lenovo,32990.0,48.37,5.0,7.0,0.0,8.0,512.0,SSD,AMD,Entry,0,0,0
+HP FQ Series Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-FQ5326TU Laptop,HP,36175.0,28.85,4.6,5.0,0.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+HP ENVY AMD Ryzen 5 Hexa Core 8640HS - (16 GB/512 GB SSD/Windows 11 Home) 14-fa0038AU Thin and Light L...,HP,84490.0,14.78,2.3,3.0,0.0,16.0,512.0,SSD,AMD,Mid,0,0,0
+Acer Swift Go 14 EVO OLED Intel Core i5 13th Gen 13500H - (16 GB/512 GB SSD/Windows 11 Home) SFG14-71-...,Acer,59990.0,36.18,4.3,1098.0,108.0,16.0,512.0,SSD,Intel,Mid,13,0,0
+HP Laptop AMD Ryzen 3 Quad Core 5300U - (8 GB/512 GB SSD/Windows 11 Home) 15s- eq2212AU Thin and Light...,HP,35490.0,20.75,4.3,4029.0,466.0,8.0,512.0,SSD,AMD,Entry,0,0,0
+ASUS TUF Gaming A15 (2024) AMD Ryzen 7 Octa Core 8845HS - (16 GB/512 GB SSD/Windows 11 Home/8 GB Graph...,ASUS,124990.0,13.2,0.0,0.0,0.0,16.0,512.0,SSD,AMD,High,0,1,0
+ASUS TUF Gaming A15 (2024) AMD Ryzen 9 Octa Core 8945H - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics...,ASUS,142990.0,16.86,0.0,0.0,0.0,16.0,1024.0,SSD,AMD,Ultra,0,1,0
+HP AMD Ryzen 5 Hexa Core 5500U - (16 GB/512 GB SSD/Windows 11 Home) 15s- eq2182AU Thin and Light Lapto...,HP,42990.0,27.27,4.3,3246.0,255.0,16.0,512.0,SSD,AMD,Mid,0,0,0
+HP 250 G9 Intel Core i3 12th Gen Intel Core i3 1215U - (8 GB/512 GB SSD/Windows 11 Home) 250 G9 Busine...,HP,32490.0,31.68,4.3,320.0,13.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+CHUWI Intel Core i5 10th Gen 1035G1 - (16 GB/512 GB SSD/Windows 11 Home) CoreBook X Grey Laptop,CHUWI,24990.0,50.01,4.2,156.0,28.0,16.0,512.0,SSD,Intel,Mid,10,0,0
+Lenovo V15 FHD AMD Ryzen 7 Octa Core 7730U - (16 GB/512 GB SSD/Windows 11 Home) v15 G4 Business Laptop,Lenovo,40990.0,18.02,4.5,13.0,2.0,16.0,512.0,SSD,AMD,High,0,0,0
+MSI Sword 16 HX Intel Core i7 14th Gen 14700HX - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA ...,MSI,124990.0,10.72,0.0,0.0,0.0,16.0,1024.0,SSD,Intel,High,14,0,1
+MSI Prestige 16 AI Studio Intel Core Ultra 9 185H - (32 GB/1 TB SSD/Windows 11 Home/8 GB Graphics) Pre...,MSI,189990.0,10.8,0.0,0.0,0.0,32.0,1024.0,SSD,Intel,Ultra,0,0,1
+MSI Modern 14 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) Modern 14 C12M-445IN / ...,MSI,29990.0,33.34,4.3,553.0,65.0,8.0,512.0,SSD,Intel,Entry,12,0,1
+HP 2023 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5003TU Thin and Light L...,HP,36990.0,27.85,4.2,3102.0,221.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+HP ENVY AMD Ryzen 7 Octa Core 8840HS - (16 GB/512 GB SSD/Windows 11 Home) 14-fa0052AU Thin and Light L...,HP,94490.0,14.4,0.0,0.0,0.0,16.0,512.0,SSD,AMD,High,0,0,0
+MSI Claw Intel Core Ultra 5 135H - (16 GB/512 GB SSD/Windows 11 Home) Claw A1M-219IN Handheld Gaming P...,MSI,64990.0,26.97,0.0,0.0,0.0,16.0,512.0,SSD,Intel,Ultra,0,1,1
+HP AMD Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) 15s- eq2144au Thin and Light Laptop,HP,39490.0,27.61,4.3,7151.0,559.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+ASUS Vivobook 15 (2024) Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) X1502ZA-EJ953...,ASUS,36990.0,35.09,4.3,3696.0,315.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+DELL Inspiron 3520 Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) New Inspiron 15 La...,DELL,47490.0,26.5,4.2,443.0,31.0,8.0,512.0,SSD,Intel,Mid,12,0,0
+HP 2023 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5003TU Thin and Light L...,HP,36990.0,27.85,4.2,3102.0,221.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Lenovo IdeaPad Slim 1 (2024) AMD Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) 15ACL6 | ...,Lenovo,35990.0,34.67,4.2,4232.0,410.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+ASUS TUF Gaming F15 - AI Powered Gaming Intel Core i5 11th Gen 11260H - (8 GB/512 GB SSD/Windows 11 Ho...,ASUS,53990.0,28.95,4.3,5330.0,492.0,8.0,512.0,SSD,Intel,Mid,11,1,0
+ASUS VivoBook K15 OLED (2024) AMD Ryzen 7 Octa Core AMD R7-5700U - (16 GB/512 GB SSD/Windows 11 Home) ...,ASUS,61500.0,29.3,4.3,1766.0,191.0,16.0,512.0,SSD,AMD,High,0,0,0
+Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/256 GB SSD/Windows 11 Home) IN-N15I Thin ...,Thomson,27490.0,31.26,5.0,3.0,0.0,8.0,256.0,SSD,Intel,Entry,12,0,0
+MSI Cyborg 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA G...,MSI,54990.0,38.89,3.9,7.0,1.0,16.0,512.0,SSD,Intel,Mid,12,0,1
+SAMSUNG Galaxy Book4 Intel Core i5 13th Gen 1335U - (16 GB/512 GB SSD/Windows 11 Home) NP750XGJ-KG2IN ...,SAMSUNG,67990.0,17.88,4.5,293.0,32.0,16.0,512.0,SSD,Intel,Mid,13,0,0
+HP AMD Ryzen 3 Quad Core 5300U - (8 GB/512 GB SSD/Windows 11 Home) 15s-eq2143au Thin and Light Laptop,HP,30690.0,34.91,4.2,4087.0,376.0,8.0,512.0,SSD,AMD,Entry,0,0,0
+Acer Aspire 3 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) A324-51 Thin and Light ...,Acer,28990.0,32.58,4.1,356.0,34.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+HP Laptop Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) 14-gr0000TU Thin and Light ...,HP,40990.0,24.84,4.6,16.0,2.0,8.0,512.0,SSD,Intel,Entry,13,0,0
+MSI Thin 15 Intel Core i5 12th Gen 12450H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFo...,MSI,51990.0,23.53,4.2,112.0,15.0,8.0,512.0,SSD,Intel,Mid,12,0,1
+Thomson NEO Core Series Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin...,Thomson,43770.0,37.46,4.7,3.0,1.0,16.0,512.0,SSD,Intel,High,12,0,0
+Lenovo IdeaPad 3 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 14IAU7 Thin and Ligh...,Lenovo,34990.0,36.6,4.6,8.0,0.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+MSI Modern 14 AMD Ryzen 5 Hexa Core 7530U - (8 GB/512 GB SSD/Windows 11 Home) Modern 14 C7M-063IN Thin...,MSI,33990.0,45.17,4.3,1885.0,234.0,8.0,512.0,SSD,AMD,Mid,0,0,1
+HP Intel Core i3 12th Gen 1215U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fy5004TU Thin and Light Lapto...,HP,42990.0,18.46,4.2,5540.0,485.0,16.0,512.0,SSD,Intel,Entry,12,0,0
+Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin ...,Thomson,28129.0,37.48,5.0,3.0,0.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+HP (15s-fq5007TU) Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fq5327TU Thin a...,HP,38990.0,23.75,4.2,5540.0,485.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+ASUS Vivobook Go 15 OLED (2023) AMD Ryzen 3 Quad Core 7320U - (8 GB/512 GB SSD/Windows 11 Home) E1504F...,ASUS,41990.0,32.26,4.4,2030.0,245.0,8.0,512.0,SSD,AMD,Entry,0,0,0
+ASUS Vivobook Go 15 Intel Celeron Dual Core N4020 - (4 GB/256 GB SSD/Windows 11 Home) E510MA-EJ001W Th...,ASUS,19990.0,41.19,4.0,2157.0,210.0,4.0,256.0,SSD,Intel,Entry,0,0,0
+HP Victus Intel Core i5 12th Gen - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX ...,HP,57990.0,24.05,4.3,424.0,21.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+MSI Thin 15 Intel Core i7 12th Gen 12650H - (8 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForc...,MSI,67990.0,19.05,0.0,0.0,0.0,8.0,1024.0,SSD,Intel,High,12,0,1
+Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home) 14IAH8 Thin a...,Lenovo,53390.0,23.61,3.8,53.0,5.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+HP Intel Core i3 12th Gen 1215U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fy5004TU Thin and Light Lapto...,HP,42990.0,18.46,4.2,5540.0,485.0,16.0,512.0,SSD,Intel,Entry,12,0,0
+CHUWI Intel Celeron Dual Core 11th Gen N4020 - (8 GB/256 GB SSD/Windows 11 Home) HeroBook Pro Laptop,CHUWI,16990.0,51.44,3.7,602.0,76.0,8.0,256.0,SSD,Intel,Entry,11,0,0
+HP 2023 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5003TU Thin and Light L...,HP,36990.0,27.85,4.2,3102.0,221.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Lenovo IdeaPad Slim 1 (2024) AMD Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) 15ACL6 | ...,Lenovo,35990.0,34.67,4.2,4232.0,410.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+DELL Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) New Inspiron 15 Laptop Thin and ...,DELL,35390.0,28.77,4.2,1733.0,193.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Acer Swift Go 14 OLED 2024 EVO Intel Core i7 13th Gen 13700H - (16 GB/512 GB SSD/Windows 11 Home) SFG1...,Acer,67990.0,36.46,4.3,106.0,10.0,16.0,512.0,SSD,Intel,High,13,0,0
+ASUS Vivobook 15 Intel Core i3 12th Gen 1215U - (16 GB/512 GB SSD/Windows 11 Home) X1502ZA-EJ993WS Thi...,ASUS,40990.0,30.51,4.3,3696.0,315.0,16.0,512.0,SSD,Intel,Entry,12,0,0
+HP 255 G9 AMD Athlon Dual Core AMD Athlon Silver-3050U - (4 GB/256 GB SSD/DOS) 255 G9 Thin and Light L...,HP,19999.0,26.09,3.9,1455.0,114.0,4.0,256.0,SSD,AMD,Other,0,0,0
+Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/256 GB SSD/Windows 11 Home) IN-N15I Thin ...,Thomson,27490.0,31.26,5.0,3.0,0.0,8.0,256.0,SSD,Intel,Entry,12,0,0
+MSI Cyborg 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA G...,MSI,54990.0,38.89,3.9,7.0,1.0,16.0,512.0,SSD,Intel,Mid,12,0,1
+Lenovo IdeaPad Slim 1 (2024) AMD Ryzen 5 Hexa Core 5500U - (16 GB/512 GB SSD/Windows 11 Home) 15ALC7 T...,Lenovo,40199.0,51.57,4.2,4232.0,410.0,16.0,512.0,SSD,AMD,Mid,0,0,0
+Lenovo ThinkPad E14 AMD Ryzen 5 Hexa Core 7530U - (16 GB/512 GB SSD/Windows 11 Home) TP E14 Gen 5 Thin...,Lenovo,48500.0,46.7,4.2,47.0,5.0,16.0,512.0,SSD,AMD,Mid,0,0,0
+MSI Thin 15 Intel Core i5 12th Gen 12450H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFo...,MSI,51990.0,23.53,4.2,112.0,15.0,8.0,512.0,SSD,Intel,Mid,12,0,1
+Thomson NEO Core Series Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin...,Thomson,43770.0,37.46,4.7,3.0,1.0,16.0,512.0,SSD,Intel,High,12,0,0
+HP 255 G9 840T7PA AMD Athlon Dual Core 3050U - (4 GB/256 GB SSD/DOS) 255 G8 Thin and Light Laptop,HP,19985.0,26.14,3.9,1455.0,114.0,4.0,256.0,SSD,AMD,Other,0,0,0
+MSI Modern 14 Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) Modern 14 C12M-440IN / ...,MSI,37880.0,28.51,4.2,912.0,109.0,8.0,512.0,SSD,Intel,Mid,12,0,1
+Lenovo ThinkBook 15 G5 AMD Ryzen 5 Hexa Core 7530U - (8 GB/512 GB SSD/Windows 11 Home) Think Book 15 G...,Lenovo,38990.0,45.85,4.1,76.0,5.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+Acer Aspire 3 Backlit Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) A324-51 Thin an...,Acer,29990.0,31.84,4.2,68.0,8.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin ...,Thomson,28129.0,37.48,5.0,3.0,0.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+MSI Thin 15 Intel Core i7 12th Gen 12650H - (8 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForc...,MSI,67990.0,19.05,0.0,0.0,0.0,8.0,1024.0,SSD,Intel,High,12,0,1
+ASUS Vivobook 15 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) X1502ZA-EJ545WS Thi...,ASUS,51990.0,30.67,4.2,1915.0,105.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+HP G8 Series Intel Core i5 11th Gen IntelÂ® Coreâ„¢ i5-1135G - (8 GB/512 GB SSD/Windows 11 Home) 240 G8 B...,HP,37490.0,42.28,3.8,50.0,2.0,8.0,512.0,SSD,Intel,Mid,11,0,0
+Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home) 14IAH8 Thin a...,Lenovo,53390.0,23.61,3.8,53.0,5.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+HP (15s-fq5007TU) Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fq5327TU Thin a...,HP,38990.0,23.75,4.2,5540.0,485.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+DELL Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) Inspiron 3520 Thin and Light Lap...,DELL,36490.0,26.01,4.2,1805.0,143.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Acer Chromebook (2024) Intel Celeron Dual Core N4500 - (8 GB/128 GB EMMC Storage/Chrome OS) CB314-3H-C...,Acer,16990.0,50.03,3.7,354.0,22.0,8.0,128.0,EMMC,Intel,Entry,0,0,0
+HP 2023 Backlit Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5002TU Thin and...,HP,49990.0,28.65,4.2,2043.0,117.0,8.0,512.0,SSD,Intel,Mid,12,0,0
+Lenovo IdeaPad Slim 1 AMD Ryzen 5 Quad Core 7520U - (8 GB/512 GB SSD/Windows 11 Home) 15AMN7 Thin and ...,Lenovo,40490.0,38.36,4.0,123.0,7.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+HP 2023 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5003TU Thin and Light L...,HP,36990.0,27.85,4.2,3102.0,221.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Lenovo IdeaPad Slim 1 (2024) AMD Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) 15ACL6 | ...,Lenovo,35990.0,34.67,4.2,4232.0,410.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+Lenovo IdeaPad Slim 5 (2024) Intel Core i5 13th Gen 13500H - (16 GB/512 GB SSD/Windows 11 Home) 16IRL8...,Lenovo,66990.0,33.47,4.1,385.0,48.0,16.0,512.0,SSD,Intel,Mid,13,0,0
+MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO Busine...,MSI,41990.0,20.76,4.8,4.0,1.0,16.0,512.0,SSD,Intel,Mid,12,0,1
+Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/256 GB SSD/Windows 11 Home) IN-N15I Thin ...,Thomson,27490.0,31.26,5.0,3.0,0.0,8.0,256.0,SSD,Intel,Entry,12,0,0
+MSI Cyborg 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA G...,MSI,54990.0,38.89,3.9,7.0,1.0,16.0,512.0,SSD,Intel,Mid,12,0,1
+Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home) 15IAH8 Thin a...,Lenovo,54390.0,29.81,4.1,52.0,5.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+Acer Predator Neo (2023) Intel Core i7 13th Gen 13700HX - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphic...,Acer,104990.0,27.59,4.4,804.0,85.0,16.0,1024.0,SSD,Intel,High,13,1,0
+MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12M-439IN /...,MSI,41990.0,25.0,4.2,912.0,109.0,16.0,512.0,SSD,Intel,Mid,12,0,1
+DELL Inspiron 15 3520 Intel Core i5 12th Gen Core i5 - (16 GB/512 GB SSD/Windows 11 Home) Inspiron 352...,DELL,52890.0,32.97,4.1,285.0,21.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+MSI Thin 15 Intel Core i5 12th Gen 12450H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFo...,MSI,51990.0,23.53,4.2,112.0,15.0,8.0,512.0,SSD,Intel,Mid,12,0,1
+Thomson NEO Core Series Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin...,Thomson,43770.0,37.46,4.7,3.0,1.0,16.0,512.0,SSD,Intel,High,12,0,0
+Acer Aspire 3 Backlit Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) A324-51 Thin an...,Acer,29990.0,31.84,4.2,68.0,8.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+HP Victus gaming AMD Ryzen 5 Hexa Core 5600H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/AMD Rade...,HP,48990.0,23.01,4.2,1304.0,120.0,8.0,512.0,SSD,AMD,Mid,0,1,0
+HP Intel Core i3 12th Gen 1215U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fy5004TU Thin and Light Lapto...,HP,42990.0,18.46,4.2,5540.0,485.0,16.0,512.0,SSD,Intel,Entry,12,0,0
+MSI Thin 15 Intel Core i7 12th Gen 12650H - (8 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForc...,MSI,67990.0,19.05,0.0,0.0,0.0,8.0,1024.0,SSD,Intel,High,12,0,1
+Ultimus Elite Intel Core i5 10th Gen 1035G4 - (8 GB/512 GB SSD/Windows 11 Home) NU14U3INF56BN-MB Thin ...,Ultimus,20999.0,54.34,3.2,58.0,13.0,8.0,512.0,SSD,Intel,Mid,10,0,0
+HP Victus Intel Core i5 13th Gen 13420H - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeFor...,HP,76440.0,17.01,4.6,141.0,10.0,16.0,512.0,SSD,Intel,Mid,13,0,0
+DELL Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) New Inspiron 15 Laptop Thin and ...,DELL,46460.0,25.81,4.0,539.0,39.0,8.0,512.0,SSD,Intel,Mid,12,0,0
+HP Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5006TU Thin and Light Laptop,HP,36390.0,26.77,4.1,270.0,13.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+HP 2023 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5003TU Thin and Light L...,HP,36990.0,27.85,4.2,3102.0,221.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Lenovo IdeaPad Slim 1 (2024) AMD Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) 15ACL6 | ...,Lenovo,35990.0,34.67,4.2,4232.0,410.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+CHUWI Intel Celeron Dual Core 11th Gen N4020 - (8 GB/256 GB SSD/Windows 11 Home) HeroBook Plus Laptop,CHUWI,18990.0,52.51,3.7,602.0,76.0,8.0,256.0,SSD,Intel,Entry,11,0,0
+Lenovo LOQ (2024) Intel Core i5 13th Gen 13450HX - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVI...,Lenovo,75990.0,30.29,4.2,194.0,18.0,16.0,512.0,SSD,Intel,Mid,13,0,0
+Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/256 GB SSD/Windows 11 Home) IN-N15I Thin ...,Thomson,27490.0,31.26,5.0,3.0,0.0,8.0,256.0,SSD,Intel,Entry,12,0,0
+MSI Cyborg 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA G...,MSI,54990.0,38.89,3.9,7.0,1.0,16.0,512.0,SSD,Intel,Mid,12,0,1
+"ASUS Vivobook 14X for Creator, Intel H-Series Intel Core i7 12th Gen 12650H - (16 GB/1 TB SSD/Windows ...",ASUS,69990.0,32.7,0.0,0.0,0.0,16.0,1024.0,SSD,Intel,Other,0,0,0
+Acer Aspire 7 (2024) Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/N...,Acer,62990.0,25.89,4.2,1717.0,145.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+Acer Aspire 3 Backlit Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) A324-51 Thin an...,Acer,39990.0,24.55,4.1,263.0,19.0,8.0,512.0,SSD,Intel,Mid,12,0,0
+Acer AMD Ryzen 3 Quad Core 5300U - (16 GB/512 GB SSD/Windows 11 Home) AL15-41 Thin and Light Laptop,Acer,30990.0,26.21,4.0,3.0,0.0,16.0,512.0,SSD,AMD,Entry,0,0,0
+MSI Thin 15 Intel Core i5 12th Gen 12450H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFo...,MSI,51990.0,23.53,4.2,112.0,15.0,8.0,512.0,SSD,Intel,Mid,12,0,1
+Thomson NEO Core Series Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin...,Thomson,43770.0,37.46,4.7,3.0,1.0,16.0,512.0,SSD,Intel,High,12,0,0
+Lenovo V SERIES Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) V15 Thin and Light La...,Lenovo,43990.0,56.01,4.3,33.0,2.0,8.0,512.0,SSD,Intel,Mid,12,0,0
+Lenovo LOQ (2024) AMD Ryzen 7 Octa Core 7435HS - (24 GB/512 GB SSD/Windows 11 Home/8 GB Graphics/NVIDI...,Lenovo,86990.0,30.29,4.6,24.0,6.0,24.0,512.0,SSD,AMD,High,0,0,0
+HP Intel Core i3 12th Gen 1215U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fy5004TU Thin and Light Lapto...,HP,42990.0,18.46,4.2,5540.0,485.0,16.0,512.0,SSD,Intel,Entry,12,0,0
+MSI Thin 15 Intel Core i7 12th Gen 12650H - (8 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForc...,MSI,67990.0,19.05,0.0,0.0,0.0,8.0,1024.0,SSD,Intel,High,12,0,1
+realme Book Prime Intel Core i5 11th Gen 11320H - (16 GB/512 GB SSD/Windows 11 Home) CloudPro002 Thin ...,realme,51990.0,30.68,4.4,659.0,99.0,16.0,512.0,SSD,Intel,Mid,11,0,0
+Lenovo Yoga 6 AMD Ryzen 7 Octa Core 7730U - (16 GB/1 TB SSD/Windows 11 Home) 13ABR8 2 in 1 Laptop,Lenovo,86690.0,28.76,4.5,21.0,2.0,16.0,1024.0,SSD,AMD,High,0,0,0
+ZEBRONICS Pro Series Z Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) ZEB-NBC 4S Thi...,ZEBRONICS,33990.0,44.28,3.8,440.0,68.0,8.0,512.0,SSD,Intel,Mid,12,0,0
+DELL Inspiron Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) Inspiron 3520 Thin and ...,DELL,35990.0,28.76,4.1,102.0,10.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home) 14IAH8 Thin a...,Lenovo,53390.0,23.61,3.8,53.0,5.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+HP (15s-fq5007TU) Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fq5327TU Thin a...,HP,38990.0,23.75,4.2,5540.0,485.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+HP Chromebook Intel Celeron Dual Core N4020 - (4 GB/64 GB EMMC Storage/Chrome OS) 14a-ca0505TU Thin an...,HP,17990.0,44.47,3.8,133.0,16.0,4.0,64.0,EMMC,Intel,Entry,0,0,0
+Acer Aspire Lite (2024) Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) AL15-52 Thin ...,Acer,30990.0,41.52,4.1,203.0,12.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+HP Laptop Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fq5329TU Thin and Light...,HP,49990.0,20.6,4.2,73.0,2.0,8.0,512.0,SSD,Intel,Mid,12,0,0
+Infinix Y4 Max Series Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) YL613 Thin and ...,Infinix,29990.0,45.46,4.2,127.0,24.0,8.0,512.0,SSD,Intel,Entry,13,0,0
+HP 2023 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5003TU Thin and Light L...,HP,36990.0,27.85,4.2,3102.0,221.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Lenovo IdeaPad Slim 1 (2024) AMD Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) 15ACL6 | ...,Lenovo,35990.0,34.67,4.2,4232.0,410.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+DELL Inspiron Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) New Inspiron 15 Laptop ...,DELL,48490.0,26.5,3.9,145.0,7.0,8.0,512.0,SSD,Intel,Mid,12,0,0
+Infinix Y1 Plus Neo Intel Intel Celeron Quad Core 11th Gen JSL N5100 - (8 GB/512 GB SSD/Windows 11 Hom...,Infinix,22990.0,42.51,4.0,4273.0,587.0,8.0,512.0,SSD,Intel,Entry,11,0,0
+Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/256 GB SSD/Windows 11 Home) IN-N15I Thin ...,Thomson,27490.0,31.26,5.0,3.0,0.0,8.0,256.0,SSD,Intel,Entry,12,0,0
+MSI Cyborg 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA G...,MSI,54990.0,38.89,3.9,7.0,1.0,16.0,512.0,SSD,Intel,Mid,12,0,1
+ASUS Vivobook Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) X1504ZA-NJ325WS Thin an...,ASUS,36990.0,32.73,4.3,399.0,54.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+HP 255 G9 AMD Ryzen 3 Dual Core 3250 - (8 GB/512 GB SSD/Windows 11 Home) 255 G8 Notebook,HP,26490.0,41.02,4.1,414.0,29.0,8.0,512.0,SSD,AMD,Entry,0,0,0
+MSI Modern 15 Intel Core i3 12th Gen 1215U - (16 GB/512 GB SSD/Windows 11 Home) Modern 15 B12MO-612IN ...,MSI,42990.0,12.25,4.3,553.0,65.0,16.0,512.0,SSD,Intel,Entry,12,0,1
+Lenovo Intel Core i5 13th Gen 1355U - (16 GB/512 GB SSD/Windows 11 Home) THINKBOOK 16 G6 IRL 5 Thin an...,Lenovo,57490.0,40.85,4.1,21.0,3.0,16.0,512.0,SSD,Intel,Mid,13,0,0
+MSI Thin 15 Intel Core i5 12th Gen 12450H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFo...,MSI,51990.0,23.53,4.2,112.0,15.0,8.0,512.0,SSD,Intel,Mid,12,0,1
+Thomson NEO Core Series Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin...,Thomson,43770.0,37.46,4.7,3.0,1.0,16.0,512.0,SSD,Intel,High,12,0,0
+HP 245G9 AMD Ryzen 3 Dual Core AMD Ryzen 3 3250U - (8 GB/512 GB SSD/Windows 11 Home) 245 G8 Business L...,HP,26990.0,33.41,4.1,524.0,25.0,8.0,512.0,SSD,AMD,Entry,0,0,0
+HP 15s (2024) Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fq5007TU Thin and L...,HP,38990.0,30.7,4.2,5540.0,485.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+HP Intel Core i3 12th Gen 1215U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fy5004TU Thin and Light Lapto...,HP,42990.0,18.46,4.2,5540.0,485.0,16.0,512.0,SSD,Intel,Entry,12,0,0
+MSI Thin 15 Intel Core i7 12th Gen 12650H - (8 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForc...,MSI,67990.0,19.05,0.0,0.0,0.0,8.0,1024.0,SSD,Intel,High,12,0,1
+ASUS Vivobook S 14 Intel EVO H-Series Intel Core i5 12th Gen 12500H - (16 GB/512 GB SSD/Windows 11 Hom...,ASUS,65990.0,24.14,4.3,1913.0,192.0,16.0,512.0,SSD,Intel,Other,0,0,0
+MSI Thin 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeF...,MSI,62990.0,17.11,4.3,249.0,33.0,16.0,512.0,SSD,Intel,Mid,12,0,1
+Acer Chromebook (2024) Intel Celeron Dual Core N4500 - (8 GB/64 GB EMMC Storage/Chrome OS) CB314-3H-CO...,Acer,15990.0,60.02,3.6,119.0,11.0,8.0,64.0,EMMC,Intel,Entry,0,0,0
+ASUS Vivobook S15 OLED Intel EVO H-Series Intel Core i7 12th Gen 12700H - (16 GB/512 GB SSD/Windows 11...,ASUS,78990.0,32.48,4.3,50.0,3.0,16.0,512.0,SSD,Intel,Other,0,0,0
+Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home) 14IAH8 Thin a...,Lenovo,53390.0,23.61,3.8,53.0,5.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+HP (15s-fq5007TU) Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fq5327TU Thin a...,HP,38990.0,23.75,4.2,5540.0,485.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+ASUS Zenbook 14X OLED AMD Ryzen 7 Octa Core 5800HS - (16 GB/1 TB SSD/Windows 11 Home) UM5401QA-KM751WS...,ASUS,69990.0,29.3,4.4,267.0,26.0,16.0,1024.0,SSD,AMD,High,0,0,0
+ASUS Vivobook 16 (2023) AMD Ryzen 5 Hexa Core 7530U - (8 GB/1 TB SSD/Windows 11 Home) M1605YA-MB531WS ...,ASUS,47990.0,36.0,4.3,133.0,13.0,8.0,1024.0,SSD,AMD,Mid,0,0,0
+HP 2023 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5003TU Thin and Light L...,HP,36990.0,27.85,4.2,3102.0,221.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Lenovo IdeaPad Slim 1 (2024) AMD Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) 15ACL6 | ...,Lenovo,35990.0,34.67,4.2,4232.0,410.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+Acer Predator Neo (2023) Intel Core i7 13th Gen 13700HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphic...,Acer,119990.0,25.01,4.5,87.0,6.0,16.0,1024.0,SSD,Intel,High,13,1,0
+ASUS Vivobook 16X Intel Core i5 12th Gen 12500H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics) K36...,ASUS,69990.0,13.58,0.0,0.0,0.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+ASUS TUF Gaming F17 - AI Powered Gaming Intel Core i5 11th Gen 11400H - (16 GB/512 GB SSD/Windows 11 H...,ASUS,57990.0,32.56,4.3,5330.0,492.0,16.0,512.0,SSD,Intel,Mid,11,1,0
+Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/256 GB SSD/Windows 11 Home) IN-N15I Thin ...,Thomson,27490.0,31.26,5.0,3.0,0.0,8.0,256.0,SSD,Intel,Entry,12,0,0
+MSI Cyborg 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA G...,MSI,54990.0,38.89,3.9,7.0,1.0,16.0,512.0,SSD,Intel,Mid,12,0,1
+Acer Aspire Lite Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) AL15-52 Thin and Li...,Acer,43990.0,32.31,3.4,56.0,3.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+SAMSUNG Galaxy Book4 Intel Core i5 13th Gen 1335U - (8 GB/512 GB SSD/Windows 11 Home) NP750XGJ-KG1IN /...,SAMSUNG,63990.0,18.16,4.5,293.0,32.0,8.0,512.0,SSD,Intel,Mid,13,0,0
+Thomson NEO Core Series Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin...,Thomson,43770.0,37.46,4.7,3.0,1.0,16.0,512.0,SSD,Intel,High,12,0,0
+MSI Thin 15 Intel Core i5 12th Gen 12450H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFo...,MSI,51990.0,23.53,4.2,112.0,15.0,8.0,512.0,SSD,Intel,Mid,12,0,1
+Lenovo IdeaPad Slim 5 AI PC WUXGA OLED Intel Core Ultra 5 125H - (16 GB/1 TB SSD/Windows 11 Home) 14IM...,Lenovo,80990.0,19.88,4.1,81.0,17.0,16.0,1024.0,SSD,Intel,Ultra,0,0,0
+ZEBRONICS Pro Series Z Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) ZEB-NBC 5S Th...,ZEBRONICS,40990.0,48.11,3.9,218.0,17.0,16.0,512.0,SSD,Intel,High,12,0,0
+ASUS Vivobook 14 (2023) Intel Core i5 13th Gen 1335U - (8 GB/512 GB SSD/Windows 11 Home) X1404VA-NK522...,ASUS,47990.0,36.0,3.9,174.0,19.0,8.0,512.0,SSD,Intel,Mid,13,0,0
+Infinix Y1 Plus Neo (2023) Intel Celeron Quad Core 11th Gen N5100 - (4 GB/128 GB SSD/Windows 11 Home) ...,Infinix,19990.0,33.34,4.0,1566.0,210.0,4.0,128.0,SSD,Intel,Entry,11,0,0
+HP Intel Core i3 12th Gen 1215U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fy5004TU Thin and Light Lapto...,HP,42990.0,18.46,4.2,5540.0,485.0,16.0,512.0,SSD,Intel,Entry,12,0,0
+MSI Thin 15 Intel Core i7 12th Gen 12650H - (8 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForc...,MSI,67990.0,19.05,0.0,0.0,0.0,8.0,1024.0,SSD,Intel,High,12,0,1
+Acer Aspire 3 Intel Core i7 12th Gen 1255U - (16 GB/1 TB SSD/Windows 11 Home) A324-51 Thin and Light L...,Acer,54990.0,19.13,4.8,17.0,1.0,16.0,1024.0,SSD,Intel,High,12,0,0
+"ASUS Vivobook 15, with Backlit Keyboard, Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 H...",ASUS,52990.0,20.9,4.2,1915.0,105.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+HP (15s-fq5007TU) Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fq5327TU Thin a...,HP,38990.0,23.75,4.2,5540.0,485.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home) 14IAH8 Thin a...,Lenovo,53390.0,23.61,3.8,53.0,5.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+ZEBRONICS Pro Series Z Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) ZEB-NBC 4S Thi...,ZEBRONICS,33990.0,44.28,3.8,440.0,68.0,8.0,512.0,SSD,Intel,Mid,12,0,0
+HP OMEN Intel Core i5 13th Gen 13420H - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce...,HP,89990.0,23.85,4.3,141.0,17.0,16.0,512.0,SSD,Intel,Mid,13,0,0
+Acer Swift Go 14 TouchScreen Intel Core Ultra 5 125H - (16 GB/512 GB SSD/Windows 11 Home) SFG14-73T Th...,Acer,74990.0,19.36,4.5,79.0,20.0,16.0,512.0,SSD,Intel,Ultra,0,0,0
+ASUS Vivobook GO14 AMD Ryzen 5 Quad Core 7520U - (16 GB/512 GB SSD/Windows 11 Home) E1404FA-NK547WS Th...,ASUS,42990.0,39.44,4.1,9.0,0.0,16.0,512.0,SSD,AMD,Mid,0,0,0
+HP 2023 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5003TU Thin and Light L...,HP,36990.0,27.85,4.2,3102.0,221.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Lenovo IdeaPad Slim 1 (2024) AMD Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) 15ACL6 | ...,Lenovo,35990.0,34.67,4.2,4232.0,410.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+HP Omen Intel Core i7 13th Gen 13700HX - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForc...,HP,97990.0,23.33,4.1,76.0,10.0,16.0,512.0,SSD,Intel,High,13,0,0
+ASUS Vivobook Go 14 2023 AMD Ryzen 5 Quad Core 7520U - (8 GB/512 GB SSD/Windows 11 Home) E1404FA-NK521...,ASUS,37990.0,39.69,4.4,13.0,1.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/256 GB SSD/Windows 11 Home) IN-N15I Thin ...,Thomson,27490.0,31.26,5.0,3.0,0.0,8.0,256.0,SSD,Intel,Entry,12,0,0
+MSI Cyborg 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA G...,MSI,54990.0,38.89,3.9,7.0,1.0,16.0,512.0,SSD,Intel,Mid,12,0,1
+Lenovo IdeaPad Pro 5 AI PC 2.8K OLED Intel Core Ultra 9 185H - (32 GB/1 TB SSD/Windows 11 Home) 14IMH9...,Lenovo,108990.0,25.8,4.5,24.0,5.0,32.0,1024.0,SSD,Intel,Ultra,0,0,0
+CHUWI Intel Celeron Dual Core 10th Gen N4020 - (4 GB/128 GB SSD/Windows 11 Home) HeroBook Air Laptop,CHUWI,13990.0,60.02,3.5,168.0,14.0,4.0,128.0,SSD,Intel,Entry,10,0,0
+"ASUS Vivobook 16X (2023) For Creator, Intel H-Series Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD...",ASUS,79990.0,31.63,5.0,4.0,1.0,16.0,512.0,SSD,Intel,Other,0,0,0
+ASUS Vivobook Go 15 (2023) AMD Ryzen 3 Quad Core 7320U - (8 GB/512 GB SSD/Windows 11 Home) E1504FA-NJ3...,ASUS,34990.0,31.38,4.2,4047.0,418.0,8.0,512.0,SSD,AMD,Entry,0,0,0
+MSI Thin 15 Intel Core i5 12th Gen 12450H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFo...,MSI,51990.0,23.53,4.2,112.0,15.0,8.0,512.0,SSD,Intel,Mid,12,0,1
+Thomson NEO Core Series Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin...,Thomson,43770.0,37.46,4.7,3.0,1.0,16.0,512.0,SSD,Intel,High,12,0,0
+Acer One 14 AMD Ryzen 3 Dual Core 3250U - (8 GB/512 GB SSD/Windows 11 Home) Z2-493 Thin and Light Lapt...,Acer,25990.0,35.02,4.0,513.0,56.0,8.0,512.0,SSD,AMD,Entry,0,0,0
+Infinix Y4 Max Series Intel Core i5 13th Gen 1335U - (16 GB/512 GB SSD/Windows 11 Home) YL613 Thin and...,Infinix,41990.0,35.39,4.2,187.0,38.0,16.0,512.0,SSD,Intel,Mid,13,0,0
+HP Intel Core i3 12th Gen 1215U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fy5004TU Thin and Light Lapto...,HP,42990.0,18.46,4.2,5540.0,485.0,16.0,512.0,SSD,Intel,Entry,12,0,0
+MSI Thin 15 Intel Core i7 12th Gen 12650H - (8 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForc...,MSI,67990.0,19.05,0.0,0.0,0.0,8.0,1024.0,SSD,Intel,High,12,0,1
+DELL Intel Core i5 13th Gen 1334U - (16 GB/512 GB SSD/Windows 11 Home) Vostro 3530 Thin and Light Lapt...,DELL,54990.0,20.34,0.0,0.0,0.0,16.0,512.0,SSD,Intel,Mid,13,0,0
+HP 15s Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fq5112TU Thin and Light L...,HP,50690.0,30.94,4.1,392.0,35.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+Lenovo IdeaPad Slim 1 AMD Ryzen 3 Quad Core 7320U - (8 GB/512 GB SSD/Windows 11 Home) 15AMN7 Thin and ...,Lenovo,32990.0,37.63,4.0,268.0,13.0,8.0,512.0,SSD,AMD,Entry,0,0,0
+Lenovo AMD Ryzen 3 Octa Core - (8 GB/512 GB SSD/Windows 11 Home) G4 82YTA00XIN Laptop,Lenovo,27990.0,57.38,4.2,36.0,6.0,8.0,512.0,SSD,AMD,Entry,0,0,0
+MSI Cyborg 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA G...,MSI,54990.0,38.89,3.9,7.0,1.0,16.0,512.0,SSD,Intel,Mid,12,0,1
+MSI Thin 15 Intel Core i7 12th Gen 12650H - (8 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForc...,MSI,67990.0,19.05,0.0,0.0,0.0,8.0,1024.0,SSD,Intel,High,12,0,1
+HP Pavilion (2024) AMD Ryzen 7 Octa Core 5700U - (16 GB/1 TB SSD/Windows 11 Home) 15-eh1147AU Thin and...,HP,58990.0,17.23,4.5,24.0,2.0,16.0,1024.0,SSD,AMD,High,0,0,0
+"ASUS Vivobook Pro 15 For Creator, AMD Ryzen 5 Hexa Core 5600HS - (16 GB/1 TB SSD/Windows 11 Home/4 GB ...",ASUS,65990.0,23.26,4.5,386.0,28.0,16.0,1024.0,SSD,AMD,Mid,0,0,0
+ASUS TUF Gaming A15 (2024) AMD Ryzen 9 Octa Core 8945H - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics...,ASUS,142990.0,16.86,0.0,0.0,0.0,16.0,1024.0,SSD,AMD,Ultra,0,1,0
+HP ENVY AMD Ryzen 5 Hexa Core 8640HS - (16 GB/512 GB SSD/Windows 11 Home) 14-fa0038AU Thin and Light L...,HP,84490.0,14.78,2.3,3.0,0.0,16.0,512.0,SSD,AMD,Mid,0,0,0
+ZEBRONICS Pro Series Y Intel Core i5 11th Gen 1155G7 - (8 GB/512 GB SSD/Windows 11 Home) ZEB-NBC 2S Th...,ZEBRONICS,28990.0,40.84,3.8,858.0,91.0,8.0,512.0,SSD,Intel,Mid,11,0,0
+CHUWI Intel Celeron Quad Core 12th Gen N100 - (8 GB/256 GB SSD/Windows 11 Home) GemiBook Plus Laptop,CHUWI,21990.0,51.12,4.1,197.0,31.0,8.0,256.0,SSD,Intel,Entry,12,0,0
+ASUS Vivobook Go 15 Intel Celeron Dual Core N4020 - (8 GB/512 GB SSD/Windows 11 Home) E510MA-EJ021WS T...,ASUS,26990.0,30.78,4.0,589.0,42.0,8.0,512.0,SSD,Intel,Entry,0,0,0
+MSI Prestige 16 AI Studio Intel Core Ultra 9 185H - (32 GB/1 TB SSD/Windows 11 Home/8 GB Graphics) Pre...,MSI,189990.0,10.8,0.0,0.0,0.0,32.0,1024.0,SSD,Intel,Ultra,0,0,1
+MSI Sword 16 HX Intel Core i7 14th Gen 14700HX - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA ...,MSI,124990.0,10.72,0.0,0.0,0.0,16.0,1024.0,SSD,Intel,High,14,0,1
+ASUS Vivobook Go 14 Intel Celeron Dual Core N4500 - (8 GB/256 GB SSD/Windows 11 Home) E410KA-EK013W Th...,ASUS,23480.0,36.52,3.9,242.0,11.0,8.0,256.0,SSD,Intel,Entry,0,0,0
+Lenovo ThinkPad E14 AMD Ryzen 5 Hexa Core 7530U - (16 GB/512 GB SSD/Windows 11 Home) TP E14 Gen 5 Thin...,Lenovo,48500.0,46.7,4.2,47.0,5.0,16.0,512.0,SSD,AMD,Mid,0,0,0
+MSI Claw Intel Core Ultra 7 155H - (16 GB/512 GB SSD/Windows 11 Home) Claw A1M-218IN Handheld Gaming P...,MSI,71990.0,25.78,0.0,0.0,0.0,16.0,512.0,SSD,Intel,Ultra,0,1,1
+MSI Prestige 14 AI Evo Intel Core Ultra 5 1st Gen 125H - (16 GB/1 TB SSD/Windows 11 Home) Prestige 14 ...,MSI,89990.0,40.0,0.0,0.0,0.0,16.0,1024.0,SSD,Intel,Ultra,0,0,1
+Lenovo IdeaPad Slim 3 Intel Core i5 13th Gen 13420H - (16 GB/512 GB SSD/Windows 11 Home) 15IRH8 Thin a...,Lenovo,57350.0,29.97,4.4,131.0,11.0,16.0,512.0,SSD,Intel,Mid,13,0,0
+Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin ...,Thomson,28129.0,37.48,5.0,3.0,0.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Lenovo LOQ AMD Ryzen 7 Octa Core 8845HS - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeFor...,Lenovo,99990.0,29.13,0.0,0.0,0.0,16.0,512.0,SSD,AMD,High,0,0,0
+DELL Inspiron 3520 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) New Inspiron 15 La...,DELL,36470.0,40.39,4.2,1805.0,143.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+ASUS Vivobook Go 15 OLED (2023) AMD Ryzen 5 Quad Core 7520U - (8 GB/512 GB SSD/Windows 11 Home) E1504F...,ASUS,46990.0,37.34,4.4,1544.0,144.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+HP 2023 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5003TU Thin and Light L...,HP,36990.0,27.85,4.2,3102.0,221.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Lenovo IdeaPad Slim 1 (2024) AMD Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) 15ACL6 | ...,Lenovo,35990.0,34.67,4.2,4232.0,410.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+ASUS Vivobook Go 15 (2023) AMD Ryzen 5 Quad Core 7520U - (8 GB/512 GB SSD/Windows 11 Home) E1504FA-NJ5...,ASUS,39990.0,36.51,4.2,1315.0,89.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+Infinix Y4 Max Series Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) YL613 Thin and ...,Infinix,29990.0,45.46,4.5,59.0,17.0,8.0,512.0,SSD,Intel,Entry,13,0,0
+"ASUS Vivobook 16X (2023) For Creator, Intel H-Series Intel Core i7 12th Gen 12650H - (16 GB/1 TB SSD/W...",ASUS,82990.0,30.25,4.2,105.0,12.0,16.0,1024.0,SSD,Intel,Other,0,0,0
+Acer One 14 AMD Ryzen 3 Dual Core 3250U - (8 GB/256 GB SSD/Windows 11 Home) Z2-493 Thin and Light Lapt...,Acer,24990.0,35.92,4.0,513.0,56.0,8.0,256.0,SSD,AMD,Entry,0,0,0
+Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/256 GB SSD/Windows 11 Home) IN-N15I Thin ...,Thomson,27490.0,31.26,5.0,3.0,0.0,8.0,256.0,SSD,Intel,Entry,12,0,0
+MSI Cyborg 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA G...,MSI,54990.0,38.89,3.9,7.0,1.0,16.0,512.0,SSD,Intel,Mid,12,0,1
+Lenovo IdeaPad Slim 5 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home) 14IAH8 Thin a...,Lenovo,59841.0,18.01,4.2,150.0,13.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+Infinix Y4 Max Series Intel Core i5 13th Gen 1335U - (16 GB/512 GB SSD/Windows 11 Home) YL613 Thin and...,Infinix,41990.0,35.39,4.2,187.0,38.0,16.0,512.0,SSD,Intel,Mid,13,0,0
+MSI Thin 15 Intel Core i5 12th Gen 12450H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFo...,MSI,51990.0,23.53,4.2,112.0,15.0,8.0,512.0,SSD,Intel,Mid,12,0,1
+Thomson NEO Core Series Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin...,Thomson,43770.0,37.46,4.7,3.0,1.0,16.0,512.0,SSD,Intel,High,12,0,0
+MSI Modern 14 AMD Ryzen 5 Hexa Core 7530U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C7M-062IN Thi...,MSI,36990.0,43.08,4.3,1885.0,234.0,16.0,512.0,SSD,AMD,Mid,0,0,1
+ASUS Chromebook Intel Celeron Dual Core N4500 - (4 GB/64 GB EMMC Storage/Chrome OS) CX1500CKA-NJ0393 C...,ASUS,15990.0,51.53,3.8,997.0,94.0,4.0,64.0,EMMC,Intel,Entry,0,0,0
+HP 240 G9 Intel Core i3 12th Gen 1215 - (8 GB/512 GB SSD/Windows 11 Home) 240 G9 Laptop,HP,32400.0,44.14,3.8,89.0,3.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+HP Intel Core i3 12th Gen 1215U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fy5004TU Thin and Light Lapto...,HP,42990.0,18.46,4.2,5540.0,485.0,16.0,512.0,SSD,Intel,Entry,12,0,0
+MSI Thin 15 Intel Core i7 12th Gen 12650H - (8 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForc...,MSI,67990.0,19.05,0.0,0.0,0.0,8.0,1024.0,SSD,Intel,High,12,0,1
+Acer Aspire 3 Intel Celeron Dual Core N4500 - (8 GB/512 GB SSD/Windows 11 Home) A324-45 Thin and Light...,Acer,20990.0,36.39,3.8,69.0,8.0,8.0,512.0,SSD,Intel,Entry,0,0,0
+Lenovo IdeaPad Slim 3 Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) 15IAU7 Thin an...,Lenovo,59990.0,26.83,3.9,59.0,5.0,16.0,512.0,SSD,Intel,High,12,0,0
+Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home) 14IAH8 Thin a...,Lenovo,53390.0,23.61,3.8,53.0,5.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+HP (15s-fq5007TU) Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fq5327TU Thin a...,HP,38990.0,23.75,4.2,5540.0,485.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+"ASUS Vivobook 15, with Backlit Keyboard, Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 H...",ASUS,52990.0,28.38,4.2,1915.0,105.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+HP Intel Celeron Dual Core N4500 - (8 GB/512 GB SSD/Windows 11 Home) 15s- fq3066TU Thin and Light Lapt...,HP,28490.0,10.87,3.8,835.0,67.0,8.0,512.0,SSD,Intel,Entry,0,0,0
+Lenovo IdeaPad Slim 1 (2024) AMD Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) 15ACL6 | ...,Lenovo,35990.0,34.67,4.2,4238.0,411.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+HP 2023 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5003TU Thin and Light L...,HP,36990.0,27.85,4.2,3102.0,221.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+MSI GF63 Intel Core i7 12th Gen 12650H - (16 GB/512 GB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForc...,MSI,92990.0,16.97,4.3,108.0,8.0,16.0,512.0,SSD,Intel,High,12,0,1
+HP Pavilion Plus Intel Core i5 13th Gen 1335U - (16 GB/512 GB SSD/Windows 11 Home) 14-ew0116TU Thin an...,HP,70990.0,14.4,4.4,14.0,2.0,16.0,512.0,SSD,Intel,Mid,13,0,0
+HP 2023 Backlit Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5002TU Thin and...,HP,48160.0,32.0,4.2,2043.0,117.0,8.0,512.0,SSD,Intel,Mid,12,0,0
+HP Intel Core i5 13th Gen 1335U - (8 GB/512 GB SSD/Windows 11 Home) 15-fd0187TU Thin and Light Laptop,HP,52990.0,25.2,4.0,226.0,19.0,8.0,512.0,SSD,Intel,Mid,13,0,0
+MSI Cyborg 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA G...,MSI,54990.0,38.89,3.9,7.0,1.0,16.0,512.0,SSD,Intel,Mid,12,0,1
+Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/256 GB SSD/Windows 11 Home) IN-N15I Thin ...,Thomson,27490.0,31.26,5.0,3.0,0.0,8.0,256.0,SSD,Intel,Entry,12,0,0
+HP Pavilion (2023) Intel Core i5 13th Gen 1340P - (16 GB/512 GB SSD/Windows 11 Home) 15-eg3079TU Thin ...,HP,64990.0,22.36,4.3,461.0,34.0,16.0,512.0,SSD,Intel,Mid,13,0,0
+Acer Aspire Lite AMD Ryzen 5 Hexa Core 5500U - (16 GB/1 TB SSD/Windows 11 Home) AL15-41 Thin and Light...,Acer,39780.0,38.8,3.9,204.0,19.0,16.0,1024.0,SSD,AMD,Mid,0,0,0
+MSI Thin 15 Intel Core i5 12th Gen 12450H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFo...,MSI,51990.0,23.53,4.2,112.0,15.0,8.0,512.0,SSD,Intel,Mid,12,0,1
+HP Intel Core i3 12th Gen 1215U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fy5004TU Thin and Light Lapto...,HP,42990.0,18.46,4.2,5540.0,485.0,16.0,512.0,SSD,Intel,Entry,12,0,0
+Acer One14 Backlit Intel Core i5 11th Gen 1155G7 - (16 GB/512 GB SSD/Windows 11 Home) Z8-415 Thin and ...,Acer,37990.0,36.68,3.7,2378.0,299.0,16.0,512.0,SSD,Intel,Mid,11,0,0
+ASUS TUF Gaming F17 - AI Powered Gaming Intel Core i5 11th Gen 11400H - (16 GB/1 TB SSD/Windows 11 Hom...,ASUS,60990.0,30.69,4.7,7.0,0.0,16.0,1024.0,SSD,Intel,Mid,11,1,0
+HP AMD Ryzen 7 Octa Core 5700U - (16 GB/512 GB SSD/Windows 11 Home) 15s-EQ2084AU Laptop,HP,48990.0,23.66,4.6,8.0,0.0,16.0,512.0,SSD,AMD,High,0,0,0
+HP Victus 15 (2024) AMD Ryzen 5 Hexa Core 5600H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVID...,HP,60990.0,24.32,4.3,440.0,30.0,16.0,512.0,SSD,AMD,Mid,0,0,0
+Thomson NEO Core Series Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin...,Thomson,43770.0,37.46,4.7,3.0,1.0,16.0,512.0,SSD,Intel,High,12,0,0
+Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin ...,Thomson,28129.0,37.48,5.0,3.0,0.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Lenovo IdeaPad Slim 5 Intel Core i5 13th Gen 13420H - (16 GB/512 GB SSD/Windows 11 Home) 14IRL8 Thin a...,Lenovo,65989.0,28.11,4.2,136.0,16.0,16.0,512.0,SSD,Intel,Mid,13,0,0
+Infinix X3 Slim Intel Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) XL422 Thin and ...,Infinix,29990.0,45.46,4.1,1392.0,190.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+MSI Thin 15 Intel Core i7 12th Gen 12650H - (8 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForc...,MSI,67990.0,19.05,0.0,0.0,0.0,8.0,1024.0,SSD,Intel,High,12,0,1
+Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home) 14IAH8 Thin a...,Lenovo,53390.0,23.61,3.8,53.0,5.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+ASUS Vivobook 16 (2023) AMD Ryzen 5 Hexa Core 7530U - (16 GB/1 TB SSD/Windows 11 Home) M1605YA-MB551WS...,ASUS,51990.0,37.35,4.3,133.0,13.0,16.0,1024.0,SSD,AMD,Mid,0,0,0
+HP Pavilion Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) 14-dv2014TU Thin and Lig...,HP,63990.0,13.16,4.3,1795.0,146.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+HP G8 Intel Core i3 11th Gen 12 gen - (16 GB/512 GB SSD/Windows 11 Pro) 250G8 Business Laptop,HP,35490.0,52.04,3.9,21.0,2.0,16.0,512.0,SSD,Intel,Entry,11,0,0
+ASUS Vivobook Go 15 OLED (2023) AMD Ryzen 5 Quad Core 7520U - (8 GB/512 GB SSD/Windows 11 Home) E1504F...,ASUS,46990.0,37.34,4.4,1544.0,144.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+HP 2023 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5003TU Thin and Light L...,HP,36990.0,27.85,4.2,3102.0,221.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Lenovo IdeaPad Slim 1 (2024) AMD Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) 15ACL6 | ...,Lenovo,35990.0,34.67,4.2,4238.0,411.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+HP 250 G8 (2024) Intel Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) 250 G8 Business Laptop,HP,31990.0,27.71,4.1,896.0,72.0,8.0,512.0,SSD,Intel,Entry,11,0,0
+Colorful Evol P15 Intel Core i7 13th Gen 13620H - (16 GB/512 GB SSD/Windows 11 Home/8 GB Graphics/NVID...,Colorful,88990.0,36.44,4.3,9.0,4.0,16.0,512.0,SSD,Intel,High,13,0,0
+Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/256 GB SSD/Windows 11 Home) IN-N15I Thin ...,Thomson,27490.0,31.26,5.0,3.0,0.0,8.0,256.0,SSD,Intel,Entry,12,0,0
+MSI Cyborg 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA G...,MSI,54990.0,38.89,3.9,7.0,1.0,16.0,512.0,SSD,Intel,Mid,12,0,1
+HP Intel Core i5 13th Gen - (16 GB/512 GB SSD/Windows 11 Home/Intel Integrated intel hd) 14-ek1074TU 2...,HP,68990.0,24.7,4.7,15.0,1.0,16.0,512.0,SSD,Intel,Mid,13,0,0
+Lenovo LOQ 2024 Intel Core i5 12th Gen 12450HX - (12 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDI...,Lenovo,60990.0,26.24,4.0,43.0,7.0,12.0,512.0,SSD,Intel,Mid,12,0,0
+DELL Intel Core i5 12th Gen 1235U - (8 GB/1 TB HDD/256 GB SSD/Windows 11 Home) New Inspiron 15 Laptop ...,DELL,48490.0,39.33,3.9,44.0,2.0,8.0,256.0,SSD,Intel,Mid,12,0,0
+Lenovo LOQ Intel Core i5 12th Gen 12450HX - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeF...,Lenovo,78990.0,24.84,4.3,24.0,3.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+MSI Thin 15 Intel Core i5 12th Gen 12450H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFo...,MSI,51990.0,23.53,4.2,112.0,15.0,8.0,512.0,SSD,Intel,Mid,12,0,1
+Thomson NEO Core Series Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin...,Thomson,43770.0,37.46,4.7,3.0,1.0,16.0,512.0,SSD,Intel,High,12,0,0
+Lenovo IdeaPad Slim 5 AI PC Intel Core Ultra 5 125H - (16 GB/1 TB SSD/Windows 11 Home) 16IMH9 Thin and...,Lenovo,79990.0,25.72,4.4,81.0,11.0,16.0,1024.0,SSD,Intel,Ultra,0,0,0
+ASUS Vivobook S15 OLED (2024) Intel EVO H-Series Intel Core i7 12th Gen 12700H - (16 GB/512 GB SSD/Win...,ASUS,78990.0,32.48,4.1,131.0,10.0,16.0,512.0,SSD,Intel,Other,0,0,0
+HP Intel Core i3 12th Gen 1215U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fy5004TU Thin and Light Lapto...,HP,42990.0,18.46,4.2,5540.0,485.0,16.0,512.0,SSD,Intel,Entry,12,0,0
+Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin ...,Thomson,28129.0,37.48,5.0,3.0,0.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+ASUS Vivobook S 15 OLED (2023) Intel EVO H-Series Intel Core i5 13th Gen 13500H - (16 GB/512 GB SSD/Wi...,ASUS,76990.0,27.36,4.4,109.0,15.0,16.0,512.0,SSD,Intel,Other,0,0,0
+HP Intel Core i5 13th Gen 1334U - (8 GB/512 GB SSD/Windows 11 Home) 15-fd0220TU Thin and Light Laptop,HP,52990.0,24.84,4.0,3.0,0.0,8.0,512.0,SSD,Intel,Mid,13,0,0
+Lenovo IdeaPad Slim 5 Intel Core i5 12th Gen 12450H - (16 GB/1 TB SSD/Windows 11 Home) 14IAH8 Thin and...,Lenovo,63990.0,18.58,4.2,150.0,13.0,16.0,1024.0,SSD,Intel,Mid,12,0,0
+Acer Aspire 3 Intel Celeron Dual Core N4500 - (8 GB/256 GB SSD/Windows 11 Home) A325-45 Thin and Light...,Acer,20990.0,30.01,0.0,0.0,0.0,8.0,256.0,SSD,Intel,Entry,0,0,0
+MSI Thin 15 Intel Core i7 12th Gen 12650H - (8 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForc...,MSI,67990.0,19.05,0.0,0.0,0.0,8.0,1024.0,SSD,Intel,High,12,0,1
+Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home) 14IAH8 Thin a...,Lenovo,53390.0,23.61,3.8,53.0,5.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+DELL Vostro Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) Vostro 3520 Thin and Ligh...,DELL,34990.0,28.87,0.0,0.0,0.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+MSI Modern 15 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 15 B12MO-817IN ...,MSI,43990.0,24.14,4.2,912.0,109.0,16.0,512.0,SSD,Intel,Mid,12,0,1
+HP 2023 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5003TU Thin and Light L...,HP,36990.0,27.85,4.2,3102.0,221.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Lenovo IdeaPad Slim 1 (2024) AMD Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) 15ACL6 | ...,Lenovo,35990.0,34.67,4.2,4238.0,411.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+HP AMD Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) 15s- eq2223AU Thin and Light Laptop,HP,39450.0,20.51,4.3,3246.0,255.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+Lenovo IdeaPad Slim 5 WUXGA IPS Intel Core Ultra 5 125H - (16 GB/512 GB SSD/Windows 11 Home) 14IMH9 Th...,Lenovo,76990.0,25.82,4.4,81.0,11.0,16.0,512.0,SSD,Intel,Ultra,0,0,0
+Acer Predator Helios 16 Intel Core i9 13th Gen 13900HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics...,Acer,129990.0,24.42,4.3,65.0,8.0,16.0,1024.0,SSD,Intel,Ultra,13,1,0
+Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/256 GB SSD/Windows 11 Home) IN-N15I Thin ...,Thomson,27490.0,31.26,5.0,3.0,0.0,8.0,256.0,SSD,Intel,Entry,12,0,0
+MSI Cyborg 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA G...,MSI,54990.0,38.89,3.9,7.0,1.0,16.0,512.0,SSD,Intel,Mid,12,0,1
+ZEBRONICS Pro Series Z Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) ZEB-NBC 4S Thi...,ZEBRONICS,33990.0,44.28,3.8,440.0,68.0,8.0,512.0,SSD,Intel,Mid,12,0,0
+Avita SATUS S111 Intel Celeron Dual Core N4020 - (4 GB/128 GB SSD/Windows 11 Home) NU14A1INC43PN-CG La...,Avita,13990.0,53.35,3.6,1379.0,174.0,4.0,128.0,SSD,Intel,Entry,0,0,0
+MSI Thin 15 Intel Core i5 12th Gen 12450H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFo...,MSI,51990.0,23.53,4.2,112.0,15.0,8.0,512.0,SSD,Intel,Mid,12,0,1
+Thomson NEO Core Series Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin...,Thomson,43770.0,37.46,4.7,3.0,1.0,16.0,512.0,SSD,Intel,High,12,0,0
+HP Intel Core i3 12th Gen - (8 GB/512 GB SSD/Windows 11 Home) 15s-fq5185TU Laptop,HP,36200.0,22.32,4.2,48.0,2.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+HP Victus Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFor...,HP,68990.0,20.1,4.3,168.0,8.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+Lenovo ThinkBook 15 G5 (2024) AMD Ryzen 7 Octa Core 7730U - (16 GB/512 GB SSD/Windows 11 Home) ThinkBo...,Lenovo,52990.0,41.12,3.9,68.0,6.0,16.0,512.0,SSD,AMD,High,0,0,0
+HP Intel Core i3 12th Gen 1215U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fy5004TU Thin and Light Lapto...,HP,42990.0,18.46,4.2,5540.0,485.0,16.0,512.0,SSD,Intel,Entry,12,0,0
+Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin ...,Thomson,28129.0,37.48,5.0,3.0,0.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+ASUS Chromebook Intel Celeron Dual Core N4500 - (8 GB/128 GB EMMC Storage/Chrome OS) CX1500CKA-NJ0395 ...,ASUS,19990.0,39.41,3.8,997.0,94.0,8.0,128.0,EMMC,Intel,Entry,0,0,0
+HP Victus Intel Core i5 12th Gen 12450H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForc...,HP,54990.0,24.38,4.3,424.0,21.0,8.0,512.0,SSD,Intel,Mid,12,0,0
+MSI Thin 15 Intel Core i7 12th Gen 12650H - (8 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForc...,MSI,67990.0,19.05,0.0,0.0,0.0,8.0,1024.0,SSD,Intel,High,12,0,1
+Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home) 14IAH8 Thin a...,Lenovo,53390.0,23.61,3.8,53.0,5.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+HP 14a Intel Celeron Dual Core N4500 - (4 GB/64 GB EMMC Storage/Chrome OS) 14a- na1004TU Chromebook,HP,17990.0,40.03,3.7,1227.0,121.0,4.0,64.0,EMMC,Intel,Entry,0,0,0
+ASUS Vivobook 16 (2023) AMD Ryzen 7 Octa Core 7730U - (16 GB/512 GB SSD/Windows 11 Home) M1605YA-MB741...,ASUS,54990.0,37.5,4.3,40.0,4.0,16.0,512.0,SSD,AMD,High,0,0,0
+Acer Nitro 5 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA Ge...,Acer,68568.0,24.65,4.4,677.0,69.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+ASUS Vivobook Go 15 OLED (2024) AMD Ryzen 3 Quad Core 7320U - (8 GB/512 GB SSD/Windows 11 Home) E1504F...,ASUS,41990.0,32.26,4.4,2030.0,245.0,8.0,512.0,SSD,AMD,Entry,0,0,0
+HP 2023 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5003TU Thin and Light L...,HP,36990.0,27.85,4.2,3102.0,221.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Lenovo IdeaPad Slim 1 (2024) AMD Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) 15ACL6 | ...,Lenovo,35990.0,34.67,4.2,4238.0,411.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+Acer Aspire 3 Intel Core i3 12th Gen 1215U - (8 GB/256 GB SSD/Windows 11 Home) A324-51 Thin and Light ...,Acer,27990.0,31.73,4.1,356.0,34.0,8.0,256.0,SSD,Intel,Entry,12,0,0
+Acer ALG Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForc...,Acer,57990.0,27.5,0.0,0.0,0.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/256 GB SSD/Windows 11 Home) IN-N15I Thin ...,Thomson,27490.0,31.26,5.0,3.0,0.0,8.0,256.0,SSD,Intel,Entry,12,0,0
+MSI Cyborg 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA G...,MSI,54990.0,38.89,3.9,7.0,1.0,16.0,512.0,SSD,Intel,Mid,12,0,1
+ASUS Vivobook 15 OLED (2023) Intel Core i5 13th Gen 1335U - (16 GB/512 GB SSD/Windows 11 Home) X1505VA...,ASUS,62990.0,32.26,0.0,0.0,0.0,16.0,512.0,SSD,Intel,Mid,13,0,0
+ZEBRONICS Pro Series Z Intel Core i7 12th Gen 1255U - (16 GB/1 TB SSD/Windows 11 Home) ZEB-NBC 5S Thin...,ZEBRONICS,43990.0,46.35,3.9,218.0,17.0,16.0,1024.0,SSD,Intel,High,12,0,0
+ASUS ExpertBook B14 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) B1402CBA-NK1494WS...,ASUS,36990.0,27.46,4.2,54.0,6.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+"ASUS Vivobook 15, with Backlit Keyboard, Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 H...",ASUS,52990.0,29.34,5.0,6.0,0.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+MSI Thin 15 Intel Core i5 12th Gen 12450H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFo...,MSI,51990.0,23.53,4.2,112.0,15.0,8.0,512.0,SSD,Intel,Mid,12,0,1
+Thomson NEO Core Series Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin...,Thomson,43770.0,37.46,4.7,3.0,1.0,16.0,512.0,SSD,Intel,High,12,0,0
+HP AMD Athlon Dual Core 3050U - (8 GB/256 GB SSD/Windows 11 Home) 14s-fq0568AU Thin and Light Laptop,HP,24890.0,32.39,4.1,3757.0,294.0,8.0,256.0,SSD,AMD,Other,0,0,0
+MSI GF63 Intel Core i5 12th Gen 12450H - (16 GB/1 TB HDD/256 GB SSD/Windows 11 Home/6 GB Graphics/NVID...,MSI,71990.0,37.39,4.4,209.0,26.0,16.0,256.0,SSD,Intel,Mid,12,0,1
+HP Intel Core i3 12th Gen 1215U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fy5004TU Thin and Light Lapto...,HP,42990.0,18.46,4.2,5540.0,485.0,16.0,512.0,SSD,Intel,Entry,12,0,0
+MSI Thin 15 Intel Core i7 12th Gen 12650H - (8 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForc...,MSI,67990.0,19.05,0.0,0.0,0.0,8.0,1024.0,SSD,Intel,High,12,0,1
+ASUS Intel Core i5 12th Gen 12500H - (16 GB/512 GB SSD/Windows 11 Home) X1605ZAC-MB542WS Laptop,ASUS,57990.0,20.55,0.0,0.0,0.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+Lenovo IdeaPad Slim 3 Intel Core i3 12th Gen 1215U - (8 GB/256 GB SSD/Windows 11 Home) 15IAU7 Thin and...,Lenovo,34990.0,30.42,4.2,1167.0,84.0,8.0,256.0,SSD,Intel,Entry,12,0,0
+ASUS Vivobook Intel Celeron Dual Core N4020 - (8 GB/512 GB SSD/Windows 10 Home) X515MA-BR022WS Thin an...,ASUS,26990.0,30.78,4.0,589.0,42.0,8.0,512.0,SSD,Intel,Entry,0,0,0
+ASUS X1500EA-EJ3379WS Intel Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) X1500EA-EJ3379WS Thin...,ASUS,31750.0,38.93,4.1,41.0,2.0,8.0,512.0,SSD,Intel,Entry,11,0,0
+MSI Cyborg 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA G...,MSI,54990.0,38.89,3.9,7.0,1.0,16.0,512.0,SSD,Intel,Mid,12,0,1
+MSI Thin 15 Intel Core i7 12th Gen 12650H - (8 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForc...,MSI,67990.0,19.05,0.0,0.0,0.0,8.0,1024.0,SSD,Intel,High,12,0,1
+Lenovo IdeaPad Gaming 3 Intel Core i5 11th Gen 11320H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics...,Lenovo,52990.0,29.34,4.2,621.0,53.0,8.0,512.0,SSD,Intel,Mid,11,1,0
+Colorful P15 Intel Core i7 12th Gen 12650H - (16 GB/512 GB SSD/Windows 11 Home/8 GB Graphics/NVIDIA Ge...,Colorful,85990.0,28.34,4.3,43.0,11.0,16.0,512.0,SSD,Intel,High,12,0,0
+HP ENVY AMD Ryzen 5 Hexa Core 8640HS - (16 GB/512 GB SSD/Windows 11 Home) 14-fa0038AU Thin and Light L...,HP,84490.0,14.78,2.3,3.0,0.0,16.0,512.0,SSD,AMD,Mid,0,0,0
+ASUS TUF Gaming A15 (2024) AMD Ryzen 7 Octa Core 8845HS - (16 GB/512 GB SSD/Windows 11 Home/8 GB Graph...,ASUS,124990.0,13.2,0.0,0.0,0.0,16.0,512.0,SSD,AMD,High,0,1,0
+HP 15s Intel Core i3 11th Gen 1115G4 - (8 GB/1 TB HDD/256 GB SSD/Windows 11 Home) 15s-du3614TU Thin an...,HP,34790.0,31.94,4.1,380.0,27.0,8.0,256.0,SSD,Intel,Entry,11,0,0
+ASUS Vivobook Go 14 (2023) Intel Intel Core i3 12th Gen N305 - (8 GB/512 GB SSD/Windows 11 Home) E1404...,ASUS,34990.0,31.38,4.2,430.0,38.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+ASUS ExpertBook B15 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) B1502CBA-NJ1090WS...,ASUS,36990.0,27.46,4.2,54.0,6.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+HP Pavilion AMD Ryzen 5 Hexa Core 5625U - (8 GB/512 GB SSD/Windows 11 Home) 14-EC1003AU Thin and Light...,HP,48990.0,22.64,4.3,1548.0,148.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+ASUS TUF Gaming A15 (2024) AMD Ryzen 9 Octa Core 8945H - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics...,ASUS,142990.0,16.86,0.0,0.0,0.0,16.0,1024.0,SSD,AMD,Ultra,0,1,0
+MSI Sword 16 HX Intel Core i7 14th Gen 14700HX - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA ...,MSI,124990.0,10.72,0.0,0.0,0.0,16.0,1024.0,SSD,Intel,High,14,0,1
+Lenovo IdeaPad Slim 5 WUXGA OLED Intel Core i5 13th Gen 13420H - (16 GB/512 GB SSD/Windows 11 Home) 14...,Lenovo,68989.0,27.07,3.5,6.0,0.0,16.0,512.0,SSD,Intel,Mid,13,0,0
+MSI Prestige 16 AI Studio Intel Core Ultra 9 185H - (32 GB/1 TB SSD/Windows 11 Home/8 GB Graphics) Pre...,MSI,189990.0,10.8,0.0,0.0,0.0,32.0,1024.0,SSD,Intel,Ultra,0,0,1
+HP ENVY AMD Ryzen 7 Octa Core 8840HS - (16 GB/512 GB SSD/Windows 11 Home) 14-fa0052AU Thin and Light L...,HP,94490.0,14.4,0.0,0.0,0.0,16.0,512.0,SSD,AMD,High,0,0,0
+HP 255 G9 841W6pa AMD Ryzen 3 Dual Core - (8 GB/512 GB SSD/DOS) 6E3Z0PA Laptop,HP,25499.0,27.58,3.8,295.0,21.0,8.0,512.0,SSD,AMD,Entry,0,0,0
+Lenovo V15 (2024) AMD Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) V15 G2 ALC Thin and ...,Lenovo,34800.0,49.95,4.2,1305.0,125.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+Lenovo IdeaPad Slim 3 AMD Ryzen 3 Quad Core 7320U - (8 GB/512 GB SSD/Windows 11 Home) 14AMN8 Thin and ...,Lenovo,32990.0,37.86,0.0,0.0,0.0,8.0,512.0,SSD,AMD,Entry,0,0,0
+HP Pavilion Intel Core i7 13th Gen 1360P - (16 GB/1 TB SSD/Windows 11 Home) 15-eg3036TU Thin and Light...,HP,89999.0,12.54,4.3,215.0,19.0,16.0,1024.0,SSD,Intel,High,13,0,0
+MSI Claw Intel Core Ultra 5 135H - (16 GB/512 GB SSD/Windows 11 Home) Claw A1M-219IN Handheld Gaming P...,MSI,64990.0,26.97,0.0,0.0,0.0,16.0,512.0,SSD,Intel,Ultra,0,1,1
+ASUS ROG Zephyrus G14 OLED (2024) AMD Ryzen 9 Octa Core 8945HS - (16 GB/1 TB SSD/Windows 11 Home/8 GB ...,ASUS,174990.0,8.85,0.0,0.0,0.0,16.0,1024.0,SSD,AMD,Ultra,0,1,0
+ASUS Chromebook (2024) Intel Celeron Dual Core N4500 - (4 GB/64 GB EMMC Storage/Chrome OS) CX1400CKA-N...,ASUS,15990.0,51.53,3.8,1602.0,144.0,4.0,64.0,EMMC,Intel,Entry,0,0,0
+MSI Cyborg 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA G...,MSI,54990.0,38.89,3.9,7.0,1.0,16.0,512.0,SSD,Intel,Mid,12,0,1
+MSI Thin 15 Intel Core i7 12th Gen 12650H - (8 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForc...,MSI,67990.0,19.05,0.0,0.0,0.0,8.0,1024.0,SSD,Intel,High,12,0,1
+AXL Intel Celeron Dual Core 9th Gen - (4 GB/256 GB SSD/Windows 11 Home) 15W_LAP02 Thin and Light Lapto...,AXL,17990.0,47.07,3.8,43.0,4.0,4.0,256.0,SSD,Intel,Entry,9,0,0
+Lenovo THINKBOOK AMD Ryzen 7 Octa Core 7730U - (16 GB/512 GB SSD/Windows 11 Home) TB 15 Thin and Light...,Lenovo,52990.0,47.01,4.1,68.0,3.0,16.0,512.0,SSD,AMD,High,0,0,0
+Lenovo Ideapad Intel Celeron Dual Core N4020 - (4 GB/256 GB SSD/Windows 11 Home) 14IGL7 Thin and Light...,Lenovo,20990.0,36.76,4.1,2580.0,228.0,4.0,256.0,SSD,Intel,Entry,0,0,0
+HP Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5007TU Thin and Light Laptop,HP,46990.0,24.44,4.2,93.0,6.0,8.0,512.0,SSD,Intel,Mid,12,0,0
+ASUS TUF Gaming A15 (2024) AMD Ryzen 9 Octa Core 8945H - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics...,ASUS,142990.0,16.86,0.0,0.0,0.0,16.0,1024.0,SSD,AMD,Ultra,0,1,0
+HP ENVY AMD Ryzen 5 Hexa Core 8640HS - (16 GB/512 GB SSD/Windows 11 Home) 14-fa0038AU Thin and Light L...,HP,84490.0,14.78,2.3,3.0,0.0,16.0,512.0,SSD,AMD,Mid,0,0,0
+Lenovo IdeaPad AMD Ryzen 5 Hexa Core 5500U - (16 GB/512 GB SSD/Windows 11 Home) 14ALC7 Thin and Light ...,Lenovo,58990.0,29.68,0.0,0.0,0.0,16.0,512.0,SSD,AMD,Mid,0,0,0
+Lenovo V15 AMD Ryzen 5 Quad Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) V15 Business Laptop,Lenovo,34990.0,54.56,4.4,21.0,1.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+MSI Prestige 16 AI Studio Intel Core Ultra 9 185H - (32 GB/1 TB SSD/Windows 11 Home/8 GB Graphics) Pre...,MSI,189990.0,10.8,0.0,0.0,0.0,32.0,1024.0,SSD,Intel,Ultra,0,0,1
+MSI Sword 16 HX Intel Core i7 14th Gen 14700HX - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA ...,MSI,124990.0,10.72,0.0,0.0,0.0,16.0,1024.0,SSD,Intel,High,14,0,1
+Lenovo LOQ (2024) AMD Ryzen 5 Quad Core 7235HS - (12 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDI...,Lenovo,63990.0,27.28,4.2,37.0,2.0,12.0,512.0,SSD,AMD,Mid,0,0,0
+Lenovo LOQ Intel Core i7 13th Gen 13650HX - (24 GB/512 GB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeF...,Lenovo,109990.0,21.04,4.0,4.0,1.0,24.0,512.0,SSD,Intel,High,13,0,0
+Lenovo ThinkBook 15 G3 (2024) AMD Ryzen 3 Hexa Core 5300U - (8 GB/512 GB SSD/Windows 11 Home) Thinkboo...,Lenovo,32990.0,53.31,4.2,30.0,4.0,8.0,512.0,SSD,AMD,Entry,0,0,0
+MSI Claw Intel Core Ultra 7 155H - (16 GB/512 GB SSD/Windows 11 Home) Claw A1M-218IN Handheld Gaming P...,MSI,71990.0,25.78,0.0,0.0,0.0,16.0,512.0,SSD,Intel,Ultra,0,1,1
+MSI Prestige 14 AI Evo Intel Core Ultra 5 1st Gen 125H - (16 GB/1 TB SSD/Windows 11 Home) Prestige 14 ...,MSI,89990.0,40.0,0.0,0.0,0.0,16.0,1024.0,SSD,Intel,Ultra,0,0,1
+Lenovo AMD Ryzen 3 Quad Core 7330 U - (8 GB/512 GB SSD/DOS) Thinkbook 15 Business Laptop,Lenovo,29999.0,49.92,3.3,11.0,0.0,8.0,512.0,SSD,AMD,Entry,0,0,0
+HP Pavilion Intel Core Ultra 5 125U - (16 GB/512 GB SSD/Windows 11 Home) 16-af0015TU Thin and Light La...,HP,78990.0,11.6,5.0,3.0,0.0,16.0,512.0,SSD,Intel,Ultra,0,0,0
+Lenovo LOQ AMD Ryzen 7 Octa Core 8845HS - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeFor...,Lenovo,99990.0,29.13,0.0,0.0,0.0,16.0,512.0,SSD,AMD,High,0,0,0
+DELL Inspiron 3520 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) New Inspiron 15 La...,DELL,36470.0,40.39,4.2,1805.0,143.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+SAMSUNG Galaxy Book4 Intel Core 5 120U - (16 GB/512 GB SSD/Windows 11 Home) NP750XGK-KS2IN / NP750XGK-...,SAMSUNG,72990.0,20.65,4.2,61.0,7.0,16.0,512.0,SSD,Intel,Other,0,0,0
+DELL Inspiron Intel Core i5 13th Gen 1335U - (8 GB/512 GB SSD/Windows 11 Home) Inspiron 5430 Thin and ...,DELL,55990.0,33.67,3.8,86.0,11.0,8.0,512.0,SSD,Intel,Mid,13,0,0
+MSI Modern 15 Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) Modern 15 B12MO Busine...,MSI,54990.0,21.43,0.0,0.0,0.0,16.0,512.0,SSD,Intel,High,12,0,1
+Lenovo LOQ (2024) AI Powered AMD Ryzen 7 Octa Core 7840HS - (16 GB/512 GB SSD/Windows 11 Home/6 GB Gra...,Lenovo,83990.0,37.22,4.1,201.0,21.0,16.0,512.0,SSD,AMD,High,0,0,0
+HP 2023 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5003TU Thin and Light L...,HP,36990.0,27.85,4.2,3102.0,221.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Lenovo IdeaPad Slim 1 (2024) AMD Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) 15ACL6 | ...,Lenovo,35990.0,34.67,4.2,4238.0,411.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+HP Pavilion x360 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 14-ek0183TU Thin and...,HP,54990.0,16.2,4.6,18.0,1.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+ASUS Vivobook Go 15 AMD Ryzen 5 Quad Core 7520U - (16 GB/512 GB SSD/Windows 11 Home) E1504FA-NJ541WS T...,ASUS,43990.0,38.03,5.0,7.0,0.0,16.0,512.0,SSD,AMD,Mid,0,0,0
+Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/256 GB SSD/Windows 11 Home) IN-N15I Thin ...,Thomson,27490.0,31.26,5.0,3.0,0.0,8.0,256.0,SSD,Intel,Entry,12,0,0
+MSI Cyborg 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA G...,MSI,54990.0,38.89,3.9,7.0,1.0,16.0,512.0,SSD,Intel,Mid,12,0,1
+Thomson Intel Celeron Dual Core N4020 - (4 GB/128 GB SSD/Windows 11 Home) IN-N15V2C Thin and Light Lap...,Thomson,16990.0,34.63,2.0,3.0,1.0,4.0,128.0,SSD,Intel,Entry,0,0,0
+DELL Intel Core i5 13th Gen 1334U - (8 GB/512 GB SSD/Windows 11 Home) Vostro 3530 Thin and Light Lapto...,DELL,49990.0,16.02,0.0,0.0,0.0,8.0,512.0,SSD,Intel,Mid,13,0,0
+DELL Vostro Intel Core i3 11th Gen 1115G4 - (8 GB/512 GB SSD/Windows 11 Home) Vostro 3420 Thin and Lig...,DELL,38499.0,44.68,3.4,17.0,1.0,8.0,512.0,SSD,Intel,Entry,11,0,0
+MSI Modern 14 Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO Busine...,MSI,51990.0,14.76,0.0,0.0,0.0,16.0,512.0,SSD,Intel,High,12,0,1
+MSI Thin 15 Intel Core i5 12th Gen 12450H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFo...,MSI,51990.0,23.53,4.2,112.0,15.0,8.0,512.0,SSD,Intel,Mid,12,0,1
+Thomson NEO Core Series Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin...,Thomson,43770.0,37.46,4.7,3.0,1.0,16.0,512.0,SSD,Intel,High,12,0,0
+Lenovo Ideapad 330 Intel Core i5 8th Gen 8250U - (8 GB/1 TB HDD/DOS/2 GB Graphics) 330-15IKB Laptop,Lenovo,32927.0,37.7,4.2,7038.0,969.0,8.0,1024.0,HDD,Intel,Mid,8,0,0
+DELL Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) Vostro 3420 Thin and Light Lapto...,DELL,34490.0,34.92,3.7,47.0,1.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+HP Intel Core i3 12th Gen 1215U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fy5004TU Thin and Light Lapto...,HP,42990.0,18.46,4.2,5540.0,485.0,16.0,512.0,SSD,Intel,Entry,12,0,0
+MSI Thin 15 Intel Core i7 12th Gen 12650H - (8 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForc...,MSI,67990.0,19.05,0.0,0.0,0.0,8.0,1024.0,SSD,Intel,High,12,0,1
+DELL Intel Core i5 13th Gen 1334U - (16 GB/512 GB SSD/Windows 11 Home) Inspiron 3530 Thin and Light La...,DELL,58990.0,19.37,4.1,149.0,4.0,16.0,512.0,SSD,Intel,Mid,13,0,0
+Infinix Zero Book Ultra AI PC Intel Core Ultra 5 125H - (16 GB/512 GB SSD/Windows 11 Home) ZL514 Thin ...,Infinix,59990.0,25.0,3.8,4.0,2.0,16.0,512.0,SSD,Intel,Ultra,0,0,0
+Lenovo V15 AMD Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) V15 Thin and Light Laptop,Lenovo,34990.0,49.67,3.8,77.0,7.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+ASUS Vivobook 15 OLED (2023) Intel H-Series Intel Core i5 13th Gen 13500H - (16 GB/512 GB SSD/Windows ...,ASUS,68990.0,25.81,4.2,5.0,0.0,16.0,512.0,SSD,Intel,Other,0,0,0
+Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home) 14IAH8 Thin a...,Lenovo,53390.0,23.61,3.8,53.0,5.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+HP (15s-fq5007TU) Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fq5327TU Thin a...,HP,38990.0,23.75,4.2,5540.0,485.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+ASUS Intel Core i3 11th Gen 1115G4 - (8 GB/512 GB SSD/Windows 11 Home) X1400EA-EK323WS Thin and Light ...,ASUS,30990.0,36.74,4.3,3434.0,263.0,8.0,512.0,SSD,Intel,Entry,11,0,0
+MSI Modern 14 AMD Ryzen 7 Octa Core 7730U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C7M-218IN Thi...,MSI,49990.0,19.36,4.5,18.0,3.0,16.0,512.0,SSD,AMD,High,0,0,1
+Lenovo IdeaPad Slim 1 (2024) AMD Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) 15ACL6 | ...,Lenovo,35990.0,34.67,4.2,4238.0,411.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+HP 2023 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5003TU Thin and Light L...,HP,36990.0,27.85,4.2,3102.0,221.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+DELL Latitude 14 Intel Core i5 11th Gen - (16 GB/512 GB SSD/Ubuntu) 3420 Business Laptop,DELL,45410.0,49.35,3.8,61.0,3.0,16.0,512.0,SSD,Intel,Mid,11,0,0
+Lenovo IdeaPad Slim 3 Intel Core i3 13th Gen 1305U - (8 GB/512 GB SSD/Windows 11 Home) 15IRU8 Thin and...,Lenovo,39800.0,38.48,4.2,70.0,8.0,8.0,512.0,SSD,Intel,Entry,13,0,0
+Acer Aspire Lite AMD Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) AL15-41 Thin and Ligh...,Acer,33990.0,40.36,3.9,204.0,19.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+Lenovo IdeaPad Slim 5 (2024) Intel Core i7 13th Gen 13700H - (16 GB/512 GB SSD/Windows 11 Home) 16IRL8...,Lenovo,77890.0,36.05,4.1,107.0,12.0,16.0,512.0,SSD,Intel,High,13,0,0
+MSI Cyborg 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA G...,MSI,54990.0,38.89,3.9,7.0,1.0,16.0,512.0,SSD,Intel,Mid,12,0,1
+Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/256 GB SSD/Windows 11 Home) IN-N15I Thin ...,Thomson,27490.0,31.26,5.0,3.0,0.0,8.0,256.0,SSD,Intel,Entry,12,0,0
+realme Book(Slim) Intel Evo Intel Core i5 11th Gen 1135G7 - (8 GB/512 GB SSD/Windows 10 Home) RMNB1002...,realme,47999.0,31.43,4.3,7975.0,1042.0,8.0,512.0,SSD,Intel,Mid,11,0,0
+MSI Thin 15 Intel Core i5 12th Gen 12450H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFo...,MSI,51990.0,23.53,4.2,112.0,15.0,8.0,512.0,SSD,Intel,Mid,12,0,1
+HP Intel Core i3 12th Gen 1215U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fy5004TU Thin and Light Lapto...,HP,42990.0,18.46,4.2,5540.0,485.0,16.0,512.0,SSD,Intel,Entry,12,0,0
+HP Pavilion Intel Core i7 12th Gen 1255U - (16 GB/1 TB SSD/Windows 11 Home) 14-dv2015TU Thin and Light...,HP,78990.0,15.3,4.2,225.0,16.0,16.0,1024.0,SSD,Intel,High,12,0,0
+HP Victus Gaming AMD Ryzen 5 Hexa Core 5600H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA ...,HP,53990.0,25.59,4.1,653.0,53.0,16.0,512.0,SSD,AMD,Mid,0,1,0
+HP AMD Ryzen 5 Quad Core - (8 GB/512 GB SSD/DOS) 247 G8 Thin and Light Laptop,HP,30999.0,38.32,3.9,7.0,0.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+DELL Inspiron Intel Core i5 11th Gen 1135G7 - (8 GB/512 GB SSD/Windows 11 Home) New Inspiron 15 3000 T...,DELL,49490.0,29.79,4.0,105.0,12.0,8.0,512.0,SSD,Intel,Mid,11,0,0
+Thomson NEO Core Series Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin...,Thomson,43770.0,37.46,4.7,3.0,1.0,16.0,512.0,SSD,Intel,High,12,0,0
+Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin ...,Thomson,28129.0,37.48,5.0,3.0,0.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Lenovo V15 AMD Ryzen 3 Quad Core 5300U - (8 GB/512 GB SSD/Windows 11 Home) V15 G2 ALC Thin and Light L...,Lenovo,29490.0,46.38,4.1,598.0,45.0,8.0,512.0,SSD,AMD,Entry,0,0,0
+Lenovo IdeaPad Flex 5 AMD Ryzen 5 Hexa Core 7530U - (16 GB/512 GB SSD/Windows 11 Home) 14ABR8 2 in 1 L...,Lenovo,59990.0,35.63,4.1,60.0,5.0,16.0,512.0,SSD,AMD,Mid,0,0,0
+MSI Thin 15 Intel Core i7 12th Gen 12650H - (8 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForc...,MSI,67990.0,19.05,0.0,0.0,0.0,8.0,1024.0,SSD,Intel,High,12,0,1
+Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home) 14IAH8 Thin a...,Lenovo,53390.0,23.61,3.8,53.0,5.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+Lenovo IdeaPad Gaming 3 (2024) Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB ...,Lenovo,67990.0,28.2,4.4,486.0,58.0,16.0,512.0,SSD,Intel,Mid,12,1,0
+ZEBRONICS Thin and Light Laptop Intel Core i7 12th Gen 1255U - (16 GB/1 TB SSD/Windows 11 Home) ZEB-NB...,ZEBRONICS,43990.0,46.35,3.9,218.0,17.0,16.0,1024.0,SSD,Intel,High,12,0,0
+Colorful P15 Intel Core i7 12th Gen 12650H - (16 GB/512 GB SSD/Windows 11 Home/8 GB Graphics/NVIDIA Ge...,Colorful,84990.0,29.17,4.3,43.0,11.0,16.0,512.0,SSD,Intel,High,12,0,0
+HP 2023 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5003TU Thin and Light L...,HP,36990.0,27.85,4.2,3102.0,221.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Lenovo IdeaPad Slim 1 (2024) AMD Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) 15ACL6 | ...,Lenovo,35990.0,34.67,4.2,4238.0,411.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+HP Victus Intel Core i7 12th Gen 12650H - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeFor...,HP,89990.0,21.01,3.9,16.0,1.0,16.0,512.0,SSD,Intel,High,12,0,0
+ASUS Zenbook 14 OLED (2024) Intel Core Ultra 9 185H - (32 GB/1 TB SSD/Windows 11 Home) UX3405MA-PZ962W...,ASUS,144990.0,15.21,0.0,0.0,0.0,32.0,1024.0,SSD,Intel,Ultra,0,0,0
+Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/256 GB SSD/Windows 11 Home) IN-N15I Thin ...,Thomson,27490.0,31.26,5.0,3.0,0.0,8.0,256.0,SSD,Intel,Entry,12,0,0
+MSI Cyborg 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA G...,MSI,54990.0,38.89,3.9,7.0,1.0,16.0,512.0,SSD,Intel,Mid,12,0,1
+ASUS X1504ZA Intel Core i3 12th Gen 12th Gen Intel Core i3-1215U - (8 GB/512 GB SSD/Windows 11 Home) X...,ASUS,35000.0,36.35,4.6,14.0,2.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+HP Victus AI Powered AMD Ryzen 7 Octa Core 7840HS - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NV...,HP,82990.0,13.67,4.4,230.0,18.0,16.0,512.0,SSD,AMD,High,0,0,0
+HP Victus AMD Ryzen 5 Hexa Core 5600H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/AMD Radeon RX ...,HP,53240.0,22.73,4.1,58.0,3.0,16.0,512.0,SSD,AMD,Mid,0,0,0
+Acer One14 (2024) Backlit Intel Core i5 11th Gen 1155G7 - (8 GB/512 GB SSD/Windows 11 Home) Z8-415 Thi...,Acer,42500.0,19.81,3.7,2378.0,299.0,8.0,512.0,SSD,Intel,Mid,11,0,0
+MSI Thin 15 Intel Core i5 12th Gen 12450H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFo...,MSI,51990.0,23.53,4.2,112.0,15.0,8.0,512.0,SSD,Intel,Mid,12,0,1
+Thomson NEO Core Series Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin...,Thomson,43770.0,37.46,4.7,3.0,1.0,16.0,512.0,SSD,Intel,High,12,0,0
+HP Envy x360 Creator Evo Intel Core i5 12th Gen 1230U - (8 GB/512 GB SSD/Windows 11 Home) x360 13-bf00...,HP,79990.0,14.47,4.3,114.0,16.0,8.0,512.0,SSD,Intel,Mid,12,0,0
+DELL Vostro Intel Core i3 11th Gen 1115G4 - (8 GB/256 GB SSD/Windows 10) VOSTRO 3400 Thin and Light La...,DELL,38990.0,29.55,4.2,582.0,58.0,8.0,256.0,SSD,Intel,Entry,11,0,0
+HP Intel Core i3 12th Gen 1215U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fy5004TU Thin and Light Lapto...,HP,42990.0,18.46,4.2,5540.0,485.0,16.0,512.0,SSD,Intel,Entry,12,0,0
+MSI Thin 15 Intel Core i7 12th Gen 12650H - (8 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForc...,MSI,67990.0,19.05,0.0,0.0,0.0,8.0,1024.0,SSD,Intel,High,12,0,1
+Lenovo IdeaPad Slim 5 2.5K IPS Intel Core i5 13th Gen 13500H - (16 GB/1 TB SSD/Windows 11 Home) 16IRL8...,Lenovo,72990.0,32.22,4.1,385.0,48.0,16.0,1024.0,SSD,Intel,Mid,13,0,0
+Lenovo V15 G2 Intel Core i3 11th Gen 1115G4 - (8 GB/512 GB SSD/Windows 11 Home) V15 ITL G2 Laptop,Lenovo,32990.0,44.74,4.2,385.0,23.0,8.0,512.0,SSD,Intel,Entry,11,0,0
+HP G9 AMD Ryzen 3 Dual Core 3250U - (8 GB/512 GB SSD/DOS) 841W6PA Thin and Light Laptop,HP,25499.0,36.33,3.8,108.0,12.0,8.0,512.0,SSD,AMD,Entry,0,0,0
+HP 15q Intel Core i3 8th Gen 8130U - (4 GB/1 TB HDD/Windows 10 Home) 15q-ds0058TU Thin and Light Lapto...,HP,23543.0,39.0,4.1,772.0,104.0,4.0,1024.0,HDD,Intel,Entry,8,0,0
+HP 2023 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5003TU Thin and Light L...,HP,36990.0,27.85,4.2,3102.0,221.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Lenovo IdeaPad Slim 1 (2024) AMD Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) 15ACL6 | ...,Lenovo,35990.0,34.67,4.2,4238.0,411.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+Lenovo Yoga Slim 7 AI PC WUXGA OLED Intel Core Ultra 7 155H - (32 GB/1 TB SSD/Windows 11 Home) 14IMH9 ...,Lenovo,107990.0,26.48,4.0,5.0,2.0,32.0,1024.0,SSD,Intel,Ultra,0,0,0
+DELL Intel Core i3 11th Gen 1115G4 - (8 GB/512 GB SSD/DOS) Vostro 3400 Business Laptop,DELL,30999.0,35.58,3.6,169.0,9.0,8.0,512.0,SSD,Intel,Entry,11,0,0
+Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/256 GB SSD/Windows 11 Home) IN-N15I Thin ...,Thomson,27490.0,31.26,5.0,3.0,0.0,8.0,256.0,SSD,Intel,Entry,12,0,0
+MSI Cyborg 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA G...,MSI,54990.0,38.89,3.9,7.0,1.0,16.0,512.0,SSD,Intel,Mid,12,0,1
+ASUS Vivobook 14 Intel Core i5 11th Gen 1135G7 - (16 GB/512 GB SSD/Windows 11 Home) X1400EA-EK543WS Th...,ASUS,45890.0,24.76,4.3,8333.0,601.0,16.0,512.0,SSD,Intel,Mid,11,0,0
+HP 15s AMD Ryzen 3 Quad Core 5300U - (8 GB/512 GB SSD/Windows 10 Home) 15s- EQ2042AU Thin and Light La...,HP,33894.0,23.78,4.3,301.0,45.0,8.0,512.0,SSD,AMD,Entry,0,0,0
+HP Intel Core i5 12th Gen 1235U - (8 GB/1 TB SSD/Windows 11 Home) 15s-fq5331TU Thin and Light Laptop,HP,55400.0,18.8,4.2,2043.0,117.0,8.0,1024.0,SSD,Intel,Mid,12,0,0
+Thomson NEO Core Series Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin...,Thomson,43770.0,37.46,4.7,3.0,1.0,16.0,512.0,SSD,Intel,High,12,0,0
+MSI Thin 15 Intel Core i5 12th Gen 12450H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFo...,MSI,51990.0,23.53,4.2,112.0,15.0,8.0,512.0,SSD,Intel,Mid,12,0,1
+HP Intel Core i3 12th Gen 1215U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fy5004TU Thin and Light Lapto...,HP,42990.0,18.46,4.2,5540.0,485.0,16.0,512.0,SSD,Intel,Entry,12,0,0
+HP Pavilion Plus AI Powered Laptop AMD Ryzen 7 Octa Core 7840U - (16 GB/1 TB SSD/Windows 11 Home) 14-e...,HP,84990.0,13.75,0.0,0.0,0.0,16.0,1024.0,SSD,AMD,High,0,0,0
+HP Victus Intel Core i7 12th Gen 12650H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFor...,HP,79990.0,19.63,4.4,139.0,14.0,16.0,512.0,SSD,Intel,High,12,0,0
+MSI Thin 15 Intel Core i7 12th Gen 12650H - (8 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForc...,MSI,67990.0,19.05,0.0,0.0,0.0,8.0,1024.0,SSD,Intel,High,12,0,1
+Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home) 14IAH8 Thin a...,Lenovo,53390.0,23.61,3.8,53.0,5.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+Infinix GT Book Intel Core i5 13th Gen 13420H - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA...,Infinix,79990.0,38.46,4.2,29.0,3.0,16.0,512.0,SSD,Intel,Mid,13,0,0
+HP AMD Ryzen 5 Quad Core 7520U - (16 GB/512 GB SSD/Windows 11 Home) 14-hr0000AU Thin and Light Laptop,HP,49490.0,16.67,0.0,0.0,0.0,16.0,512.0,SSD,AMD,Mid,0,0,0
+SAMSUNG Galaxy Book4 Intel Core 5 120U - (16 GB/512 GB SSD/Windows 11 Home) NP750XGK-KG2IN / NP750XGK-...,SAMSUNG,72990.0,20.65,4.2,61.0,7.0,16.0,512.0,SSD,Intel,Other,0,0,0
+HP (15s-fq5007TU) Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fq5327TU Thin a...,HP,38990.0,23.75,4.2,5540.0,485.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Lenovo IdeaPad Slim 3 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15IAU7 Thin and...,Lenovo,36499.0,38.02,4.2,1164.0,66.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Lenovo IdeaPad Slim 5 AMD Ryzen 5 Hexa Core 7530U - (16 GB/512 GB SSD/Windows 11 Home) 14ABR8 Thin and...,Lenovo,53190.0,38.29,4.2,58.0,11.0,16.0,512.0,SSD,AMD,Mid,0,0,0
+Infinix GT Series Intel Core i5 13th Gen 13420H - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVID...,Infinix,79990.0,38.46,4.2,29.0,3.0,16.0,512.0,SSD,Intel,Mid,13,0,0
+HP 2023 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5003TU Thin and Light L...,HP,36990.0,27.85,4.2,3102.0,221.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Lenovo IdeaPad Slim 1 (2024) AMD Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) 15ACL6 | ...,Lenovo,35990.0,34.67,4.2,4238.0,411.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+Lenovo Intel Core i5 11th Gen 1135G7 - (8 GB/512 GB SSD/Windows 10 Home) V14 ITL G2 Thin and Light Lap...,Lenovo,45490.0,31.56,4.0,45.0,1.0,8.0,512.0,SSD,Intel,Mid,11,0,0
+Acer Nitro V Intel Core i5 13th Gen 13420H - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA Ge...,Acer,77759.0,16.39,4.2,133.0,12.0,16.0,512.0,SSD,Intel,Mid,13,0,0
+ASUS Intel Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX RTX 30...,ASUS,60990.0,26.51,4.7,6.0,2.0,8.0,512.0,SSD,Intel,Mid,11,0,0
+ASUS Vivobook AMD Ryzen 5 Quad Core 7520U - (8 GB/512 GB SSD/Windows 11 Home) E1404FA-NK521WS Thin and...,ASUS,37849.0,38.95,0.0,0.0,0.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/256 GB SSD/Windows 11 Home) IN-N15I Thin ...,Thomson,27490.0,31.26,5.0,3.0,0.0,8.0,256.0,SSD,Intel,Entry,12,0,0
+MSI Cyborg 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA G...,MSI,54990.0,38.89,3.9,7.0,1.0,16.0,512.0,SSD,Intel,Mid,12,0,1
+Lenovo Legion 5 AMD Ryzen 7 Octa Core 5800H - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeF...,Lenovo,99990.0,46.27,4.6,16.0,1.0,16.0,1024.0,SSD,AMD,High,0,1,0
+Colorful P15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA Ge...,Colorful,68990.0,31.01,4.2,40.0,5.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+MSI Thin 15 Intel Core i5 12th Gen 12450H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFo...,MSI,51990.0,23.53,4.2,112.0,15.0,8.0,512.0,SSD,Intel,Mid,12,0,1
+Thomson NEO Core Series Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin...,Thomson,43770.0,37.46,4.7,3.0,1.0,16.0,512.0,SSD,Intel,High,12,0,0
+MSI Modern 14 H Intel Core i7 13th Gen 13620H - (16 GB/1 TB SSD/Windows 11 Home) Modern 14 H D13MG-072...,MSI,68990.0,12.66,4.2,56.0,5.0,16.0,1024.0,SSD,Intel,High,13,0,1
+SAMSUNG Galaxy Book4 Intel Core 7 150U - (16 GB/512 GB SSD/Windows 11 Home) NP750XGK-KG3IN / NP750XGK-...,SAMSUNG,82990.0,19.81,4.6,25.0,2.0,16.0,512.0,SSD,Intel,Other,0,0,0
+Infinix Y1 Plus Neo (2023) Intel Celeron Quad Core 11th Gen N5100 - (4 GB/128 GB SSD/Windows 11 Home) ...,Infinix,19990.0,33.34,4.0,1566.0,210.0,4.0,128.0,SSD,Intel,Entry,11,0,0
+HP 247 G8 AMD Ryzen 5 Dual Core 3500U - (8 GB/512 GB SSD/Windows 11 Home) 247 G8 Notebook,HP,29990.0,52.72,4.3,60.0,6.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+HP Intel Core i3 12th Gen 1215U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fy5004TU Thin and Light Lapto...,HP,42990.0,18.46,4.2,5540.0,485.0,16.0,512.0,SSD,Intel,Entry,12,0,0
+Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin ...,Thomson,28129.0,37.48,5.0,3.0,0.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Acer Predator Helios Neo 16 2024 Intel Core i7 14th Gen 14700HX - (16 GB/1 TB SSD/Windows 11 Home/6 GB...,Acer,129990.0,9.1,4.0,5.0,0.0,16.0,1024.0,SSD,Intel,High,14,1,0
+ASUS Vivobook 15 Intel Core i3 11th Gen 1115G4 - (16 GB/512 GB SSD/Windows 11 Home) X515EA-EJ342WS Thi...,ASUS,35800.0,28.39,4.3,8671.0,751.0,16.0,512.0,SSD,Intel,Entry,11,0,0
+MSI Thin 15 Intel Core i7 12th Gen 12650H - (8 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForc...,MSI,67990.0,19.05,0.0,0.0,0.0,8.0,1024.0,SSD,Intel,High,12,0,1
+Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home) 14IAH8 Thin a...,Lenovo,53390.0,23.61,3.8,53.0,5.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+Lenovo Intel Core i5 12th Gen - (8 GB/512 GB SSD/Windows 11 Home) 82TW0019IH Laptop,Lenovo,47190.0,52.81,4.1,63.0,2.0,8.0,512.0,SSD,Intel,Mid,12,0,0
+Lenovo LOQ 2024 Intel Core i7 13th Gen 13650HX - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDI...,Lenovo,89990.0,26.89,4.5,4.0,0.0,16.0,512.0,SSD,Intel,High,13,0,0
+ASUS TUF Gaming A17 with 90Whr Battery AMD Ryzen 5 Hexa Core AMD R5-4600H - (8 GB/512 GB SSD/Windows 1...,ASUS,54750.0,23.95,4.4,2210.0,249.0,8.0,512.0,SSD,AMD,Mid,0,1,0
+HP 2023 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5003TU Thin and Light L...,HP,36990.0,27.85,4.2,3102.0,221.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Lenovo IdeaPad Slim 1 (2024) AMD Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) 15ACL6 | ...,Lenovo,35990.0,34.67,4.2,4238.0,411.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+Acer Extensa (2023) Intel Intel Core i3 12th Gen N305 - (8 GB/512 GB SSD/Windows 11 Home) EX215-33 Thi...,Acer,32490.0,30.86,4.2,1066.0,109.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/256 GB SSD/Windows 11 Home) IN-N15I Thin ...,Thomson,27490.0,31.26,5.0,3.0,0.0,8.0,256.0,SSD,Intel,Entry,12,0,0
+MSI Cyborg 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA G...,MSI,54990.0,38.89,3.9,7.0,1.0,16.0,512.0,SSD,Intel,Mid,12,0,1
+ASUS (2024) Intel Pentium Quad Core N5030 - (4 GB/1 TB HDD/Windows 11 Home) X543MA-GQ1020T Laptop,ASUS,22490.0,31.83,3.7,5849.0,837.0,4.0,1024.0,HDD,Intel,Entry,0,0,0
+Colorful P15 Intel Core i7 12th Gen 12650H - (16 GB/512 GB SSD/Windows 11 Home/8 GB Graphics/NVIDIA Ge...,Colorful,84990.0,29.17,4.3,43.0,11.0,16.0,512.0,SSD,Intel,High,12,0,0
+Lenovo AMD Ryzen 7 Octa Core 7730U - (16 GB/512 GB SSD/Windows 11 Home) ThinkBook 15 G5 Thin and Light...,Lenovo,52990.0,41.12,4.3,51.0,5.0,16.0,512.0,SSD,AMD,High,0,0,0
+HP Pavilion Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 14-dv2053TU Thin and Ligh...,HP,58480.0,19.38,4.2,699.0,62.0,8.0,512.0,SSD,Intel,Mid,12,0,0
+MSI Thin 15 Intel Core i5 12th Gen 12450H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFo...,MSI,51990.0,23.53,4.2,112.0,15.0,8.0,512.0,SSD,Intel,Mid,12,0,1
+Thomson NEO Core Series Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin...,Thomson,43770.0,37.46,4.7,3.0,1.0,16.0,512.0,SSD,Intel,High,12,0,0
+DELL AMD Ryzen 9 Octa Core 6900HX - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RTX 3...,DELL,94990.0,50.25,2.8,4.0,0.0,16.0,1024.0,SSD,AMD,Ultra,0,0,0
+HP Laptop Intel Core i3 N305 - (8 GB/512 GB SSD/Windows 11 Home) 15-fd0123TU Thin and Light Laptop,HP,36990.0,7.51,0.0,0.0,0.0,8.0,512.0,SSD,Intel,Entry,0,0,0
+HP Intel Core i3 12th Gen 1215U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fy5004TU Thin and Light Lapto...,HP,42990.0,18.46,4.2,5540.0,485.0,16.0,512.0,SSD,Intel,Entry,12,0,0
+Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin ...,Thomson,28129.0,37.48,5.0,3.0,0.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+ASUS VivoBook K15 OLED (2024) AMD Ryzen 5 Hexa Core AMD R5-5500U - (8 GB/1 TB HDD/256 GB SSD/Windows 1...,ASUS,51900.0,34.3,4.4,2084.0,231.0,8.0,256.0,SSD,AMD,Mid,0,0,0
+ASUS AMD Ryzen 3 Quad Core - (8 GB/512 GB SSD/Windows 11 Home) E1504FA-NJ321WS Thin and Light Laptop,ASUS,35990.0,29.42,0.0,0.0,0.0,8.0,512.0,SSD,AMD,Entry,0,0,0
+DELL Intel Core i5 13th Gen 1334U - (16 GB/512 GB SSD/Windows 11 Home) Inspiron 3530 Thin and Light La...,DELL,57250.0,21.74,4.1,149.0,4.0,16.0,512.0,SSD,Intel,Mid,13,0,0
+MSI Cyborg 15 Intel Core i5 12th Gen i5-12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDI...,MSI,58990.0,34.45,0.0,0.0,0.0,16.0,512.0,SSD,Intel,Mid,12,0,1
+MSI Thin 15 Intel Core i7 12th Gen 12650H - (8 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForc...,MSI,67990.0,19.05,0.0,0.0,0.0,8.0,1024.0,SSD,Intel,High,12,0,1
+Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home) 14IAH8 Thin a...,Lenovo,53390.0,23.61,3.8,53.0,5.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+Lenovo IdeaPad 1 (2024) Intel Celeron Dual Core N4020 - (4 GB/256 GB SSD/Windows 11 Home) 11IGL05 Thin...,Lenovo,26890.0,22.93,3.7,710.0,49.0,4.0,256.0,SSD,Intel,Entry,0,0,0
+HP Pavilion Aero (2023) AMD Ryzen 7 Octa Core 7735U - (16 GB/1 TB SSD/Windows 11 Home) 13-BE2048AU Thi...,HP,69890.0,23.71,4.4,142.0,16.0,16.0,1024.0,SSD,AMD,High,0,0,0
+Acer Aspire 3D 15 SpatialLabs Edition Intel Core i7 13th Gen 13620H - (16 GB/1 TB SSD/Windows 11 Home/...,Acer,174990.0,15.46,0.0,0.0,0.0,16.0,1024.0,SSD,Intel,High,13,0,0
+Lenovo LOQ (2024) Intel Core i7 13th Gen 13620H - (16 GB/512 GB SSD/Windows 11 Home/8 GB Graphics/NVID...,Lenovo,109990.0,28.53,4.3,338.0,46.0,16.0,512.0,SSD,Intel,High,13,0,0
+HP 2023 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5003TU Thin and Light L...,HP,36990.0,27.85,4.2,3102.0,221.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Lenovo IdeaPad Slim 1 (2024) AMD Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) 15ACL6 | ...,Lenovo,35990.0,34.67,4.2,4238.0,411.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+ASUS Vivobook 15 Intel Pentium Gold 7505 - (8 GB/512 GB SSD/Windows 11 Home) X1500EA-EJ121WS Laptop,ASUS,27990.0,34.89,0.0,0.0,0.0,8.0,512.0,SSD,Intel,Entry,0,0,0
+Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/256 GB SSD/Windows 11 Home) IN-N15I Thin ...,Thomson,27490.0,31.26,5.0,3.0,0.0,8.0,256.0,SSD,Intel,Entry,12,0,0
+MSI Cyborg 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA G...,MSI,54990.0,38.89,3.9,7.0,1.0,16.0,512.0,SSD,Intel,Mid,12,0,1
+ASUS Chromebook Intel Celeron Dual Core N4500 - (4 GB/128 GB EMMC Storage/Chrome OS) CX1500CKA-NJ0413 ...,ASUS,18990.0,42.44,3.8,1602.0,144.0,4.0,128.0,EMMC,Intel,Entry,0,0,0
+Lenovo LOQ 2024 Intel Core i7 13th Gen 13650HX - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA ...,Lenovo,103990.0,29.21,4.0,4.0,2.0,16.0,1024.0,SSD,Intel,High,13,0,0
+HP Laptop Intel Core i3 12th Gen 1215U - (8 GB/256 GB SSD/Windows 11 Home) 15s-fy5010TU Thin and Light...,HP,39990.0,14.38,0.0,0.0,0.0,8.0,256.0,SSD,Intel,Entry,12,0,0
+HP Intel Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) 14s - dy5005TU Thin and Lig...,HP,63990.0,11.53,4.2,2186.0,165.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+MSI Thin 15 Intel Core i5 12th Gen 12450H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFo...,MSI,51990.0,23.53,4.2,112.0,15.0,8.0,512.0,SSD,Intel,Mid,12,0,1
+Thomson NEO Core Series Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin...,Thomson,43770.0,37.46,4.7,3.0,1.0,16.0,512.0,SSD,Intel,High,12,0,0
+MSI Modern 15 Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) Modern 15 B12MO-818IN T...,MSI,41990.0,23.64,4.2,912.0,109.0,8.0,512.0,SSD,Intel,Mid,12,0,1
+HP Intel Celeron Dual Core N4500 - (4 GB/128 GB EMMC Storage/Chrome OS) 15a- na0008TU Chromebook,HP,23990.0,20.08,3.9,2887.0,356.0,4.0,128.0,EMMC,Intel,Entry,0,0,0
+HP Intel Core i3 12th Gen 1215U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fy5004TU Thin and Light Lapto...,HP,42990.0,18.46,4.2,5540.0,485.0,16.0,512.0,SSD,Intel,Entry,12,0,0
+MSI Thin 15 Intel Core i7 12th Gen 12650H - (8 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForc...,MSI,67990.0,19.05,0.0,0.0,0.0,8.0,1024.0,SSD,Intel,High,12,0,1
+HP Victus AMD Ryzen 5 Hexa Core 5600H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/AMD Radeon RX ...,HP,54990.0,21.69,4.3,407.0,38.0,16.0,512.0,SSD,AMD,Mid,0,0,0
+MSI Modern 15 AMD Ryzen 5 Hexa Core 7530U - (8 GB/512 GB SSD/Windows 11 Home) Modern 15 B7M-072IN Thin...,MSI,42890.0,31.91,4.3,1885.0,234.0,8.0,512.0,SSD,AMD,Mid,0,0,1
+"ASUS Vivobook 14X (2023) For Creator, Intel H-Series Intel Core i5 13th Gen 13500H - (16 GB/512 GB SSD...",ASUS,69990.0,23.92,0.0,0.0,0.0,16.0,512.0,SSD,Intel,Other,0,0,0
+Lenovo IdeaPad AMD Ryzen 5 Quad Core 7520U - (8 GB/512 GB SSD/Windows 11 Home) 15AMN8 Thin and Light L...,Lenovo,37990.0,46.18,4.0,5.0,1.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+HP 2023 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5003TU Thin and Light L...,HP,36990.0,27.85,4.2,3102.0,221.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Lenovo IdeaPad Slim 1 (2024) AMD Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) 15ACL6 | ...,Lenovo,35990.0,34.67,4.2,4238.0,411.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+Infinix Y4 Max Series Intel Core i7 13th Gen 1355U - (16 GB/512 GB SSD/Windows 11 Home) YL613 Thin and...,Infinix,49990.0,37.5,4.4,31.0,0.0,16.0,512.0,SSD,Intel,High,13,0,0
+"ASUS Vivobook 16X For Creator, Intel H-Series Intel Core i7 12th Gen 12650H - (16 GB/512 GB SSD/Window...",ASUS,74990.0,35.9,4.2,105.0,12.0,16.0,512.0,SSD,Intel,Other,0,0,0
+Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/256 GB SSD/Windows 11 Home) IN-N15I Thin ...,Thomson,27490.0,31.26,5.0,3.0,0.0,8.0,256.0,SSD,Intel,Entry,12,0,0
+MSI Cyborg 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA G...,MSI,54990.0,38.89,3.9,7.0,1.0,16.0,512.0,SSD,Intel,Mid,12,0,1
+Acer Extensa Intel Core i3 N305 - (8 GB/512 GB SSD/Windows 11 Home) EX215-33 Notebook,Acer,31490.0,28.43,4.2,730.0,78.0,8.0,512.0,SSD,Intel,Entry,0,0,0
+HP 841w6pa 255 g9 AMD Ryzen 3 Dual Core AMD Ryzenâ„¢ 3 processor 3250U - (8 GB/512 GB SSD/DOS) 255 G8 La...,HP,25499.0,27.58,4.0,60.0,5.0,8.0,512.0,SSD,AMD,Entry,0,0,0
+HP Envy13 x360 bf0121tu Intel Core i5 12th Gen I5 1230U - (16 GB + 16 GB Optane/512 GB SSD/Windows 11 ...,HP,83520.0,10.7,4.3,185.0,23.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+Lenovo AMD Ryzen 5 Ryzenâ„¢ 5 - (8 GB/512 GB SSD/Windows 11 Home) 82R400BGIN Thin and Light Laptop,Lenovo,34990.0,36.49,4.3,4.0,0.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+MSI Thin 15 Intel Core i5 12th Gen 12450H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFo...,MSI,51990.0,23.53,4.2,112.0,15.0,8.0,512.0,SSD,Intel,Mid,12,0,1
+Thomson NEO Core Series Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin...,Thomson,43770.0,37.46,4.7,3.0,1.0,16.0,512.0,SSD,Intel,High,12,0,0
+MSI Cyborg 15 Intel Core i7 12th Gen 12650H - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA G...,MSI,79990.0,35.49,4.7,3.0,0.0,16.0,512.0,SSD,Intel,High,12,0,1
+Acer Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) AL15-52 Thin and Light Laptop,Acer,45990.0,29.25,0.0,0.0,0.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+HP Intel Core i3 12th Gen 1215U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fy5004TU Thin and Light Lapto...,HP,42990.0,18.46,4.2,5540.0,485.0,16.0,512.0,SSD,Intel,Entry,12,0,0
+MSI Thin 15 Intel Core i7 12th Gen 12650H - (8 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForc...,MSI,67990.0,19.05,0.0,0.0,0.0,8.0,1024.0,SSD,Intel,High,12,0,1
+HP Intel Core i3 11th Gen 1125G4 - (8 GB/512 GB SSD/Windows 11 Home) 15s-du3563TU Thin and Light Lapto...,HP,36890.0,19.08,4.3,760.0,74.0,8.0,512.0,SSD,Intel,Entry,11,0,0
+HP AMD Ryzen 7 Octa Core 5700U - (16 GB/512 GB SSD/Windows 11 Home) 14s-fy1005AU Thin and Light Laptop,HP,60990.0,18.89,4.2,594.0,44.0,16.0,512.0,SSD,AMD,High,0,0,0
+DELL 3540 Intel Core i3 12th Gen - (8 GB/512 GB SSD/Ubuntu) Latitude 3540 Laptop,DELL,31999.0,34.55,3.7,12.0,1.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+MSI Thin 15 Intel Core i7 13th Gen 13620H - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeFor...,MSI,91990.0,11.54,3.7,3.0,0.0,16.0,1024.0,SSD,Intel,High,13,0,1
+Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home) 14IAH8 Thin a...,Lenovo,53390.0,23.61,3.8,53.0,5.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+HP (15s-fq5007TU) Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fq5327TU Thin a...,HP,38990.0,23.75,4.2,5540.0,485.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+MSI Katana 17 Intel Core i7 13th Gen 13620H - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA G...,MSI,89990.0,27.42,4.8,22.0,3.0,16.0,512.0,SSD,Intel,High,13,0,1
+GIGABYTE G Series Intel Core i5 12th Gen 12500H - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVID...,GIGABYTE,63990.0,55.47,3.9,11.0,3.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+HP 2023 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5003TU Thin and Light L...,HP,36990.0,27.85,4.2,3102.0,221.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Lenovo IdeaPad Slim 1 (2024) AMD Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) 15ACL6 | ...,Lenovo,35990.0,34.67,4.2,4238.0,411.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+DELL Inspiron Intel Core i3 11th Gen 1115G4 - (8 GB/1 TB HDD/256 GB SSD/Windows 11 Home) Inspiron 3511...,DELL,40990.0,29.74,4.1,92.0,8.0,8.0,256.0,SSD,Intel,Entry,11,0,0
+Acer Aspire 3D 15 SpatialLabs Edition Intel Core i5 13th Gen 13420H - (16 GB/512 GB SSD/Windows 11 Hom...,Acer,149990.0,0.67,0.0,0.0,0.0,16.0,512.0,SSD,Intel,Mid,13,0,0
+ASUS Vivobook S 15 OLED Intel H-Series Intel Core i9 13th Gen 13900H - (16 GB/1 TB SSD/Windows 11 Home...,ASUS,99990.0,25.93,4.4,76.0,4.0,16.0,1024.0,SSD,Intel,Other,0,0,0
+Acer Aspire Lite AMD Ryzen 7 Octa Core 5700U - (16 GB/512 GB SSD/Windows 11 Home) AL15-41 Thin and Lig...,Acer,41990.0,40.01,3.5,19.0,1.0,16.0,512.0,SSD,AMD,High,0,0,0
+Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/256 GB SSD/Windows 11 Home) IN-N15I Thin ...,Thomson,27490.0,31.26,5.0,3.0,0.0,8.0,256.0,SSD,Intel,Entry,12,0,0
+MSI Cyborg 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA G...,MSI,54990.0,38.89,3.9,7.0,1.0,16.0,512.0,SSD,Intel,Mid,12,0,1
+HP G9 250 Intel Core i7 12th Gen 1255U Intel Turbo Boost - (8 GB/512 GB SSD/Windows 11 Pro) 250 G9 Lap...,HP,59990.0,32.59,0.0,0.0,0.0,8.0,512.0,SSD,Intel,High,12,0,0
+HP Intel Intel Core i3 10th Gen 10110U - (8 GB/512 GB SSD/Windows 10 Home) 15s-DU1516TU Thin and Light...,HP,39890.0,16.88,4.3,1480.0,138.0,8.0,512.0,SSD,Intel,Entry,10,0,0
+MSI Thin 15 Intel Core i5 12th Gen 12450H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFo...,MSI,51990.0,23.53,4.2,112.0,15.0,8.0,512.0,SSD,Intel,Mid,12,0,1
+Thomson NEO Core Series Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin...,Thomson,43770.0,37.46,4.7,3.0,1.0,16.0,512.0,SSD,Intel,High,12,0,0
+Acer Nitro 5 Intel Core i5 11th Gen 11400H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeF...,Acer,68699.0,31.29,4.6,23.0,1.0,8.0,512.0,SSD,Intel,Mid,11,0,0
+Ultimus Pro Intel Celeron Dual Core N4020 - (8 GB/256 GB SSD/Windows 11 Home) NU14U3INC54BN-MB Thin an...,Ultimus,16990.0,52.79,3.3,202.0,30.0,8.0,256.0,SSD,Intel,Entry,0,0,0
+HP Intel Core i5 13th Gen 1340P - (16 GB/512 GB SSD/Windows 11 Home) 15-eg3027TU Thin and Light Laptop,HP,68490.0,18.18,2.3,3.0,0.0,16.0,512.0,SSD,Intel,Mid,13,0,0
+HP 250 G9 Intel Core i5 12th Gen 12th Generation Intel Core i5-1235U Processor - (8 GB/512 GB SSD/Wind...,HP,50999.0,32.0,4.5,4.0,2.0,8.0,512.0,SSD,Intel,Mid,12,0,0
+HP Intel Core i3 12th Gen 1215U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fy5004TU Thin and Light Lapto...,HP,42990.0,18.46,4.2,5540.0,485.0,16.0,512.0,SSD,Intel,Entry,12,0,0
+Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin ...,Thomson,28129.0,37.48,5.0,3.0,0.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Lenovo AMD Ryzen 7 Octa Core 7730U - (8 GB/512 GB SSD/Windows 11 Home) ThinkBook 15 G5 Thin and Light ...,Lenovo,48990.0,36.37,4.0,223.0,23.0,8.0,512.0,SSD,AMD,High,0,0,0
+MSI Thin 15 Intel Core i7 12th Gen 12650H - (8 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForc...,MSI,67990.0,19.05,0.0,0.0,0.0,8.0,1024.0,SSD,Intel,High,12,0,1
+Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home) 14IAH8 Thin a...,Lenovo,53390.0,23.61,3.8,53.0,5.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+Acer Nitro 5 (2023) AMD Ryzen 5 Hexa Core 7535HS - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVI...,Acer,68990.0,31.01,4.3,59.0,4.0,16.0,512.0,SSD,AMD,Mid,0,0,0
+Avita Liber E with Free Backpack Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) AM15...,Avita,26990.0,55.0,3.4,9.0,3.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Lenovo AMD Ryzen 3 Quad Core 7330U - (8 GB/512 GB SSD/Windows 11 Home) ThinkBook 15 G5 Thin and Light ...,Lenovo,34490.0,41.04,4.8,10.0,1.0,8.0,512.0,SSD,AMD,Entry,0,0,0
+Lenovo IdeaPad 1 AMD Ryzen 7 Octa Core 5700U - (16 GB/512 GB SSD/Windows 11 Home) 15ALC7 Thin and Ligh...,Lenovo,47490.0,35.55,0.0,0.0,0.0,16.0,512.0,SSD,AMD,High,0,0,0
+HP 2023 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5003TU Thin and Light L...,HP,36990.0,27.85,4.2,3102.0,221.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Lenovo IdeaPad Slim 1 (2024) AMD Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) 15ACL6 | ...,Lenovo,35990.0,34.67,4.2,4238.0,411.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+Lenovo IdeaPad Slim 5 AMD Ryzen 5 Hexa Core 7530U - (16 GB/512 GB SSD/Windows 11 Home) 14ABR8 Thin and...,Lenovo,54990.0,36.2,4.2,58.0,11.0,16.0,512.0,SSD,AMD,Mid,0,0,0
+Lenovo IdeaPad Slim 3 (2024) Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15IAU7 T...,Lenovo,49199.0,35.94,4.1,1741.0,134.0,8.0,512.0,SSD,Intel,Mid,12,0,0
+Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/256 GB SSD/Windows 11 Home) IN-N15I Thin ...,Thomson,27490.0,31.26,5.0,3.0,0.0,8.0,256.0,SSD,Intel,Entry,12,0,0
+MSI Cyborg 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA G...,MSI,54990.0,38.89,3.9,7.0,1.0,16.0,512.0,SSD,Intel,Mid,12,0,1
+ASUS TUF Gaming F15 - AI Powered Gaming Intel Core i5 11th Gen 11400H - (8 GB/1 TB SSD/Windows 11 Home...,ASUS,58990.0,28.05,4.1,35.0,0.0,8.0,1024.0,SSD,Intel,Mid,11,1,0
+Infinix Y1 Plus Neo Intel Intel Celeron Quad Core 11th Gen JSL N5100 - (8 GB/256 GB SSD/Windows 11 Hom...,Infinix,24990.0,28.58,4.0,4273.0,587.0,8.0,256.0,SSD,Intel,Entry,11,0,0
+MSI Cyborg 15 Intel Core i5 12th Gen 12450H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA Ge...,MSI,51990.0,40.23,3.9,7.0,1.0,8.0,512.0,SSD,Intel,Mid,12,0,1
+ASUS VivoBook 14 AMD Ryzen 5 Hexa Core AMD R5-4500U - (8 GB/512 GB SSD/Windows 10 Home) M413IA-EK582T ...,ASUS,35963.0,34.6,4.4,1619.0,241.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+MSI Thin 15 Intel Core i5 12th Gen 12450H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFo...,MSI,51990.0,23.53,4.2,112.0,15.0,8.0,512.0,SSD,Intel,Mid,12,0,1
+Thomson NEO Core Series Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin...,Thomson,43770.0,37.46,4.7,3.0,1.0,16.0,512.0,SSD,Intel,High,12,0,0
+Lenovo LOQ (2024) Intel Core i5 12th Gen 12450HX - (8 GB/512 GB SSD/Windows 11 Pro/4 GB Graphics/Intel...,Lenovo,59990.0,25.0,4.0,43.0,7.0,8.0,512.0,SSD,Intel,Mid,12,0,0
+ASUS AMD Ryzen 5 Quad Core - (16 GB/512 GB SSD/Windows 11 Home) E1504FA-LK542WS Laptop,ASUS,57000.0,28.74,4.5,2.0,1.0,16.0,512.0,SSD,AMD,Mid,0,0,0
+HP Intel Core i3 12th Gen 1215U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fy5004TU Thin and Light Lapto...,HP,42990.0,18.46,4.2,5540.0,485.0,16.0,512.0,SSD,Intel,Entry,12,0,0
+Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin ...,Thomson,28129.0,37.48,5.0,3.0,0.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+DELL Latitude Intel Core i3 11th Gen Core i3-1115G4 - (8 GB/256 GB SSD/Ubuntu) 3420 Business Laptop,DELL,32999.0,40.95,4.2,26.0,5.0,8.0,256.0,SSD,Intel,Entry,11,0,0
+MSI Modern 15 Intel Core i5 13th Gen 1335U - (16 GB/512 GB SSD/Windows 11 Home) Modern 15 B13M-289IN T...,MSI,51990.0,33.34,4.1,68.0,8.0,16.0,512.0,SSD,Intel,Mid,13,0,1
+SAMSUNG Galaxy Book3 360 EVO AMOLED Intel Core i7 13th Gen 1355U - (16 GB/512 GB SSD/Windows 11 Home) ...,SAMSUNG,117990.0,9.42,4.2,10.0,0.0,16.0,512.0,SSD,Intel,High,13,0,0
+ASUS Vivobook Pro 15 OLED For Creator AMD Ryzen 5 Hexa Core 5600HS - (16 GB/512 GB SSD/Windows 11 Home...,ASUS,64990.0,25.29,4.3,882.0,116.0,16.0,512.0,SSD,AMD,Mid,0,0,0
+MSI Thin 15 Intel Core i7 12th Gen 12650H - (8 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForc...,MSI,67990.0,19.05,0.0,0.0,0.0,8.0,1024.0,SSD,Intel,High,12,0,1
+Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home) 14IAH8 Thin a...,Lenovo,53390.0,23.61,3.8,53.0,5.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+HP Pavilion x360 Intel Core i7 13th Gen - (16 GB/512 GB SSD/Windows 11 Home) 14-ek1020TU 2 in 1 Laptop,HP,87490.0,15.91,3.7,9.0,2.0,16.0,512.0,SSD,Intel,High,13,0,0
+HP 2023 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5003TU Thin and Light L...,HP,36990.0,27.85,4.2,3102.0,221.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Lenovo IdeaPad Slim 1 (2024) AMD Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) 15ACL6 | ...,Lenovo,35990.0,34.67,4.2,4238.0,411.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+DELL Vostro AMD Ryzen 3 Dual Core R3-3250U - (8 GB/1 TB HDD/Windows 11 Home) Vostro 3405 Thin and Ligh...,DELL,34990.0,30.92,3.8,513.0,59.0,8.0,1024.0,HDD,AMD,Entry,0,0,0
+HP Laptop 15S Intel Core i3 11th Gen 1115G4 - (8 GB/512 GB SSD/Windows 11 Home) 15s-fq2717TU Thin and ...,HP,34666.0,30.81,4.2,1124.0,94.0,8.0,512.0,SSD,Intel,Entry,11,0,0
+HP fq2673TU Intel Core i3 11th Gen 1115G4 - (8 GB/512 GB SSD/Windows 11 Home) 15s- fq2673TU Thin and L...,HP,33499.0,25.38,3.7,19.0,1.0,8.0,512.0,SSD,Intel,Entry,11,0,0
+Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/256 GB SSD/Windows 11 Home) IN-N15I Thin ...,Thomson,27490.0,31.26,5.0,3.0,0.0,8.0,256.0,SSD,Intel,Entry,12,0,0
+MSI Cyborg 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA G...,MSI,54990.0,38.89,3.9,7.0,1.0,16.0,512.0,SSD,Intel,Mid,12,0,1
+HP Laptop 15s Intel Celeron Dual Core Intel Celeron N4500 - (8 GB/512 GB SSD/Windows 11 Home) fq3071TU...,HP,27900.0,17.86,3.8,103.0,11.0,8.0,512.0,SSD,Intel,Entry,0,0,0
+HP 14s (2024) Intel Core i3 11th Gen 1115G4 - (8 GB/256 GB SSD/Windows 11 Home) 14s - dy2507TU Thin an...,HP,35800.0,24.28,4.3,12482.0,943.0,8.0,256.0,SSD,Intel,Entry,11,0,0
+MSI Thin 15 Intel Core i5 12th Gen 12450H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFo...,MSI,51990.0,23.53,4.2,112.0,15.0,8.0,512.0,SSD,Intel,Mid,12,0,1
+Thomson NEO Core Series Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin...,Thomson,43770.0,37.46,4.7,3.0,1.0,16.0,512.0,SSD,Intel,High,12,0,0
+Lenovo IdeaPad Flex 5 Intel Core i7 13th Gen 1355U - (16 GB/512 GB SSD/Windows 11 Home) 14IRU8 2 in 1 ...,Lenovo,89000.0,27.05,4.7,19.0,2.0,16.0,512.0,SSD,Intel,High,13,0,0
+MSI Titan 18HX Intel Core i9 14th Gen 14900HX - (64 GB/2 TB SSD/Windows 11 Home/12 GB Graphics/NVIDIA ...,MSI,439990.0,12.0,0.0,0.0,0.0,64.0,2048.0,SSD,Intel,Ultra,14,0,1
+Lenovo LOQ Intel Core i7 13th Gen 13650HX - (24 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeF...,Lenovo,102990.0,27.42,4.0,4.0,1.0,24.0,512.0,SSD,Intel,High,13,0,0
+ASUS Vivobook 16 (2023) AMD Ryzen 5 Hexa Core 7530U - (16 GB/512 GB SSD/Windows 11 Home) M1605YA-MB542...,ASUS,59800.0,20.26,4.4,309.0,34.0,16.0,512.0,SSD,AMD,Mid,0,0,0
+HP Intel Core i3 12th Gen 1215U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fy5004TU Thin and Light Lapto...,HP,42990.0,18.46,4.2,5540.0,485.0,16.0,512.0,SSD,Intel,Entry,12,0,0
+MSI Thin 15 Intel Core i7 12th Gen 12650H - (8 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForc...,MSI,67990.0,19.05,0.0,0.0,0.0,8.0,1024.0,SSD,Intel,High,12,0,1
+HP Intel Core Ultra 7 155H - (16 GB/512 GB SSD/Windows 11 Home) 14-gr1023TU Thin and Light Laptop,HP,85990.0,13.13,0.0,0.0,0.0,16.0,512.0,SSD,Intel,Ultra,0,0,0
+Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home) 14IAH8 Thin a...,Lenovo,53390.0,23.61,3.8,53.0,5.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+HP (15s-fq5007TU) Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fq5327TU Thin a...,HP,38990.0,23.75,4.2,5540.0,485.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+HP Spectre x360 Intel Core Ultra 7 155H - (32 GB/1 TB SSD/Windows 11 Home) 14-eu0666TU 2 in 1 Laptop,HP,169990.0,8.35,0.0,0.0,0.0,32.0,1024.0,SSD,Intel,Ultra,0,0,0
+SAMSUNG Galaxy Book4 Pro Evo Intel Core Ultra 7 155H - (16 GB/512 GB SSD/Windows 11 Home) NP940XGK-KG2...,SAMSUNG,139990.0,13.04,4.7,23.0,2.0,16.0,512.0,SSD,Intel,Ultra,0,0,0
+HP 2023 AMD Ryzen 3 Dual Core 3250U - (8 GB/512 GB SSD/Windows 11 Home) 15s- eq1580AU Thin and Light L...,HP,32990.0,17.51,4.2,4277.0,361.0,8.0,512.0,SSD,AMD,Entry,0,0,0
+HP Pavilion (2024) Eyesafe AMD Ryzen 5 Dual Core 5625U - (16 GB/512 GB SSD/Windows 11 Home) 14-EC1019A...,HP,66990.0,3.03,4.5,1602.0,170.0,16.0,512.0,SSD,AMD,Mid,0,0,0
+Lenovo Yoga 7 WUXGA-OLED Intel Core i7 13th Gen 1360P - (16 GB/1 TB SSD/Windows 11 Home) 14IRL8 2 in 1...,Lenovo,114190.0,29.64,3.7,6.0,1.0,16.0,1024.0,SSD,Intel,High,13,0,0
+HP Intel Core Ultra 5 125H - (16 GB/512 GB SSD/Windows 11 Home) 15-fd1099TU Thin and Light Laptop,HP,71990.0,10.85,0.0,0.0,0.0,16.0,512.0,SSD,Intel,Ultra,0,0,0
+ASUS Chromebook (2024) Intel Celeron Dual Core N3350 - (4 GB/32 GB EMMC Storage/Chrome OS) C223NA-GJ00...,ASUS,18590.0,15.46,3.5,1348.0,157.0,4.0,32.0,EMMC,Intel,Entry,0,0,0
+ASUS Vivobook 15 (2024) Intel Core i5 11th Gen 1135G7 - (8 GB/512 GB SSD/Windows 11 Home) X515EA-EJ522...,ASUS,44649.0,35.29,4.3,8333.0,601.0,8.0,512.0,SSD,Intel,Mid,11,0,0
+Lenovo IdeaPad Slim 5i Intel Core i5 13th Gen 13500H - (16 GB/512 GB SSD/Windows 11 Home) 82XF003CIN T...,Lenovo,68990.0,19.77,0.0,0.0,0.0,16.0,512.0,SSD,Intel,Mid,13,0,0
+SAMSUNG Galaxy Book3 360 EVO AMOLED Intel Core i7 13th Gen 1355U - (16 GB/512 GB SSD/Windows 11 Home) ...,SAMSUNG,117990.0,9.42,4.2,10.0,0.0,16.0,512.0,SSD,Intel,High,13,0,0
+Lenovo V15 AMD Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/DOS) V15 G2 ALC Thin and Light Laptop,Lenovo,34990.0,47.58,3.9,44.0,10.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+ASUS TUF Gaming F15 with 90WHr Battery Intel Core i5 11th Gen 11400H - (16 GB/512 GB SSD/Windows 11 Ho...,ASUS,59890.0,33.45,4.5,2805.0,273.0,16.0,512.0,SSD,Intel,Mid,11,1,0
+MSI Thin 15 Intel Core i5 13th Gen 13420H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeF...,MSI,67990.0,18.07,0.0,0.0,0.0,16.0,512.0,SSD,Intel,Mid,13,0,1
+ASUS Vivobook 15X (2023) Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) K3504VAB-NJ3...,ASUS,43650.0,26.0,4.1,33.0,4.0,8.0,512.0,SSD,Intel,Entry,13,0,0
+HP HP 445G8 ProBook AMD Ryzen 7 Dual Core 5th Gen - (8 GB/512 GB SSD/DOS) 7K2J9PA#ACJ Notebook,HP,48490.0,28.91,3.0,2.0,2.0,8.0,512.0,SSD,AMD,High,5,0,0
+Lenovo IdeaPad 3 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 14IAU7 Thin and Ligh...,Lenovo,39490.0,28.45,4.2,1164.0,66.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+ASUS Pro P5 Intel Core i7 8th Gen 8565U - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Pro) Pro P5 P5440FA Thi...,ASUS,59699.0,39.64,0.0,0.0,0.0,8.0,256.0,SSD,Intel,High,8,0,0
+HP Intel Core i3 11th Gen 1125G4 - (8 GB/512 GB SSD/Windows 11 Home) 15s-fq2627TU Thin and Light Lapto...,HP,37890.0,22.66,4.2,629.0,60.0,8.0,512.0,SSD,Intel,Entry,11,0,0
+Lenovo Intel Intel Core i3 10th Gen 1005G1 - (4 GB/256 GB SSD/Windows 11 Home) 15IIL05 Thin and Light ...,Lenovo,31490.0,32.7,4.4,147.0,15.0,4.0,256.0,SSD,Intel,Entry,10,0,0
+SAMSUNG Galaxy Book4 Intel Core 7 150U - (16 GB/512 GB SSD/Windows 11 Home) NP750XGK-KS3IN / NP750XGK-...,SAMSUNG,82990.0,19.81,4.6,25.0,2.0,16.0,512.0,SSD,Intel,Other,0,0,0
+Lenovo LOQ Intel Core i7 13th Gen 13620H - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeFo...,Lenovo,96190.0,28.1,4.3,338.0,46.0,16.0,512.0,SSD,Intel,High,13,0,0
+MSI Katana A17 AI AMD Ryzen 7 Octa Core 8845HS - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA ...,MSI,119990.0,11.11,0.0,0.0,0.0,16.0,1024.0,SSD,AMD,High,0,0,1
+MSI Cyborg 15 Intel Core i5 12th Gen i5-12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDI...,MSI,58990.0,34.45,0.0,0.0,0.0,16.0,512.0,SSD,Intel,Mid,12,0,1
+HP 247 G8 AMD Athlon Dual Core AMD Athlon P3045B - (8 GB/1 TB HDD/Windows 11 Home) 247 G8 Notebook Thi...,HP,24990.0,24.88,3.8,163.0,10.0,8.0,1024.0,HDD,AMD,Other,0,0,0
+HP 2023 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5003TU Thin and Light L...,HP,36990.0,27.85,4.2,3102.0,221.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Lenovo IdeaPad Slim 1 (2024) AMD Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) 15ACL6 | ...,Lenovo,35990.0,34.67,4.2,4238.0,411.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+ASUS AMD Ryzen 3 Quad Core - (8 GB/512 GB SSD/Windows 11 Home) E1504FA-NJ321WS Thin and Light Laptop,ASUS,35990.0,29.42,0.0,0.0,0.0,8.0,512.0,SSD,AMD,Entry,0,0,0
+ASUS VivoBook K15 OLED (2024) AMD Ryzen 5 Hexa Core AMD R5-5500U - (8 GB/1 TB HDD/256 GB SSD/Windows 1...,ASUS,51900.0,34.3,4.4,2084.0,231.0,8.0,256.0,SSD,AMD,Mid,0,0,0
+ASUS ROG Zephyrus G14 OLED (2024) AMD Ryzen 9 Octa Core 8945HS - (16 GB/1 TB SSD/Windows 11 Home/8 GB ...,ASUS,174990.0,8.85,0.0,0.0,0.0,16.0,1024.0,SSD,AMD,Ultra,0,1,0
+Acer Nitro 5 Intel Core i5 12th Gen 12450H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeF...,Acer,68990.0,28.88,4.4,677.0,69.0,8.0,512.0,SSD,Intel,Mid,12,0,0
+Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/256 GB SSD/Windows 11 Home) IN-N15I Thin ...,Thomson,27490.0,31.26,5.0,3.0,0.0,8.0,256.0,SSD,Intel,Entry,12,0,0
+MSI Cyborg 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA G...,MSI,54990.0,38.89,3.9,7.0,1.0,16.0,512.0,SSD,Intel,Mid,12,0,1
+ASUS Vivobook S 15 OLED (2023) Intel EVO H-Series Intel Core i5 13th Gen 13500H - (16 GB/512 GB SSD/Wi...,ASUS,76990.0,28.04,4.8,5.0,0.0,16.0,512.0,SSD,Intel,Other,0,0,0
+ASUS Vivobook Intel Core i7 12th Gen 12700H - (16 GB/512 GB SSD/Windows 11 Home) X1605ZAC-MB741WS Lapt...,ASUS,67490.0,21.51,4.5,4.0,0.0,16.0,512.0,SSD,Intel,High,12,0,0
+MSI Thin 15 Intel Core i5 12th Gen 12450H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFo...,MSI,51990.0,23.53,4.2,112.0,15.0,8.0,512.0,SSD,Intel,Mid,12,0,1
+Thomson NEO Core Series Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin...,Thomson,43770.0,37.46,4.7,3.0,1.0,16.0,512.0,SSD,Intel,High,12,0,0
+SAMSUNG Galaxy Book 2 Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) NP550 Thin and ...,SAMSUNG,52990.0,36.15,4.3,3464.0,341.0,8.0,512.0,SSD,Intel,Mid,12,0,0
+Acer Aspire 3 Backlit Intel Core i3 12th Gen 1215U - (8 GB/256 GB SSD/Windows 11 Home) A324-51 Thin an...,Acer,28990.0,30.98,4.2,68.0,8.0,8.0,256.0,SSD,Intel,Entry,12,0,0
+SAMSUNG Galaxy Book4 Pro Evo Intel Core Ultra 7 155H - (16 GB/512 GB SSD/Windows 11 Home) NP960XGK-KG2...,SAMSUNG,149990.0,13.04,4.7,23.0,2.0,16.0,512.0,SSD,Intel,Ultra,0,0,0
+MSI Katana 17 Intel Core i7 12th Gen 12650H - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeF...,MSI,124990.0,27.75,4.5,19.0,2.0,16.0,1024.0,SSD,Intel,High,12,0,1
+HP Intel Core i3 12th Gen 1215U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fy5004TU Thin and Light Lapto...,HP,42990.0,18.46,4.2,5540.0,485.0,16.0,512.0,SSD,Intel,Entry,12,0,0
+MSI Thin 15 Intel Core i7 12th Gen 12650H - (8 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForc...,MSI,67990.0,19.05,0.0,0.0,0.0,8.0,1024.0,SSD,Intel,High,12,0,1
+HP Pavilion AMD Ryzen 5 Hexa Core 5625U - (16 GB/512 GB SSD/Windows 11 Home) 14-EC1005AU Thin and Ligh...,HP,54000.0,20.59,4.3,1548.0,148.0,16.0,512.0,SSD,AMD,Mid,0,0,0
+HP Omen Intel Core i7 13th Gen 13620H - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce R...,HP,114990.0,17.5,4.0,5.0,1.0,16.0,1024.0,SSD,Intel,High,13,0,0
+Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home) 14IAH8 Thin a...,Lenovo,53390.0,23.61,3.8,53.0,5.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+HP (15s-fq5007TU) Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fq5327TU Thin a...,HP,38990.0,23.75,4.2,5540.0,485.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Lenovo IdeaPad Gaming 3 (2024) AMD Ryzen 5 Hexa Core 7535HS - (16 GB/512 GB SSD/Windows 11 Home/4 GB G...,Lenovo,56990.0,34.94,4.2,171.0,14.0,16.0,512.0,SSD,AMD,Mid,0,1,0
+Lenovo IdeaPad Gaming 3 (2024) AMD Ryzen 5 Quad Core 5500H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Gra...,Lenovo,48990.0,37.18,4.3,251.0,25.0,8.0,512.0,SSD,AMD,Mid,0,1,0
+HP 250 G9 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/DOS) 7M659PA Laptop,HP,31890.0,26.16,3.8,29.0,2.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+ASUS ROG Flow Z13 (2023) Intel H-Series Intel Core i9 13th Gen 13900H - (16 GB/1 TB SSD/Windows 11 Hom...,ASUS,209990.0,16.67,4.2,6.0,0.0,16.0,1024.0,SSD,Intel,Other,0,1,0
+HP 2023 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5003TU Thin and Light L...,HP,36990.0,27.85,4.2,3102.0,221.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Lenovo IdeaPad Slim 1 (2024) AMD Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) 15ACL6 | ...,Lenovo,35990.0,34.67,4.2,4238.0,411.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+MSI Summit E16 AI Evo Intel Core Ultra 7 1st Gen 155H - (32 GB/1 TB SSD/Windows 11 Home) Summit E16 AI...,MSI,139990.0,12.5,0.0,0.0,0.0,32.0,1024.0,SSD,Intel,Ultra,0,0,1
+Lenovo IdeaPad 1 AMD Ryzen 3 Dual Core 3250U - (8 GB/512 GB SSD/Windows 11 Home) 15ADA7 Thin and Light...,Lenovo,33490.0,38.54,4.1,1064.0,93.0,8.0,512.0,SSD,AMD,Entry,0,0,0
+Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/256 GB SSD/Windows 11 Home) IN-N15I Thin ...,Thomson,27490.0,31.26,5.0,3.0,0.0,8.0,256.0,SSD,Intel,Entry,12,0,0
+MSI Cyborg 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA G...,MSI,54990.0,38.89,3.9,7.0,1.0,16.0,512.0,SSD,Intel,Mid,12,0,1
+HP Victus AMD Ryzen 5 Hexa Core 5600H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/AMD Radeon RX 6...,HP,51490.0,33.44,4.2,1304.0,120.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+ASUS Vivobook 15 Intel Pentium Dual Core 7505 - (8 GB/512 GB SSD/Windows 11 Home) X1500EA-EJ122WS Thin...,ASUS,27990.0,34.89,3.7,3.0,0.0,8.0,512.0,SSD,Intel,Entry,0,0,0
+Lenovo ThinkPad E14 (2024) Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Pro) TP E14 Gen...,Lenovo,67500.0,48.08,3.8,38.0,6.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+DELL Inspiron 15 Intel Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) IN35117W5CCS01ORB1 Thin an...,DELL,44990.0,33.87,4.1,560.0,45.0,8.0,512.0,SSD,Intel,Mid,11,0,0
+MSI Thin 15 Intel Core i5 12th Gen 12450H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFo...,MSI,51990.0,23.53,4.2,112.0,15.0,8.0,512.0,SSD,Intel,Mid,12,0,1
+Thomson NEO Core Series Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin...,Thomson,43770.0,37.46,4.7,3.0,1.0,16.0,512.0,SSD,Intel,High,12,0,0
+Lenovo IdeaPad Slim 3 (2024) Intel Core i5 11th Gen 1155G7 - (8 GB/512 GB SSD/Windows 11 Home) 15ITL6 ...,Lenovo,43500.0,32.34,4.2,5880.0,417.0,8.0,512.0,SSD,Intel,Mid,11,0,0
+HP 15s (2023) Intel Core i5 13th Gen 1335U - (8 GB/512 GB SSD/Windows 11 Home) 15-fd0022TU Thin and Li...,HP,54999.0,24.43,4.0,226.0,19.0,8.0,512.0,SSD,Intel,Mid,13,0,0
+HP Intel Core i3 12th Gen 1215U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fy5004TU Thin and Light Lapto...,HP,42990.0,18.46,4.2,5540.0,485.0,16.0,512.0,SSD,Intel,Entry,12,0,0
+MSI Thin 15 Intel Core i7 12th Gen 12650H - (8 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForc...,MSI,67990.0,19.05,0.0,0.0,0.0,8.0,1024.0,SSD,Intel,High,12,0,1
+ASUS ROG Ally AMD Ryzen Z1 HexaCore Zen4 - (16 GB/512 GB SSD/Windows 11 Home) RC71L-NH019W Handheld Ga...,ASUS,52990.0,30.27,4.5,13.0,3.0,16.0,512.0,SSD,AMD,Other,0,1,0
+HP 15s AMD Ryzen 3 Dual Core 3250U - (4 GB/1 TB HDD/Windows 10 Home) 15s-GR0006AU Thin and Light Lapto...,HP,24187.0,29.85,3.8,1626.0,220.0,4.0,1024.0,HDD,AMD,Entry,0,0,0
+DELL Latitude Intel Core i3 11th Gen 1115G4 - (8 GB/512 GB SSD/Windows 11 Pro) 3520 Laptop,DELL,34390.0,53.15,4.2,268.0,22.0,8.0,512.0,SSD,Intel,Entry,11,0,0
+ASUS VivoBook K15 OLED (2022) Intel Core i3 11th Gen 1115G4 - (8 GB/256 GB SSD/Windows 11 Home) K513EA...,ASUS,39200.0,33.55,4.4,1726.0,273.0,8.0,256.0,SSD,Intel,Entry,11,0,0
+HP 2023 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5003TU Thin and Light L...,HP,36990.0,27.85,4.2,3102.0,221.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Lenovo IdeaPad Slim 1 (2024) AMD Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) 15ACL6 | ...,Lenovo,35990.0,34.67,4.2,4238.0,411.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+HP Intel Core i3 11th Gen 1125G4 - (8 GB/512 GB SSD/Windows 11 Home) 15s-fq2627TU Thin and Light Lapto...,HP,37890.0,22.66,4.2,629.0,60.0,8.0,512.0,SSD,Intel,Entry,11,0,0
+HP 240 G8 (2024) Intel Core i3 11th Gen 1115G4 - (8 GB/512 GB SSD/Windows 11 Home) 240 G8 Business Lap...,HP,32400.0,25.96,4.1,233.0,12.0,8.0,512.0,SSD,Intel,Entry,11,0,0
+HP 15s Intel Core i3 11th Gen 1125G4 - (8 GB/512 GB SSD/Windows 11 Home) 15s-FR2508TU Laptop,HP,38689.0,26.31,4.2,531.0,65.0,8.0,512.0,SSD,Intel,Entry,11,0,0
+MSI Katana A15 AI AMD Ryzen 7 Octa Core 8845HS - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDI...,MSI,104990.0,11.02,0.0,0.0,0.0,16.0,512.0,SSD,AMD,High,0,0,1
+Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/256 GB SSD/Windows 11 Home) IN-N15I Thin ...,Thomson,27490.0,31.26,5.0,3.0,0.0,8.0,256.0,SSD,Intel,Entry,12,0,0
+MSI Cyborg 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA G...,MSI,54990.0,38.89,3.9,7.0,1.0,16.0,512.0,SSD,Intel,Mid,12,0,1
+Lenovo IdeaPad Slim 3 Intel Core i3 11th Gen 1115G4 - (8 GB/512 GB SSD/Windows 11 Home) Ideapad 3 15IT...,Lenovo,33786.0,39.11,4.3,6722.0,601.0,8.0,512.0,SSD,Intel,Entry,11,0,0
+Lenovo ThinkBook 15 G4 (2024) Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) TB15 G4...,Lenovo,50190.0,50.91,4.1,163.0,16.0,8.0,512.0,SSD,Intel,Mid,12,0,0
+MSI Thin 15 Intel Core i5 12th Gen 12450H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFo...,MSI,51990.0,23.53,4.2,112.0,15.0,8.0,512.0,SSD,Intel,Mid,12,0,1
+Thomson NEO Core Series Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin...,Thomson,43770.0,37.46,4.7,3.0,1.0,16.0,512.0,SSD,Intel,High,12,0,0
+Lenovo V15 Series AMD Athlon Dual Core 7120U - (8 GB/512 GB SSD/Windows 11 Home) V15 Thin and Light La...,Lenovo,25990.0,31.61,4.2,587.0,37.0,8.0,512.0,SSD,AMD,Other,0,0,0
+ASUS VivoBook 15 (2024) Intel Core i5 11th Gen 1135G7 - (8 GB/1 TB HDD/256 GB SSD/Windows 11 Home) X51...,ASUS,54700.0,25.06,4.3,3950.0,330.0,8.0,256.0,SSD,Intel,Mid,11,0,0
+Lenovo IdeaPad Flex 5 Intel Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 14IAU7 Th...,Lenovo,57990.0,31.77,4.2,9.0,1.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+HP Intel Core i3 12th Gen 1215U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fy5004TU Thin and Light Lapto...,HP,42990.0,18.46,4.2,5540.0,485.0,16.0,512.0,SSD,Intel,Entry,12,0,0
+MSI Thin 15 Intel Core i7 12th Gen 12650H - (8 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForc...,MSI,67990.0,19.05,0.0,0.0,0.0,8.0,1024.0,SSD,Intel,High,12,0,1
+MSI Katana 17 Intel Core i7 13th Gen 13700H - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeF...,MSI,145890.0,2.73,0.0,0.0,0.0,16.0,1024.0,SSD,Intel,High,13,0,1
+ASUS Zenbook 14 OLED (2023) AMD Ryzen 5 Hexa Core 7530U - (16 GB/512 GB SSD/Windows 11 Home) UM3402YA-...,ASUS,74990.0,32.44,4.6,46.0,5.0,16.0,512.0,SSD,AMD,Mid,0,0,0
+Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home) 14IAH8 Thin a...,Lenovo,53390.0,23.61,3.8,53.0,5.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+HP (15s-fq5007TU) Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fq5327TU Thin a...,HP,38990.0,23.75,4.2,5540.0,485.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+ASUS TUF Gaming A17 AMD Ryzen 7 Octa Core 4800H - (16 GB/1 TB HDD/256 GB SSD/Windows 10 Home/6 GB Grap...,ASUS,66967.0,41.25,4.6,527.0,88.0,16.0,256.0,SSD,AMD,High,0,1,0
+HP Victus Intel Core i7 13th Gen 13620H - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce...,HP,101430.0,14.53,0.0,0.0,0.0,16.0,1024.0,SSD,Intel,High,13,0,0
+MSI Crosshair 16 HX Intel Core i7 14th Gen 14700HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVI...,MSI,144990.0,11.04,0.0,0.0,0.0,16.0,1024.0,SSD,Intel,High,14,0,1
+HP 2023 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5003TU Thin and Light L...,HP,36990.0,27.85,4.2,3102.0,221.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Lenovo IdeaPad Slim 1 (2024) AMD Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) 15ACL6 | ...,Lenovo,35990.0,34.67,4.2,4238.0,411.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+HP Pavilion Intel Core i5 12th Gen 1235U - (16 GB/1 TB SSD/Windows 11 Home) 14-dv2153TU Thin and Light...,HP,68990.0,14.4,4.3,1795.0,146.0,16.0,1024.0,SSD,Intel,Mid,12,0,0
+Acer Extensa (2024) AMD Ryzen 5 Quad Core 7520U - (8 GB/512 GB SSD/Windows 11 Home) EX215-23 Thin and ...,Acer,34790.0,33.08,4.1,2162.0,248.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/256 GB SSD/Windows 11 Home) IN-N15I Thin ...,Thomson,27490.0,31.26,5.0,3.0,0.0,8.0,256.0,SSD,Intel,Entry,12,0,0
+MSI Cyborg 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA G...,MSI,54990.0,38.89,3.9,7.0,1.0,16.0,512.0,SSD,Intel,Mid,12,0,1
+ASUS VivoBook 14 Intel Core i5 10th Gen 10210U - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/2 GB Graphi...,ASUS,43139.0,42.47,4.4,724.0,91.0,8.0,256.0,SSD,Intel,Mid,10,0,0
+DELL Inspiron Intel Core i5 11th Gen 1135G7 - (8 GB/1 TB HDD/256 GB SSD/Windows 11 Home) INSPIRON 3511...,DELL,54749.0,35.59,4.2,164.0,17.0,8.0,256.0,SSD,Intel,Mid,11,0,0
+HP Pavilion (2023) Intel Core i5 12th Gen core i5 1240P - (16 GB/512 GB SSD/Windows 11 Home) 15-eg2091...,HP,64480.0,19.72,4.2,226.0,17.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+MSI Thin 15 Intel Core i5 12th Gen 12450H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFo...,MSI,51990.0,23.53,4.2,112.0,15.0,8.0,512.0,SSD,Intel,Mid,12,0,1
+Thomson NEO Core Series Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin...,Thomson,43770.0,37.46,4.7,3.0,1.0,16.0,512.0,SSD,Intel,High,12,0,0
+HP Pavilion Intel Core i5 13th Gen 1340p - (16 GB/512 GB SSD/Windows 11 Home) 15-eg3027TU Thin and Lig...,HP,64990.0,23.45,4.1,7.0,1.0,16.0,512.0,SSD,Intel,Mid,13,0,0
+MSI Modern 15 Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) Modern 15 B13M-883IN Th...,MSI,41990.0,19.23,4.2,12.0,0.0,8.0,512.0,SSD,Intel,Entry,13,0,1
+HP Intel Core i3 12th Gen 1215U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fy5004TU Thin and Light Lapto...,HP,42990.0,18.46,4.2,5540.0,485.0,16.0,512.0,SSD,Intel,Entry,12,0,0
+Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin ...,Thomson,28129.0,37.48,5.0,3.0,0.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+HP Intel Core Ultra 5 125H - (8 GB/512 GB SSD/Windows 11 Home) 15-fd1098TU Thin and Light Laptop,HP,68990.0,10.79,0.0,0.0,0.0,8.0,512.0,SSD,Intel,Ultra,0,0,0
+Lenovo IdeaPad Gaming AMD Ryzen 5 Hexa Core 7535HS - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/N...,Lenovo,64990.0,34.74,4.2,171.0,14.0,16.0,512.0,SSD,AMD,Mid,0,1,0
+Mi Notebook Horizon Edition 14 Intel Core i5 10th Gen 10210U - (8 GB/512 GB SSD/Windows 10 Home/2 GB G...,Mi,37052.0,38.25,4.3,550.0,77.0,8.0,512.0,SSD,Intel,Mid,10,0,0
+MSI Thin 15 Intel Core i7 12th Gen 12650H - (8 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForc...,MSI,67990.0,19.05,0.0,0.0,0.0,8.0,1024.0,SSD,Intel,High,12,0,1
+Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home) 14IAH8 Thin a...,Lenovo,53390.0,23.61,3.8,53.0,5.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+MSI Modern 14 H Intel Core i5 13th Gen 13420H - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 H D13MG-0...,MSI,58990.0,14.49,5.0,1.0,1.0,16.0,512.0,SSD,Intel,Mid,13,0,1
+ASUS Vivobook 16 Intel Core i5 12th Gen 12500H - (16 GB/512 GB SSD/Windows 11 Home) X1605ZAC-MB541WS T...,ASUS,58490.0,19.87,0.0,0.0,0.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+HP 2023 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5003TU Thin and Light L...,HP,36990.0,27.85,4.2,3102.0,221.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Lenovo IdeaPad Slim 1 (2024) AMD Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) 15ACL6 | ...,Lenovo,35990.0,34.67,4.2,4238.0,411.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+Acer Nitro V Intel Core i7 13th Gen 13620H - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeFo...,Acer,94990.0,17.4,2.8,4.0,0.0,16.0,1024.0,SSD,Intel,High,13,0,0
+Infinix X3 Slim Intel Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) XL422 Thin and...,Infinix,46990.0,32.86,4.3,123.0,14.0,16.0,512.0,SSD,Intel,High,12,0,0
+DELL Intel Core i3 12th Gen 1215U - (8 GB/256 GB SSD/Windows 11 Home) Inspiron 3520 Thin and Light Lap...,DELL,33990.0,44.58,4.2,25.0,2.0,8.0,256.0,SSD,Intel,Entry,12,0,0
+Infinix X1 Slim Series (2024) Intel Core i5 10th Gen 1035G1 - (16 GB/512 GB SSD/Windows 11 Home) XL21 ...,Infinix,47701.0,26.61,4.0,814.0,124.0,16.0,512.0,SSD,Intel,Mid,10,0,0
+Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/256 GB SSD/Windows 11 Home) IN-N15I Thin ...,Thomson,27490.0,31.26,5.0,3.0,0.0,8.0,256.0,SSD,Intel,Entry,12,0,0
+MSI Cyborg 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA G...,MSI,54990.0,38.89,3.9,7.0,1.0,16.0,512.0,SSD,Intel,Mid,12,0,1
+HP Pavilion x360 Intel Core i5 13th Gen 1335U - (16 GB/1 TB SSD/Windows 11 Home) 14-ek1010TU 2 in 1 La...,HP,76656.0,17.57,4.3,196.0,24.0,16.0,1024.0,SSD,Intel,Mid,13,0,0
+MSI Thin 15 Intel Core i5 12th Gen 12450H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFo...,MSI,51990.0,23.53,4.2,112.0,15.0,8.0,512.0,SSD,Intel,Mid,12,0,1
+Thomson NEO Core Series Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin...,Thomson,43770.0,37.46,4.7,3.0,1.0,16.0,512.0,SSD,Intel,High,12,0,0
+HP Intel Core i7 12th Gen - (16 GB/512 GB HDD/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce ...,HP,79990.0,19.63,0.0,0.0,0.0,16.0,512.0,SSD,Intel,High,12,0,0
+HP 15s (2023) Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) 15-fd0018TU Thin and Li...,HP,44990.0,17.53,4.2,261.0,16.0,8.0,512.0,SSD,Intel,Entry,13,0,0
+DELL Inspiron AMD Ryzen 5 Hexa Core 5625U - (8 GB/512 GB SSD/Windows 11 Home) New Inspiron 14 Laptop T...,DELL,55479.0,21.39,3.0,4.0,0.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+MSI Katana 17 Intel Core i7 13th Gen 13620H - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeF...,MSI,104990.0,32.69,4.5,26.0,9.0,16.0,1024.0,SSD,Intel,High,13,0,1
+HP Intel Core i3 12th Gen 1215U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fy5004TU Thin and Light Lapto...,HP,42990.0,18.46,4.2,5540.0,485.0,16.0,512.0,SSD,Intel,Entry,12,0,0
+MSI Thin 15 Intel Core i7 12th Gen 12650H - (8 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForc...,MSI,67990.0,19.05,0.0,0.0,0.0,8.0,1024.0,SSD,Intel,High,12,0,1
+Acer Predator Helios 16 Intel Core i7 14th Gen 14700HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics...,Acer,189990.0,14.03,0.0,0.0,0.0,16.0,1024.0,SSD,Intel,High,14,1,0
+"ASUS Vivobook Pro 15 For Creator, AMD Ryzen 5 Hexa Core 5600HS - (16 GB/512 GB SSD/Windows 11 Home/4 G...",ASUS,58990.0,25.32,3.8,13.0,1.0,16.0,512.0,SSD,AMD,Mid,0,0,0
+Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home) 14IAH8 Thin a...,Lenovo,53390.0,23.61,3.8,53.0,5.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+HP (15s-fq5007TU) Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fq5327TU Thin a...,HP,38990.0,23.75,4.2,5540.0,485.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+HP AMD Ryzen 5 Hexa Core - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics) 15-fb0147AX Laptop,HP,49990.0,21.44,3.6,8.0,1.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+MSI GF63 Intel Core i5 11th Gen 11400H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce...,MSI,56990.0,32.15,4.3,592.0,49.0,8.0,512.0,SSD,Intel,Mid,11,0,1
+Infinix X1 Series Intel Core i7 10th Gen 1065G7 - (16 GB/512 GB SSD/Windows 11 Home/128 MB Graphics) X...,Infinix,53990.0,22.87,4.1,222.0,40.0,16.0,512.0,SSD,Intel,High,10,0,0
+HP 15s (2023) AMD Ryzen 5 Quad Core 7520U - (8 GB/512 GB SSD/Windows 11 Home) 15-fc0029AU Thin and Lig...,HP,46990.0,18.94,4.2,79.0,5.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+HP 2023 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5003TU Thin and Light L...,HP,36990.0,27.85,4.2,3102.0,221.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Lenovo IdeaPad Slim 1 (2024) AMD Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) 15ACL6 | ...,Lenovo,35990.0,34.67,4.2,4238.0,411.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+Lenovo IdeaPad Gaming AMD Ryzen 5 Hexa Core 7535HS - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/N...,Lenovo,64990.0,34.74,4.2,171.0,14.0,16.0,512.0,SSD,AMD,Mid,0,1,0
+DELL G15-5530 Intel Core i7 13th Gen 13650HX - (16 GB/1 TB SSD/Windows 11 Pro/6 GB Graphics/NVIDIA GeF...,DELL,102890.0,20.85,0.0,0.0,0.0,16.0,1024.0,SSD,Intel,High,13,0,0
+Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/256 GB SSD/Windows 11 Home) IN-N15I Thin ...,Thomson,27490.0,31.26,5.0,3.0,0.0,8.0,256.0,SSD,Intel,Entry,12,0,0
+MSI Cyborg 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA G...,MSI,54990.0,38.89,3.9,7.0,1.0,16.0,512.0,SSD,Intel,Mid,12,0,1
+Lenovo V15 G2 AMD Ryzen 3 Quad Core 5300U - (8 GB/512 GB SSD/Windows 11 Home) V15 G2 ALC Laptop,Lenovo,28990.0,27.34,3.8,19.0,4.0,8.0,512.0,SSD,AMD,Entry,0,0,0
+Lenovo Ideapad Slim 3i Intel Intel Core i5 11th Gen 1135G7 - (8 GB/512 GB SSD/Windows 10 Home) IdeaPad...,Lenovo,50990.0,37.05,4.2,800.0,75.0,8.0,512.0,SSD,Intel,Mid,11,0,0
+HP Intel Core Ultra 5 125H - (16 GB/512 GB SSD/Windows 11 Home) 14-ew1082TU Thin and Light Laptop,HP,84490.0,21.36,0.0,0.0,0.0,16.0,512.0,SSD,Intel,Ultra,0,0,0
+ASUS Chromebook Intel Celeron Dual Core N4500 - (4 GB/64 GB EMMC Storage/Chrome OS) CX1400FKA-EC0158 C...,ASUS,16990.0,48.5,3.8,54.0,4.0,4.0,64.0,EMMC,Intel,Entry,0,0,0
+MSI Thin 15 Intel Core i5 12th Gen 12450H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFo...,MSI,51990.0,23.53,4.2,112.0,15.0,8.0,512.0,SSD,Intel,Mid,12,0,1
+Thomson NEO Core Series Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin...,Thomson,43770.0,37.46,4.7,3.0,1.0,16.0,512.0,SSD,Intel,High,12,0,0
+ASUS VivoBook 14 (2024) Intel Celeron Dual Core N4020 - (4 GB/256 GB SSD/Windows 11 Home) X415MA-BV011...,ASUS,27999.0,17.63,4.1,3127.0,320.0,4.0,256.0,SSD,Intel,Entry,0,0,0
+HP Intel Core i3 12th Gen 1215U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fy5004TU Thin and Light Lapto...,HP,42990.0,18.46,4.2,5540.0,485.0,16.0,512.0,SSD,Intel,Entry,12,0,0
+MSI Thin 15 Intel Core i7 12th Gen 12650H - (8 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForc...,MSI,67990.0,19.05,0.0,0.0,0.0,8.0,1024.0,SSD,Intel,High,12,0,1
+Lenovo ThinkBook 15 G3 AMD Ryzen 3 Quad Core 5300U - (8 GB/512 GB SSD/Windows 11 Home) TB15 G3 ACL Thi...,Lenovo,32990.0,41.08,4.3,997.0,119.0,8.0,512.0,SSD,AMD,Entry,0,0,0
+HP Intel Core N N100 - (4 GB/64 GB EMMC Storage/Chrome OS) 14a-nf0014TU Chromebook,HP,29990.0,11.63,0.0,0.0,0.0,4.0,64.0,EMMC,Intel,Other,0,0,0
+Lenovo V SERIES Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) V14 Thin and Light La...,Lenovo,45990.0,54.01,3.1,12.0,1.0,8.0,512.0,SSD,Intel,Mid,12,0,0
+HP 2023 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5003TU Thin and Light L...,HP,36990.0,27.85,4.2,3102.0,221.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Lenovo IdeaPad Slim 1 (2024) AMD Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) 15ACL6 | ...,Lenovo,35990.0,34.67,4.2,4238.0,411.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+Lenovo Thinkpad AMD Ryzen 5 Hexa Core 5600U - (8 GB/512 GB SSD/DOS) E14 AMD Gen3 Thin and Light Laptop,Lenovo,45899.0,41.16,4.4,55.0,8.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/256 GB SSD/Windows 11 Home) IN-N15I Thin ...,Thomson,27490.0,31.26,5.0,3.0,0.0,8.0,256.0,SSD,Intel,Entry,12,0,0
+DELL Intel Core i5 11th Gen 1135G7 - (8 GB/512 GB SSD/Windows 11 Home) Vostro 3420 Notebook,DELL,44990.0,33.33,4.1,63.0,0.0,8.0,512.0,SSD,Intel,Mid,11,0,0
+MSI Cyborg 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA G...,MSI,54990.0,38.89,3.9,7.0,1.0,16.0,512.0,SSD,Intel,Mid,12,0,1
+MSI Thin 15 Intel Core i5 12th Gen 12450H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFo...,MSI,51990.0,23.53,4.2,112.0,15.0,8.0,512.0,SSD,Intel,Mid,12,0,1
+HP Intel Celeron Dual Core - (8 GB/256 GB SSD/Windows 11 Home) 14s- dq3032tu Thin and Light Laptop,HP,26749.0,25.79,0.0,0.0,0.0,8.0,256.0,SSD,Intel,Entry,0,0,0
+ASUS Chromebook Flip Touch Intel Celeron Dual Core N4020 - (4 GB/64 GB EMMC Storage/Chrome OS) C214MA-...,ASUS,20130.0,37.07,4.0,3386.0,450.0,4.0,64.0,EMMC,Intel,Entry,0,0,0
+Thomson NEO Core Series Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin...,Thomson,43770.0,37.46,4.7,3.0,1.0,16.0,512.0,SSD,Intel,High,12,0,0
+HP Intel Core i3 12th Gen 1215U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fy5004TU Thin and Light Lapto...,HP,42990.0,18.46,4.2,5540.0,485.0,16.0,512.0,SSD,Intel,Entry,12,0,0
+Lenovo IdeaPad 3 Intel Core i3 10th Gen 1005G1 - (8 GB/1 TB HDD/Windows 10 Home) 15IIL05 Laptop,Lenovo,32191.0,26.49,4.1,319.0,29.0,8.0,1024.0,HDD,Intel,Entry,10,0,0
+Lenovo Ideapad Slim 3i Intel Intel Core i5 11th Gen 1135G7 - (8 GB/512 GB SSD/Windows 10 Home) 14 ITL ...,Lenovo,47990.0,36.0,4.3,579.0,54.0,8.0,512.0,SSD,Intel,Mid,11,0,0
+HP Victus AMD Ryzen 7 Octa Core 5800H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce...,HP,69999.0,26.74,4.4,463.0,34.0,16.0,512.0,SSD,AMD,High,0,0,0
+MSI Thin 15 Intel Core i7 12th Gen 12650H - (8 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForc...,MSI,67990.0,19.05,0.0,0.0,0.0,8.0,1024.0,SSD,Intel,High,12,0,1
+Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home) 14IAH8 Thin a...,Lenovo,53390.0,23.61,3.8,53.0,5.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+DELL G15 5530 Intel Core i7 13th Gen 13650HX - (16 GB + 32 GB Optane/512 GB SSD/Windows 11 Home/6 GB G...,DELL,93890.0,24.45,0.0,0.0,0.0,16.0,512.0,SSD,Intel,High,13,0,0
+HP Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fq5202TU Thin and Light Laptop,HP,48990.0,24.86,4.2,82.0,4.0,8.0,512.0,SSD,Intel,Mid,12,0,0
+HP (15s-fq5007TU) Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fq5327TU Thin a...,HP,38990.0,23.75,4.2,5540.0,485.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Lenovo IdeaPad Slim 3 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15IAU7 Thin and...,Lenovo,36499.0,38.02,4.2,1164.0,66.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+MSI GF63 Intel Core i5 11th Gen 11400H - (8 GB/1 TB HDD/256 GB SSD/Windows 11 Home/4 GB Graphics/NVIDI...,MSI,55990.0,30.87,4.2,110.0,9.0,8.0,256.0,SSD,Intel,Mid,11,0,1
+Acer Nitro 5 AMD Ryzen 7 Octa Core AMD R7-5800H - (16 GB/1 TB HDD/256 GB SSD/Windows 11 Home/6 GB Grap...,Acer,76990.0,36.11,4.4,518.0,70.0,16.0,256.0,SSD,AMD,High,0,0,0
+HP 14s Intel Core i3 11th Gen 1125G4 - (8 GB/256 GB SSD/Windows 11 Home) 14s- dy2506TU Thin and Light ...,HP,35700.0,27.04,4.3,3164.0,324.0,8.0,256.0,SSD,Intel,Entry,11,0,0
+DELL Dell Vostro 3510 Intel Core i3 11th Gen 1115G4 - (8 GB/512 GB SSD/Windows 11 Home) Vostro 3510 La...,DELL,36990.0,14.12,4.0,33.0,4.0,8.0,512.0,SSD,Intel,Entry,11,0,0
+HP 2023 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5003TU Thin and Light L...,HP,36990.0,27.85,4.2,3102.0,221.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Lenovo IdeaPad Slim 1 (2024) AMD Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) 15ACL6 | ...,Lenovo,35990.0,34.67,4.2,4238.0,411.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+Acer Swift Go 14 OLED Intel Core Ultra 7 155H - (16 GB/1 TB SSD/Windows 11 Home) SFG14-73-71BY Thin an...,Acer,94990.0,12.05,4.7,9.0,3.0,16.0,1024.0,SSD,Intel,Ultra,0,0,0
+DELL Inspiron 3000 Intel Core i3 11th Gen 1115G4 - (8 GB/512 GB SSD/Windows 11 Home) 3511 Thin and Lig...,DELL,37990.0,34.83,4.1,1644.0,215.0,8.0,512.0,SSD,Intel,Entry,11,0,0
+MSI Katana GF66 Intel Core i7 12th Gen 12650H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA ...,MSI,85990.0,20.37,4.4,31.0,6.0,8.0,512.0,SSD,Intel,High,12,0,1
+Acer Extensa Intel Core i3 12th Gen N305 - (8 GB/256 GB SSD/Windows 11 Home) EX215-33 Thin and Light L...,Acer,31490.0,30.02,4.2,1066.0,109.0,8.0,256.0,SSD,Intel,Entry,12,0,0
+Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/256 GB SSD/Windows 11 Home) IN-N15I Thin ...,Thomson,27490.0,31.26,5.0,3.0,0.0,8.0,256.0,SSD,Intel,Entry,12,0,0
+MSI Cyborg 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA G...,MSI,54990.0,38.89,3.9,7.0,1.0,16.0,512.0,SSD,Intel,Mid,12,0,1
+HP Victus Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFor...,HP,61999.0,26.86,4.1,139.0,7.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+HP 15s Intel Core i5 12th Gen - (8 GB/512 GB SSD/Windows 11 Home) 15S-FQ5202TU Thin and Light Laptop,HP,47380.0,21.03,4.0,63.0,5.0,8.0,512.0,SSD,Intel,Mid,12,0,0
+MSI Thin 15 Intel Core i5 12th Gen 12450H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFo...,MSI,51990.0,23.53,4.2,112.0,15.0,8.0,512.0,SSD,Intel,Mid,12,0,1
+Thomson NEO Core Series Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin...,Thomson,43770.0,37.46,4.7,3.0,1.0,16.0,512.0,SSD,Intel,High,12,0,0
+Acer Aspire Lite Intel Core i7 12th Gen 1255U - (16 GB/1 TB SSD/Windows 11 Home) AL15-52 Thin and Ligh...,Acer,55990.0,27.28,0.0,0.0,0.0,16.0,1024.0,SSD,Intel,High,12,0,0
+MSI Pulse GL66 Intel Core i7 11th Gen 11800H - (16 GB/1 TB SSD/Windows 10 Home/6 GB Graphics/NVIDIA Ge...,MSI,93371.0,33.3,4.5,180.0,29.0,16.0,1024.0,SSD,Intel,High,11,0,1
+Lenovo ThinkPad E14 Intel Intel Core i5 12th Gen 1235U - (16 GB/1 TB SSD/Windows 11 Home) TP E14 Gen 4...,Lenovo,68990.0,43.86,3.8,17.0,1.0,16.0,1024.0,SSD,Intel,Mid,12,0,0
+HP Intel Core i3 12th Gen 1215U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fy5004TU Thin and Light Lapto...,HP,42990.0,18.46,4.2,5540.0,485.0,16.0,512.0,SSD,Intel,Entry,12,0,0
+MSI Thin 15 Intel Core i7 12th Gen 12650H - (8 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForc...,MSI,67990.0,19.05,0.0,0.0,0.0,8.0,1024.0,SSD,Intel,High,12,0,1
+HP 15s Intel Core i5 12th Gen 1240P - (8 GB/512 GB SSD/Windows 11 Home) 15s- fq5010TU Thin and Light L...,HP,53999.0,24.63,4.2,230.0,22.0,8.0,512.0,SSD,Intel,Mid,12,0,0
+Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home) 14IAH8 Thin a...,Lenovo,53390.0,23.61,3.8,53.0,5.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+HP (15s-fq5007TU) Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fq5327TU Thin a...,HP,38990.0,23.75,4.2,5540.0,485.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home) 15IAH8 Thin a...,Lenovo,54999.0,21.42,4.0,17.0,3.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+Vaio E Series AMD Ryzen 7 Quad Core 3700U - (8 GB/512 GB SSD/Windows 10 Home) NE15V2IN026P Thin and Li...,Vaio,45042.0,40.8,3.6,194.0,38.0,8.0,512.0,SSD,AMD,High,0,0,0
+ASUS VivoBook 15 Intel Core i3 10th Gen 1005G1 - (4 GB/1 TB HDD/Windows 10 Home) X515JA-BR381T Thin an...,ASUS,29880.0,27.1,3.7,4662.0,545.0,4.0,1024.0,HDD,Intel,Entry,10,0,0
+HP Victus Intel Core i5 11th Gen 11400H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForc...,HP,63990.0,17.1,4.4,407.0,55.0,8.0,512.0,SSD,Intel,Mid,11,0,0
+HP 2023 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5003TU Thin and Light L...,HP,36990.0,27.85,4.2,3102.0,221.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Lenovo IdeaPad Slim 1 (2024) AMD Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) 15ACL6 | ...,Lenovo,35990.0,34.67,4.2,4238.0,411.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+MSI Claw Intel Core Ultra 7 155H - (16 GB/1 TB SSD/Windows 11 Home) Claw A1M-217IN Handheld Gaming PC,MSI,74990.0,25.0,0.0,0.0,0.0,16.0,1024.0,SSD,Intel,Ultra,0,1,1
+Acer Aspire Lite Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) AL15-52 Thin and Lig...,Acer,41990.0,33.34,3.4,56.0,3.0,8.0,512.0,SSD,Intel,Mid,12,0,0
+Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/256 GB SSD/Windows 11 Home) IN-N15I Thin ...,Thomson,27490.0,31.26,5.0,3.0,0.0,8.0,256.0,SSD,Intel,Entry,12,0,0
+MSI Cyborg 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA G...,MSI,54990.0,38.89,3.9,7.0,1.0,16.0,512.0,SSD,Intel,Mid,12,0,1
+Lenovo IdeaPad Slim 5i Intel Core i5 11th Gen 1135G7 - (16 GB/512 GB SSD/Windows 11 Home) 82FG014DIN|8...,Lenovo,58790.0,39.94,4.3,1275.0,141.0,16.0,512.0,SSD,Intel,Mid,11,0,0
+ASUS VivoBook 14 AMD APU Quad Core A12 A12-9720P - (4 GB/1 TB HDD/Windows 10 Home) X411QA-EK002T Thin ...,ASUS,23990.0,15.14,3.9,1117.0,186.0,4.0,1024.0,HDD,AMD,Other,0,0,0
+HP Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) 15s- fr5011TU Thin and Light Lapt...,HP,50490.0,29.37,4.1,87.0,4.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+MSI Thin 15 Intel Core i5 12th Gen 12450H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFo...,MSI,51990.0,23.53,4.2,112.0,15.0,8.0,512.0,SSD,Intel,Mid,12,0,1
+Thomson NEO Core Series Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin...,Thomson,43770.0,37.46,4.7,3.0,1.0,16.0,512.0,SSD,Intel,High,12,0,0
+DELL Inspiron 5620 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Inspiron 5620 Lap...,DELL,61399.0,43.14,0.0,0.0,0.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+Acer Extensa 15 AMD Ryzen 3 Quad Core 7320U - (8 GB/512 GB SSD/Windows 11 Home) EX215-23 Thin and Ligh...,Acer,30990.0,31.13,4.3,231.0,26.0,8.0,512.0,SSD,AMD,Entry,0,0,0
+HP Intel Core i3 12th Gen 1215U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fy5004TU Thin and Light Lapto...,HP,42990.0,18.46,4.2,5540.0,485.0,16.0,512.0,SSD,Intel,Entry,12,0,0
+Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin ...,Thomson,28129.0,37.48,5.0,3.0,0.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+ASUS Zenbook 14 OLED (2024) Intel Core Ultra 7 155H - (16 GB/1 TB SSD/Windows 11 Home) UX3405MA-PZ752W...,ASUS,121990.0,13.48,3.2,5.0,1.0,16.0,1024.0,SSD,Intel,Ultra,0,0,0
+HP Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 14s - dy5008TU Thin and Light Lapt...,HP,36280.0,29.14,3.7,21.0,1.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+ASUS VivoBook 14 (2024) Intel Core i5 11th Gen 1135G7 - (8 GB/1 TB HDD/256 GB SSD/Windows 11 Home) X41...,ASUS,57099.0,21.77,4.2,756.0,63.0,8.0,256.0,SSD,Intel,Mid,11,0,0
+ASUS ROG Strix G16 (2024) Intel Core i9 14th Gen 14900HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphi...,ASUS,199990.0,16.67,0.0,0.0,0.0,16.0,1024.0,SSD,Intel,Ultra,14,1,0
+MSI Cyborg 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA G...,MSI,54990.0,38.89,3.9,7.0,1.0,16.0,512.0,SSD,Intel,Mid,12,0,1
+MSI Thin 15 Intel Core i7 12th Gen 12650H - (8 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForc...,MSI,67990.0,19.05,0.0,0.0,0.0,8.0,1024.0,SSD,Intel,High,12,0,1
+HP Victus Intel Core i5 12th Gen 12450H - (8 GB/512 GB SSD/Windows 11 Pro/4 GB Graphics/NVIDIA GeForce...,HP,56990.0,24.16,4.1,139.0,7.0,8.0,512.0,SSD,Intel,Mid,12,0,0
+ASUS TUF A15 AMD Ryzen 5 Hexa Core 7535HS - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeF...,ASUS,71990.0,12.2,0.0,0.0,0.0,16.0,512.0,SSD,AMD,Mid,0,1,0
+HP ENVY AMD Ryzen 5 Hexa Core 8640HS - (16 GB/512 GB SSD/Windows 11 Home) 14-fa0038AU Thin and Light L...,HP,84490.0,14.78,2.3,3.0,0.0,16.0,512.0,SSD,AMD,Mid,0,0,0
+ASUS TUF Gaming A15 (2024) AMD Ryzen 7 Octa Core 8845HS - (16 GB/512 GB SSD/Windows 11 Home/8 GB Graph...,ASUS,124990.0,13.2,0.0,0.0,0.0,16.0,512.0,SSD,AMD,High,0,1,0
+HP OMEN 16 AMD Ryzen 7 Octa Core 7840HS - (16 GB/512 GB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeFor...,HP,112990.0,21.88,4.9,8.0,0.0,16.0,512.0,SSD,AMD,High,0,0,0
+MSI Sword 16 HX Intel Core i7 14th Gen 14700HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA ...,MSI,154990.0,10.92,0.0,0.0,0.0,16.0,1024.0,SSD,Intel,High,14,0,1
+Infinix INBook X2 Plus Intel Core i3 11th Gen 1115G4 - (8 GB/256 GB SSD/Windows 11 Home) XL25 Thin and...,Infinix,32990.0,26.67,4.2,624.0,112.0,8.0,256.0,SSD,Intel,Entry,11,0,0
+Acer Extensa Intel Core i3 11th Gen 1115G4 - (8 GB/512 GB SSD/Windows 11 Home) EX 215-54/ EX 215-54-35...,Acer,32990.0,25.02,4.1,1198.0,110.0,8.0,512.0,SSD,Intel,Entry,11,0,0
+ASUS TUF Gaming A15 (2024) AMD Ryzen 9 Octa Core 8945H - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics...,ASUS,142990.0,16.86,0.0,0.0,0.0,16.0,1024.0,SSD,AMD,Ultra,0,1,0
+MSI Sword 16 HX Intel Core i7 14th Gen 14700HX - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA ...,MSI,124990.0,10.72,0.0,0.0,0.0,16.0,1024.0,SSD,Intel,High,14,0,1
+Lenovo Ideapad S145 AMD APU Dual Core A6 A6-9225 - (4 GB/1 TB HDD/Windows 10 Home) S145-15AST Laptop,Lenovo,25015.0,8.0,4.0,221.0,18.0,4.0,1024.0,HDD,AMD,Other,0,0,0
+ASUS TUF Gaming A15 AMD Ryzen 5 Hexa Core 7535HS - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVI...,ASUS,71990.0,12.2,0.0,0.0,0.0,16.0,512.0,SSD,AMD,Mid,0,1,0
+MSI Prestige 16 AI Studio Intel Core Ultra 9 185H - (32 GB/1 TB SSD/Windows 11 Home/8 GB Graphics) Pre...,MSI,189990.0,10.8,0.0,0.0,0.0,32.0,1024.0,SSD,Intel,Ultra,0,0,1
+HP ENVY AMD Ryzen 7 Octa Core 8840HS - (16 GB/512 GB SSD/Windows 11 Home) 14-fa0052AU Thin and Light L...,HP,94490.0,14.4,0.0,0.0,0.0,16.0,512.0,SSD,AMD,High,0,0,0
+Lenovo IdeaPad 3 Intel Intel Core i3 11th Gen 1115G4 - (8 GB/256 GB SSD/Windows 11 Home) IdeaPad 3 15I...,Lenovo,34990.0,43.19,4.3,854.0,98.0,8.0,256.0,SSD,Intel,Entry,11,0,0
+Lenovo IdeaPad 3 Intel Core i7 11th Gen - (16 GB/512 GB SSD/Windows 11 Home) 82H803HRIN Laptop,Lenovo,56990.0,27.67,4.5,10.0,2.0,16.0,512.0,SSD,Intel,High,11,0,0
+MSI Intel Core i3 10th Gen 10110U - (8 GB/256 GB SSD/Windows 10 Home) Modern 14 B10MW-658IN Thin and L...,MSI,30990.0,42.6,4.4,379.0,59.0,8.0,256.0,SSD,Intel,Entry,10,0,1
+Infinix X3 Slim Intel Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) XL422 Thin and...,Infinix,46990.0,32.86,4.3,123.0,14.0,16.0,512.0,SSD,Intel,High,12,0,0
+MSI Claw Intel Core Ultra 5 135H - (16 GB/512 GB SSD/Windows 11 Home) Claw A1M-219IN Handheld Gaming P...,MSI,64990.0,26.97,0.0,0.0,0.0,16.0,512.0,SSD,Intel,Ultra,0,1,1
+ASUS ROG Zephyrus G14 OLED (2024) AMD Ryzen 9 Octa Core 8945HS - (16 GB/1 TB SSD/Windows 11 Home/8 GB ...,ASUS,174990.0,8.85,0.0,0.0,0.0,16.0,1024.0,SSD,AMD,Ultra,0,1,0
+Lenovo Yoga Slim 6 WUXGA OLED Intel Core i7 13th Gen 13700H - (16 GB/512 GB SSD/Windows 11 Home) 14IRH...,Lenovo,91990.0,32.41,4.6,8.0,1.0,16.0,512.0,SSD,Intel,High,13,0,0
+ASUS VivoBook 15 (2024) Intel Core i5 10th Gen 1035G1 - (8 GB/512 GB SSD/Windows 11 Home) X515JA-BQ521...,ASUS,41990.0,35.39,4.3,640.0,60.0,8.0,512.0,SSD,Intel,Mid,10,0,0
+HP 2023 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5003TU Thin and Light L...,HP,36990.0,27.85,4.2,3102.0,221.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Lenovo IdeaPad Slim 1 (2024) AMD Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) 15ACL6 | ...,Lenovo,35990.0,34.67,4.2,4238.0,411.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+HP Intel Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) 15s-fq2627TU Thin and Light Laptop,HP,37890.0,22.66,0.0,0.0,0.0,8.0,512.0,SSD,Intel,Entry,11,0,0
+DELL Inspiron 5430 Intel Core i7 13th Gen 1360P - (16 GB/1 TB SSD/Windows 11 Home) Inspiron 5430 Thin ...,DELL,79990.0,25.1,3.8,17.0,1.0,16.0,1024.0,SSD,Intel,High,13,0,0
+Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/256 GB SSD/Windows 11 Home) IN-N15I Thin ...,Thomson,27490.0,31.26,5.0,3.0,0.0,8.0,256.0,SSD,Intel,Entry,12,0,0
+MSI Cyborg 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA G...,MSI,54990.0,38.89,3.9,7.0,1.0,16.0,512.0,SSD,Intel,Mid,12,0,1
+Avita Liber V14 AMD Ryzen 5 Quad Core 3500U - (8 GB/512 GB SSD/Windows 10 Home) NS14A8INV562-SBA Thin ...,Avita,42492.0,23.42,4.0,2590.0,490.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+HP Intel Celeron Dual Core N4500 - (8 GB/256 GB SSD/Windows 11 Home) 14s-dq3037tu Thin and Light Lapto...,HP,25846.0,30.08,3.8,611.0,53.0,8.0,256.0,SSD,Intel,Entry,0,0,0
+Infinix Zero Book Ultra AI PC Intel Core Ultra 7 155H - (16 GB/512 GB SSD/Windows 11 Home) ZL514 Thin ...,Infinix,69990.0,30.0,0.0,0.0,0.0,16.0,512.0,SSD,Intel,Ultra,0,0,0
+HP AMD Ryzen 3 Quad Core 5300U - (8 GB/512 GB SSD/Windows 11 Home) fq1089au Thin and Light Laptop,HP,36078.0,28.7,4.3,4029.0,466.0,8.0,512.0,SSD,AMD,Entry,0,0,0
+MSI Thin 15 Intel Core i5 12th Gen 12450H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFo...,MSI,51990.0,23.53,4.2,112.0,15.0,8.0,512.0,SSD,Intel,Mid,12,0,1
+Thomson NEO Core Series Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin...,Thomson,43770.0,37.46,4.7,3.0,1.0,16.0,512.0,SSD,Intel,High,12,0,0
+Lenovo ThinkPad E14 Intel Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) TP E14 Gen ...,Lenovo,47490.0,44.78,3.7,20.0,2.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+MSI GF63 Thin Intel Core i5 11th Gen 11400H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA Ge...,MSI,50990.0,21.54,4.4,1160.0,103.0,8.0,512.0,SSD,Intel,Mid,11,0,1
+HP Intel Core i3 12th Gen 1215U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fy5004TU Thin and Light Lapto...,HP,42990.0,18.46,4.2,5540.0,485.0,16.0,512.0,SSD,Intel,Entry,12,0,0
+Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin ...,Thomson,28129.0,37.48,5.0,3.0,0.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Avita Pura Intel Core i3 8th Gen 8145U - (4 GB/256 GB SSD/Windows 10 Home in S Mode) NS14A6INT441-MEGY...,Avita,24990.0,41.87,4.1,402.0,55.0,4.0,256.0,SSD,Intel,Entry,8,0,0
+HP Victus Intel Core i7 13th Gen 13620H - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeFor...,HP,94990.0,15.95,0.0,0.0,0.0,16.0,512.0,SSD,Intel,High,13,0,0
+ASUS Vivobook S 15 OLED (2023) Intel EVO H-Series Intel Core i5 13th Gen 13500H - (16 GB/512 GB SSD/Wi...,ASUS,76990.0,14.45,3.8,9.0,2.0,16.0,512.0,SSD,Intel,Other,0,0,0
+HP AMD Ryzen 5 Dual Core - (16 GB/512 GB SSD/DOS) 6E3Z2PA Laptop,HP,40399.0,32.67,0.0,0.0,0.0,16.0,512.0,SSD,AMD,Mid,0,0,0
+MSI Thin 15 Intel Core i7 12th Gen 12650H - (8 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForc...,MSI,67990.0,19.05,0.0,0.0,0.0,8.0,1024.0,SSD,Intel,High,12,0,1
+Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home) 14IAH8 Thin a...,Lenovo,53390.0,23.61,3.8,53.0,5.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+Lenovo Ideapad Slim 3 Intel Pentium Quad Core N100 - (4 GB/128 GB EMMC Storage/Chrome OS) 14IAN8 Chrom...,Lenovo,28190.0,23.17,4.0,7.0,3.0,4.0,128.0,EMMC,Intel,Entry,0,0,0
+Colorful P15 Intel Core i7 13th Gen 13620H - (16 GB/512 GB SSD/Windows 11 Home/8 GB Graphics/NVIDIA Ge...,Colorful,95990.0,31.44,4.3,9.0,4.0,16.0,512.0,SSD,Intel,High,13,0,0
+MSI Commercial 14 H Intel Core i5 13th Gen 13420H - (16 GB/512 GB SSD/Windows 11 Pro) Commercial 14 H ...,MSI,87990.0,11.11,0.0,0.0,0.0,16.0,512.0,SSD,Intel,Mid,13,0,1
+ASUS Chromebook Intel Celeron Dual Core N3350 - (4 GB/64 GB EMMC Storage/Chrome OS) C423NA-BV0523 Chro...,ASUS,19190.0,23.21,3.7,1565.0,221.0,4.0,64.0,EMMC,Intel,Entry,0,0,0
+HP 2023 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5003TU Thin and Light L...,HP,36990.0,27.85,4.2,3102.0,221.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+Lenovo IdeaPad Slim 1 (2024) AMD Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) 15ACL6 | ...,Lenovo,35990.0,34.67,4.2,4238.0,411.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+"ASUS Vivobook Pro 15 For Creator, AMD Ryzen 5 Hexa Core 5600HS - (8 GB/512 GB SSD/Windows 11 Home/4 GB...",ASUS,49600.0,35.58,4.4,1438.0,144.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+Acer Nitro AMD Ryzen 7 Octa Core 7735HS - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeFor...,Acer,74990.0,16.68,0.0,0.0,0.0,16.0,512.0,SSD,AMD,High,0,0,0
+Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/256 GB SSD/Windows 11 Home) IN-N15I Thin ...,Thomson,27490.0,31.26,5.0,3.0,0.0,8.0,256.0,SSD,Intel,Entry,12,0,0
+MSI Cyborg 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA G...,MSI,54990.0,38.89,3.9,7.0,1.0,16.0,512.0,SSD,Intel,Mid,12,0,1
+HP 15s AMD Ryzen 3 Dual Core 3250U - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home) 15s-GR0012AU Laptop,HP,43990.0,7.58,4.3,4624.0,518.0,8.0,256.0,SSD,AMD,Entry,0,0,0
+ASUS VivoBook K15 OLED (2024) AMD Ryzen 5 Hexa Core AMD R5-5500U - (8 GB/1 TB HDD/256 GB SSD/Windows 1...,ASUS,51990.0,34.18,4.5,608.0,78.0,8.0,256.0,SSD,AMD,Mid,0,0,0
+Lenovo IdeaPad 1 AMD Ryzen 5 Quad Core 3500U - (8 GB/512 GB SSD/Windows 11 Home) 15ADA7 Thin and Light...,Lenovo,35400.0,39.53,4.2,811.0,83.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+ASUS Vivobook Go 14 (2023) Intel Intel Core i3 12th Gen N305 - (8 GB/512 GB SSD/Windows 11 Home) E1404...,ASUS,34990.0,31.38,4.2,430.0,38.0,8.0,512.0,SSD,Intel,Entry,12,0,0
+MSI Thin 15 Intel Core i5 12th Gen 12450H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFo...,MSI,51990.0,23.53,4.2,112.0,15.0,8.0,512.0,SSD,Intel,Mid,12,0,1
+Thomson NEO Core Series Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin...,Thomson,43770.0,37.46,4.7,3.0,1.0,16.0,512.0,SSD,Intel,High,12,0,0
+DELL Intel Core i3 13th Gen 1305U - (8 GB/512 GB SSD/Windows 11 Home) Inspiron 3530 Thin and Light Lap...,DELL,40980.0,21.11,4.1,14.0,3.0,8.0,512.0,SSD,Intel,Entry,13,0,0
+HP Pavilion AMD Ryzen 5 Hexa Core AMD R5-5600H - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA...,HP,59960.0,18.47,4.3,148.0,19.0,8.0,512.0,SSD,AMD,Mid,0,0,0
+HP Intel Core i3 12th Gen 1215U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fy5004TU Thin and Light Lapto...,HP,42990.0,18.46,4.2,5540.0,485.0,16.0,512.0,SSD,Intel,Entry,12,0,0
+MSI Thin 15 Intel Core i7 12th Gen 12650H - (8 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForc...,MSI,67990.0,19.05,0.0,0.0,0.0,8.0,1024.0,SSD,Intel,High,12,0,1
+Acer Predator Helios 300 (2024) Intel Core i7 11th Gen 11800H - (16 GB/1 TB HDD/512 GB SSD/Windows 11 ...,Acer,77500.0,48.33,4.4,508.0,77.0,16.0,512.0,SSD,Intel,High,11,1,0
+Acer Swift Go 14 (2024) AI Powered EVO Intel Core Ultra 5 125H - (16 GB/512 GB SSD/Windows 11 Home) SF...,Acer,79990.0,38.47,4.1,108.0,16.0,16.0,512.0,SSD,Intel,Ultra,0,0,0
+Infinix X1 Slim Series (2024) Intel Core i3 10th Gen 1005G1 - (8 GB/256 GB SSD/Windows 11 Home) XL21 T...,Infinix,32990.0,34.02,4.3,3897.0,457.0,8.0,256.0,SSD,Intel,Entry,10,0,0
+Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home) 14IAH8 Thin a...,Lenovo,53390.0,23.61,3.8,53.0,5.0,16.0,512.0,SSD,Intel,Mid,12,0,0
+HP (15s-fq5007TU) Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fq5327TU Thin a...,HP,38990.0,23.75,4.2,5540.0,485.0,8.0,512.0,SSD,Intel,Entry,12,0,0
